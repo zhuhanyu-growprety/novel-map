@@ -12,7 +12,7 @@ import AboutPage from './pages/AboutPage';
 
 export default function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={import.meta.env.BASE_URL.replace(/\/$/, '') || undefined}>
       <Routes>
         <Route element={<Layout />}>
           <Route index element={<HomePage />} />
