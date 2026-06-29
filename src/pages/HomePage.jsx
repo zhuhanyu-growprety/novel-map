@@ -19,6 +19,9 @@ export default function HomePage() {
   const [placeholder] = useState(() => PLACEHOLDERS[Math.floor(Math.random() * PLACEHOLDERS.length)]);
   const sections = getHomeRecommendationSections();
   const chips = getQuickChips();
+  const maxQuickChips = 4;
+  const visibleChips = chips.slice(0, maxQuickChips);
+  const hiddenChipCount = Math.max(0, chips.length - maxQuickChips);
 
   const handleSearch = () => {
     if (!query.trim()) return;
@@ -66,17 +69,22 @@ export default function HomePage() {
               </button>
             </div>
 
-            <div className="flex flex-wrap gap-1.5 mt-3">
-              {chips.map((chip) => (
+            <div className="flex flex-nowrap items-center gap-1.5 mt-3 overflow-hidden">
+              {visibleChips.map((chip) => (
                 <button
                   key={chip.label}
                   type="button"
                   onClick={() => handleChip(chip)}
-                  className="px-2.5 py-1 text-xs border border-accent/25 text-accent rounded-full hover:bg-accent/10 hover:border-accent/50 transition-colors"
+                  className="px-2.5 py-1 text-xs border border-accent/25 text-accent rounded-full hover:bg-accent/10 hover:border-accent/50 transition-colors shrink-0"
                 >
                   {chip.label}
                 </button>
               ))}
+              {hiddenChipCount > 0 && (
+                <span className="px-2.5 py-1 text-xs border border-paper-dark text-ink-muted rounded-full shrink-0 bg-paper-dark/30">
+                  +{hiddenChipCount}
+                </span>
+              )}
             </div>
           </div>
 
@@ -103,6 +111,7 @@ export default function HomePage() {
                   <BookCard
                     key={book.id}
                     book={book}
+                    compactTags
                     onAddWantToRead={handleWantToRead}
                     isWantToRead={isWantToRead(book.id)}
                   />

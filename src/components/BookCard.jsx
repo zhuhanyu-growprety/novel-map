@@ -7,8 +7,12 @@ export default function BookCard({
   onAddWantToRead,
   showActions = true,
   isWantToRead = false,
+  compactTags = false,
 }) {
-  const badges = (book.frontDisplayBadges || []).slice(0, 5);
+  const allBadges = book.frontDisplayBadges || [];
+  const maxVisible = compactTags ? 2 : 5;
+  const visibleBadges = allBadges.slice(0, maxVisible);
+  const hiddenBadgeCount = compactTags ? Math.max(0, allBadges.length - maxVisible) : 0;
 
   return (
     <article className="bg-card rounded-xl border border-paper-dark/50 shadow-sm card-hover p-0 flex flex-col overflow-hidden">
@@ -30,10 +34,15 @@ export default function BookCard({
       </div>
 
       {/* 标签 */}
-      <div className="px-4 pb-2 flex flex-wrap gap-1">
-        {badges.map((b) => (
+      <div className={`px-4 pb-2 flex gap-1 ${compactTags ? 'flex-nowrap overflow-hidden items-center' : 'flex-wrap'}`}>
+        {visibleBadges.map((b) => (
           <Badge key={b}>{b}</Badge>
         ))}
+        {hiddenBadgeCount > 0 && (
+          <span className="inline-flex items-center px-2 py-0.5 text-xs font-medium rounded border shrink-0 bg-paper-dark/40 text-ink-muted border-paper-dark/60">
+            +{hiddenBadgeCount}
+          </span>
+        )}
       </div>
 
       {/* 元信息 + 评分 */}
