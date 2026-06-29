@@ -7,8 +7,9 @@ export default function BookCard({
   onAddWantToRead,
   showActions = true,
   isWantToRead = false,
+  badgeLimit = 5,
 }) {
-  const badges = (book.frontDisplayBadges || []).slice(0, 5);
+  const badges = (book.frontDisplayBadges || []).slice(0, badgeLimit);
 
   return (
     <article className="bg-card rounded-xl border border-paper-dark/50 shadow-sm card-hover p-0 flex flex-col overflow-hidden">

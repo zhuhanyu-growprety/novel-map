@@ -104,6 +104,7 @@ export default function HomePage() {
                   <BookCard
                     key={book.id}
                     book={book}
+                    badgeLimit={4}
                     onAddWantToRead={handleWantToRead}
                     isWantToRead={isWantToRead(book.id)}
                   />
