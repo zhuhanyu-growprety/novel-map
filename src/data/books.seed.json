@@ -5024,5 +5024,3605 @@
         "结局与争议口径需后续确认"
       ]
     }
+  },
+  {
+    "id": "book_031",
+    "title": "白日梦我",
+    "author": "栖见",
+    "platform": "晋江文学城",
+    "officialUrl": "",
+    "status": "已完结",
+    "frontDisplayBadges": [
+      "校园青春",
+      "酸涩回甜",
+      "CP张力强",
+      "强情绪",
+      "成长治愈"
+    ],
+    "hookSummary": "如果你想看校园里那种嘴硬、靠近、拉扯和慢慢被照亮的关系，这本适合放在青春酸甜区。它不是全程无脑甜，而是把少年人的锋利、脆弱和心动写得很有代入感。",
+    "basic": {
+      "categories": [
+        "现言",
+        "校园",
+        "青春",
+        "成长"
+      ],
+      "tags": [
+        "校园",
+        "青春",
+        "暗恋",
+        "强CP",
+        "酸涩",
+        "治愈",
+        "成长"
+      ],
+      "lengthType": "长篇",
+      "totalChapters": null,
+      "endingType": "HE/待核验",
+      "endingConfidence": "中"
+    },
+    "readerFit": {
+      "oneSentenceIntro": "一部校园青春气质很强的现言作品，适合喜欢酸甜拉扯、少年感和成长治愈的读者。",
+      "suitableFor": [
+        "喜欢校园青春",
+        "喜欢酸涩回甜",
+        "喜欢CP张力",
+        "喜欢情绪细腻的现言"
+      ],
+      "notSuitableFor": [
+        "只想看全程高甜",
+        "不喜欢校园文",
+        "不喜欢前期拉扯",
+        "想看强剧情悬疑"
+      ],
+      "readerTypes": [
+        "校园党",
+        "CP党",
+        "甜虐党",
+        "青春文读者"
+      ]
+    },
+    "readingExperience": {
+      "slowBurnLevel": 3,
+      "plotComplexity": 2,
+      "romanceWeight": 5,
+      "plotWeight": 3,
+      "emotionType": "酸甜、心动、青春、治愈",
+      "quitRisk": {
+        "range": "前10%-25%",
+        "reason": "前期需要适应人物性格、校园氛围和情绪拉扯，不是开局直接全糖。"
+      },
+      "stickUntil": {
+        "displayText": "建议至少读到两人关系从试探变成稳定牵引的位置，再判断是否继续。",
+        "chapter": null,
+        "progressRange": "10%-25%",
+        "confidence": "低"
+      }
+    },
+    "dropDecision": {
+      "ifAtBeginning": "刚开始读不下去时，先判断自己是不是不吃校园青春和酸涩拉扯；如果只是觉得前期还没甜起来，可以继续。",
+      "ifAtQuitRiskRange": "如果卡在前10%-25%的关系磨合期，建议再看到两人互动明显升温，因为这类文的爽点往往在细节回甜。",
+      "safeToDropAfter": "如果读到25%左右仍不喜欢人物性格、校园氛围或关系推进方式，可以合理放弃。"
+    },
+    "highlightMap": [
+      {
+        "progressRange": "前10%",
+        "chapterRange": "待核验",
+        "type": "校园氛围建立",
+        "spoilerFreeText": "前期重点是建立人物性格、校园环境和彼此之间不太直白的吸引力，适合喜欢青春氛围的人慢慢进入。",
+        "lightSpoilerText": "主角之间的关系不是一开始就甜，而是先有性格碰撞和距离感。",
+        "emotion": [
+          "好奇",
+          "心动",
+          "酸涩"
+        ],
+        "importance": 4,
+        "confidence": "中"
+      },
+      {
+        "progressRange": "10%-25%",
+        "chapterRange": "待核验",
+        "type": "关系升温",
+        "spoilerFreeText": "校园日常里的关注、试探和嘴硬会逐渐变得明显，心动感开始从细节里冒出来。",
+        "lightSpoilerText": "两人会在相处中逐渐形成更稳定的情绪牵引。",
+        "emotion": [
+          "暧昧",
+          "期待",
+          "上头"
+        ],
+        "importance": 5,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "25%-50%",
+        "chapterRange": "待核验",
+        "type": "情绪推进",
+        "spoilerFreeText": "中段的看点在于关系不只是甜，还会带出成长、脆弱和互相靠近的理由。",
+        "lightSpoilerText": "人物的过去、性格防线和当下选择会让关系更有重量。",
+        "emotion": [
+          "心疼",
+          "心动",
+          "治愈"
+        ],
+        "importance": 5,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "50%-75%",
+        "chapterRange": "待核验",
+        "type": "感情确认",
+        "spoilerFreeText": "前期压着的心动和试探逐渐进入更明确的回应，甜度和安全感都会变强。",
+        "lightSpoilerText": "关系会从暧昧和拉扯走向更明确的双向选择。",
+        "emotion": [
+          "甜",
+          "释然",
+          "满足"
+        ],
+        "importance": 5,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "后25%",
+        "chapterRange": "待核验",
+        "type": "成长收束",
+        "spoilerFreeText": "后期更像青春成长的落点：心动有回应，人物也在关系里变得更稳定。",
+        "lightSpoilerText": "前期的情绪铺垫会在后期形成更完整的关系回报。",
+        "emotion": [
+          "治愈",
+          "满足",
+          "回甜"
+        ],
+        "importance": 4,
+        "confidence": "低"
+      }
+    ],
+    "expectationWarnings": {
+      "slowBurn": "中等慢热",
+      "abuseLevel": "轻微/中等",
+      "misunderstandingLevel": "轻微",
+      "endingConcern": "结局口径待核验",
+      "controversy": "主要争议可能在人物性格接受度、校园文口味和前期拉扯节奏",
+      "otherWarnings": [
+        "不是全程无脑甜",
+        "更偏青春情绪和关系细节",
+        "章节节点待核验"
+      ]
+    },
+    "routes": {
+      "forTrialReader": "建议先读到关系线、情绪钩子或第一个明显转折出现后再判断，不要只凭开局几章决定。",
+      "forPlotReader": "剧情党重点看人物选择、成长压力和关系变化；这类作品通常不靠强悬疑或大世界观取胜。",
+      "forCPReader": "适合关注CP关系、暗恋、拉扯、回甜或救赎感的读者，建议重点看日常互动和情绪递进。",
+      "ifYouWantToDrop": "如果读到建议坚持区间后仍不吃人物性格、关系设定或情绪基调，可以合理放弃。"
+    },
+    "verification": {
+      "basicInfo": "中",
+      "chapterNodes": "低",
+      "readerDiscussion": "中",
+      "notes": [
+        "基础信息需平台核验",
+        "章节节点待人工核验",
+        "高光描述为不剧透类型化表达，不包含小说正文"
+      ]
+    }
+  },
+  {
+    "id": "book_032",
+    "title": "她的小梨涡",
+    "author": "唧唧的猫",
+    "platform": "晋江文学城",
+    "officialUrl": "",
+    "status": "已完结",
+    "frontDisplayBadges": [
+      "校园甜文",
+      "甜文低门槛",
+      "CP张力强",
+      "青春治愈",
+      "开局易入"
+    ],
+    "hookSummary": "如果你想找一本轻松、甜、校园氛围浓的文，这本适合做低门槛入口。它的看点不是复杂剧情，而是少年少女之间的心动、靠近和明亮感。",
+    "basic": {
+      "categories": [
+        "现言",
+        "校园",
+        "甜文",
+        "青春"
+      ],
+      "tags": [
+        "校园",
+        "甜文",
+        "青春",
+        "心动",
+        "治愈",
+        "CP",
+        "轻松"
+      ],
+      "lengthType": "中篇",
+      "totalChapters": null,
+      "endingType": "HE/待核验",
+      "endingConfidence": "中"
+    },
+    "readerFit": {
+      "oneSentenceIntro": "一部轻松甜向的校园现言，适合想快速获得青春心动和甜文满足感的读者。",
+      "suitableFor": [
+        "喜欢校园甜文",
+        "喜欢轻松恋爱",
+        "喜欢青春心动",
+        "想看低门槛现言"
+      ],
+      "notSuitableFor": [
+        "想看复杂剧情",
+        "不喜欢甜文",
+        "不喜欢校园日常",
+        "想看强虐强情绪"
+      ],
+      "readerTypes": [
+        "甜文党",
+        "校园党",
+        "CP党",
+        "轻松向读者"
+      ]
+    },
+    "readingExperience": {
+      "slowBurnLevel": 1,
+      "plotComplexity": 1,
+      "romanceWeight": 5,
+      "plotWeight": 2,
+      "emotionType": "甜、轻松、青春、治愈",
+      "quitRisk": {
+        "range": "前10%",
+        "reason": "如果读者不喜欢校园甜文或轻剧情，开局就可能觉得不够有主线压力。"
+      },
+      "stickUntil": {
+        "displayText": "建议至少读到两人稳定互动、甜感明显的位置再判断。",
+        "chapter": null,
+        "progressRange": "前10%",
+        "confidence": "低"
+      }
+    },
+    "dropDecision": {
+      "ifAtBeginning": "刚开始觉得平淡时，先判断自己是不是想看轻松甜文；如果你想要强剧情，这本可能不对口。",
+      "ifAtQuitRiskRange": "如果处在开局适应期，建议再看到两人互动稳定后判断甜度是否合适。",
+      "safeToDropAfter": "如果到前10%-15%仍不喜欢校园甜文和轻松日常，可以合理放弃。"
+    },
+    "highlightMap": [
+      {
+        "progressRange": "前10%",
+        "chapterRange": "待核验",
+        "type": "校园甜感建立",
+        "spoilerFreeText": "开局很快建立校园氛围和人物反差，适合想轻松进入甜文的人。",
+        "lightSpoilerText": "前期主要是人物相遇、校园日常和心动感的建立。",
+        "emotion": [
+          "轻松",
+          "可爱",
+          "心动"
+        ],
+        "importance": 4,
+        "confidence": "中"
+      },
+      {
+        "progressRange": "10%-25%",
+        "chapterRange": "待核验",
+        "type": "互动升温",
+        "spoilerFreeText": "两人的互动会从普通同学关系变得更有牵引，甜点主要藏在日常接触里。",
+        "lightSpoilerText": "男主的在意感和女主的心动感会逐渐明显。",
+        "emotion": [
+          "甜",
+          "暧昧",
+          "期待"
+        ],
+        "importance": 5,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "25%-50%",
+        "chapterRange": "待核验",
+        "type": "关系确认前",
+        "spoilerFreeText": "中段主要看两人如何在校园环境里靠近，关系甜度和青春感都会增强。",
+        "lightSpoilerText": "关系会逐渐从心动走向更明确的双向。",
+        "emotion": [
+          "甜",
+          "上头",
+          "满足"
+        ],
+        "importance": 5,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "50%-75%",
+        "chapterRange": "待核验",
+        "type": "甜文兑现",
+        "spoilerFreeText": "甜文兑现感更明显，适合喜欢校园CP稳定互动的人。",
+        "lightSpoilerText": "双向关系会进入更稳定、更甜的阶段。",
+        "emotion": [
+          "甜",
+          "治愈",
+          "安心"
+        ],
+        "importance": 4,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "后25%",
+        "chapterRange": "待核验",
+        "type": "青春收束",
+        "spoilerFreeText": "后期偏向把校园心动和成长落到更圆满的状态，整体阅读体验轻松。",
+        "lightSpoilerText": "校园关系和青春情绪会进入收束。",
+        "emotion": [
+          "满足",
+          "轻松",
+          "释然"
+        ],
+        "importance": 4,
+        "confidence": "低"
+      }
+    ],
+    "expectationWarnings": {
+      "slowBurn": "不算慢热",
+      "abuseLevel": "低",
+      "misunderstandingLevel": "轻微",
+      "endingConcern": "结局口径待核验",
+      "controversy": "主要争议可能在剧情较轻、甜文套路和校园口味",
+      "otherWarnings": [
+        "剧情主线较轻",
+        "甜文属性强",
+        "章节节点待核验"
+      ]
+    },
+    "routes": {
+      "forTrialReader": "建议先读到关系线、情绪钩子或第一个明显转折出现后再判断，不要只凭开局几章决定。",
+      "forPlotReader": "剧情党重点看人物选择、成长压力和关系变化；这类作品通常不靠强悬疑或大世界观取胜。",
+      "forCPReader": "适合关注CP关系、暗恋、拉扯、回甜或救赎感的读者，建议重点看日常互动和情绪递进。",
+      "ifYouWantToDrop": "如果读到建议坚持区间后仍不吃人物性格、关系设定或情绪基调，可以合理放弃。"
+    },
+    "verification": {
+      "basicInfo": "中",
+      "chapterNodes": "低",
+      "readerDiscussion": "中",
+      "notes": [
+        "基础信息需平台核验",
+        "章节节点待人工核验",
+        "高光描述为不剧透类型化表达，不包含小说正文"
+      ]
+    }
+  },
+  {
+    "id": "book_033",
+    "title": "酸梅",
+    "author": "黄三_",
+    "platform": "晋江文学城",
+    "officialUrl": "",
+    "status": "已完结",
+    "frontDisplayBadges": [
+      "酸涩青春",
+      "强情绪",
+      "CP张力强",
+      "成长治愈",
+      "慢热后劲型"
+    ],
+    "hookSummary": "如果你喜欢那种青春里不够完美、带刺、带伤又很难忘的关系，这本会比较对口。它不是纯甜校园，而是更偏酸涩、成长和情绪后劲。",
+    "basic": {
+      "categories": [
+        "现言",
+        "校园",
+        "青春",
+        "情绪向"
+      ],
+      "tags": [
+        "校园",
+        "青春",
+        "酸涩",
+        "成长",
+        "强情绪",
+        "CP",
+        "救赎"
+      ],
+      "lengthType": "中篇",
+      "totalChapters": null,
+      "endingType": "HE/待核验",
+      "endingConfidence": "中"
+    },
+    "readerFit": {
+      "oneSentenceIntro": "一部酸涩感比较强的青春现言，适合喜欢情绪后劲、人物成长和不完美关系的读者。",
+      "suitableFor": [
+        "喜欢酸涩青春",
+        "喜欢强情绪",
+        "喜欢成长治愈",
+        "喜欢有后劲的CP"
+      ],
+      "notSuitableFor": [
+        "只想看轻松甜文",
+        "不喜欢青春伤痛感",
+        "不喜欢慢热情绪铺垫",
+        "想看复杂大主线"
+      ],
+      "readerTypes": [
+        "青春文读者",
+        "甜虐党",
+        "CP党",
+        "情绪党"
+      ]
+    },
+    "readingExperience": {
+      "slowBurnLevel": 4,
+      "plotComplexity": 2,
+      "romanceWeight": 5,
+      "plotWeight": 3,
+      "emotionType": "酸涩、压抑、心动、治愈",
+      "quitRisk": {
+        "range": "前10%-25%",
+        "reason": "前期情绪不是轻松甜，人物关系和青春处境可能带有酸涩和压抑感。"
+      },
+      "stickUntil": {
+        "displayText": "建议至少读到人物关系背后的情绪原因逐渐浮出后再判断。",
+        "chapter": null,
+        "progressRange": "10%-25%",
+        "confidence": "低"
+      }
+    },
+    "dropDecision": {
+      "ifAtBeginning": "如果开局觉得情绪偏酸，先判断自己是否能接受青春伤痛和慢热情绪线。",
+      "ifAtQuitRiskRange": "如果卡在前10%-25%，建议再看到人物关系更明确、情绪原因更清楚的位置。",
+      "safeToDropAfter": "如果中段前仍完全不吃酸涩青春和人物性格，可以合理放弃。"
+    },
+    "highlightMap": [
+      {
+        "progressRange": "前10%",
+        "chapterRange": "待核验",
+        "type": "青春处境建立",
+        "spoilerFreeText": "前期主要建立人物性格、青春环境和关系里的刺感，氛围比普通甜文更酸。",
+        "lightSpoilerText": "主角之间的吸引力会伴随防备、误解或情绪拉扯出现。",
+        "emotion": [
+          "酸涩",
+          "好奇",
+          "压抑"
+        ],
+        "importance": 4,
+        "confidence": "中"
+      },
+      {
+        "progressRange": "10%-25%",
+        "chapterRange": "待核验",
+        "type": "关系牵引",
+        "spoilerFreeText": "关系牵引感变强，读者会逐渐理解为什么他们靠近，也为什么不容易靠近。",
+        "lightSpoilerText": "人物的防线和心动会同时推进。",
+        "emotion": [
+          "心动",
+          "心疼",
+          "期待"
+        ],
+        "importance": 5,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "25%-50%",
+        "chapterRange": "待核验",
+        "type": "情绪爆发",
+        "spoilerFreeText": "中段更适合情绪党，人物的选择、伤口和在意感会变得更明显。",
+        "lightSpoilerText": "关系中的酸涩感会和人物成长线更紧密地绑定。",
+        "emotion": [
+          "心疼",
+          "压抑",
+          "上头"
+        ],
+        "importance": 5,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "50%-75%",
+        "chapterRange": "待核验",
+        "type": "回甜与成长",
+        "spoilerFreeText": "前期的酸涩逐渐转向修复和回甜，人物也不只是恋爱，而是在关系里成长。",
+        "lightSpoilerText": "两人关系会朝更清晰和更稳定的方向推进。",
+        "emotion": [
+          "治愈",
+          "释然",
+          "甜"
+        ],
+        "importance": 4,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "后25%",
+        "chapterRange": "待核验",
+        "type": "情绪收束",
+        "spoilerFreeText": "后期会把青春里的遗憾、心动和成长做一个收束，适合喜欢后劲的人。",
+        "lightSpoilerText": "前期情绪线会在后期得到更完整的回应。",
+        "emotion": [
+          "释然",
+          "满足",
+          "回甜"
+        ],
+        "importance": 4,
+        "confidence": "低"
+      }
+    ],
+    "expectationWarnings": {
+      "slowBurn": "明显慢热",
+      "abuseLevel": "中等/待核验",
+      "misunderstandingLevel": "轻微/中等",
+      "endingConcern": "结局口径待核验",
+      "controversy": "主要争议可能在情绪压抑、人物选择和青春伤痛接受度",
+      "otherWarnings": [
+        "不是纯甜校园",
+        "酸涩和压抑感较明显",
+        "章节节点待核验"
+      ]
+    },
+    "routes": {
+      "forTrialReader": "建议先读到关系线、情绪钩子或第一个明显转折出现后再判断，不要只凭开局几章决定。",
+      "forPlotReader": "剧情党重点看人物选择、成长压力和关系变化；这类作品通常不靠强悬疑或大世界观取胜。",
+      "forCPReader": "适合关注CP关系、暗恋、拉扯、回甜或救赎感的读者，建议重点看日常互动和情绪递进。",
+      "ifYouWantToDrop": "如果读到建议坚持区间后仍不吃人物性格、关系设定或情绪基调，可以合理放弃。"
+    },
+    "verification": {
+      "basicInfo": "中",
+      "chapterNodes": "低",
+      "readerDiscussion": "中",
+      "notes": [
+        "基础信息需平台核验",
+        "章节节点待人工核验",
+        "高光描述为不剧透类型化表达，不包含小说正文"
+      ]
+    }
+  },
+  {
+    "id": "book_034",
+    "title": "告白",
+    "author": "应橙",
+    "platform": "晋江文学城",
+    "officialUrl": "",
+    "status": "已完结",
+    "frontDisplayBadges": [
+      "暗恋成真",
+      "校园青春",
+      "酸涩回甜",
+      "CP张力强",
+      "甜文低门槛"
+    ],
+    "hookSummary": "如果你想看暗恋、试探、靠近和最终被回应的那种满足感，这本很适合。它的看点是青春里的小心翼翼和后期回甜，而不是复杂大剧情。",
+    "basic": {
+      "categories": [
+        "现言",
+        "校园",
+        "暗恋",
+        "甜文"
+      ],
+      "tags": [
+        "暗恋",
+        "校园",
+        "青春",
+        "甜文",
+        "酸涩",
+        "CP",
+        "成长"
+      ],
+      "lengthType": "中篇",
+      "totalChapters": null,
+      "endingType": "HE/待核验",
+      "endingConfidence": "中"
+    },
+    "readerFit": {
+      "oneSentenceIntro": "一部以暗恋和青春心动为核心的现言，适合喜欢酸甜回响和告白兑现感的读者。",
+      "suitableFor": [
+        "喜欢暗恋成真",
+        "喜欢校园青春",
+        "喜欢酸甜恋爱",
+        "喜欢CP兑现感"
+      ],
+      "notSuitableFor": [
+        "不喜欢暗恋视角",
+        "想看强剧情反转",
+        "不喜欢校园日常",
+        "只想看成人都市强情节"
+      ],
+      "readerTypes": [
+        "暗恋文读者",
+        "甜文党",
+        "校园党",
+        "CP党"
+      ]
+    },
+    "readingExperience": {
+      "slowBurnLevel": 3,
+      "plotComplexity": 2,
+      "romanceWeight": 5,
+      "plotWeight": 2,
+      "emotionType": "酸甜、心动、青春、回甜",
+      "quitRisk": {
+        "range": "前10%-25%",
+        "reason": "暗恋文前期需要接受小心翼翼和情绪铺垫，甜度不会立刻全部释放。"
+      },
+      "stickUntil": {
+        "displayText": "建议至少读到两人互动变多、暗恋被回应可能性更明显的位置。",
+        "chapter": null,
+        "progressRange": "10%-25%",
+        "confidence": "低"
+      }
+    },
+    "dropDecision": {
+      "ifAtBeginning": "刚开始觉得慢时，先判断自己是否喜欢暗恋视角和校园小心动。",
+      "ifAtQuitRiskRange": "如果卡在前10%-25%的暗恋铺垫期，建议继续看到互动明显增加后再判断。",
+      "safeToDropAfter": "如果到25%左右仍不喜欢暗恋、校园和轻剧情，可以放弃。"
+    },
+    "highlightMap": [
+      {
+        "progressRange": "前10%",
+        "chapterRange": "待核验",
+        "type": "暗恋氛围建立",
+        "spoilerFreeText": "前期看点是暗恋的细节感：在意、观察、试探和因为一点回应就反复心动。",
+        "lightSpoilerText": "女主的喜欢会先以细节和心理活动的方式呈现。",
+        "emotion": [
+          "酸甜",
+          "心动",
+          "期待"
+        ],
+        "importance": 4,
+        "confidence": "中"
+      },
+      {
+        "progressRange": "10%-25%",
+        "chapterRange": "待核验",
+        "type": "互动增多",
+        "spoilerFreeText": "两人交集变多后，暗恋不再只是单向小心思，而开始有了被看见的可能。",
+        "lightSpoilerText": "男主的回应感会逐渐增强。",
+        "emotion": [
+          "暧昧",
+          "心动",
+          "上头"
+        ],
+        "importance": 5,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "25%-50%",
+        "chapterRange": "待核验",
+        "type": "关系升温",
+        "spoilerFreeText": "中段是酸甜感最明显的部分，靠近、误会和心动都会更集中。",
+        "lightSpoilerText": "关系会逐渐从暗恋走向更明确的双向牵引。",
+        "emotion": [
+          "甜",
+          "酸涩",
+          "期待"
+        ],
+        "importance": 5,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "50%-75%",
+        "chapterRange": "待核验",
+        "type": "告白兑现",
+        "spoilerFreeText": "前期积累的暗恋情绪进入回应阶段，适合喜欢告白和双向奔赴兑现感的读者。",
+        "lightSpoilerText": "暗恋会得到更明确的关系回应。",
+        "emotion": [
+          "甜",
+          "满足",
+          "释然"
+        ],
+        "importance": 5,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "后25%",
+        "chapterRange": "待核验",
+        "type": "甜文收束",
+        "spoilerFreeText": "后期偏向稳定回甜和青春收束，整体阅读体验轻松满足。",
+        "lightSpoilerText": "关系会进入更稳定的甜文节奏。",
+        "emotion": [
+          "治愈",
+          "满足",
+          "轻松"
+        ],
+        "importance": 4,
+        "confidence": "低"
+      }
+    ],
+    "expectationWarnings": {
+      "slowBurn": "中等慢热",
+      "abuseLevel": "低",
+      "misunderstandingLevel": "轻微",
+      "endingConcern": "结局口径待核验",
+      "controversy": "主要争议可能在暗恋节奏、剧情较轻和校园口味",
+      "otherWarnings": [
+        "更偏恋爱情绪",
+        "剧情主线较轻",
+        "章节节点待核验"
+      ]
+    },
+    "routes": {
+      "forTrialReader": "建议先读到关系线、情绪钩子或第一个明显转折出现后再判断，不要只凭开局几章决定。",
+      "forPlotReader": "剧情党重点看人物选择、成长压力和关系变化；这类作品通常不靠强悬疑或大世界观取胜。",
+      "forCPReader": "适合关注CP关系、暗恋、拉扯、回甜或救赎感的读者，建议重点看日常互动和情绪递进。",
+      "ifYouWantToDrop": "如果读到建议坚持区间后仍不吃人物性格、关系设定或情绪基调，可以合理放弃。"
+    },
+    "verification": {
+      "basicInfo": "中",
+      "chapterNodes": "低",
+      "readerDiscussion": "中",
+      "notes": [
+        "基础信息需平台核验",
+        "章节节点待人工核验",
+        "高光描述为不剧透类型化表达，不包含小说正文"
+      ]
+    }
+  },
+  {
+    "id": "book_035",
+    "title": "他笑时风华正茂",
+    "author": "舒远",
+    "platform": "晋江文学城",
+    "officialUrl": "",
+    "status": "已完结",
+    "frontDisplayBadges": [
+      "青春暗恋",
+      "酸涩回甜",
+      "校园青春",
+      "CP张力强",
+      "慢热后劲型"
+    ],
+    "hookSummary": "如果你喜欢青春里那种多年以后还会想起的心动和遗憾，这本适合放在酸涩青春区。它的吸引力不靠强剧情，而靠氛围、暗恋和时间感。",
+    "basic": {
+      "categories": [
+        "现言",
+        "校园",
+        "暗恋",
+        "青春"
+      ],
+      "tags": [
+        "暗恋",
+        "校园",
+        "青春",
+        "酸涩",
+        "成长",
+        "CP",
+        "时间感"
+      ],
+      "lengthType": "中篇",
+      "totalChapters": null,
+      "endingType": "HE/待核验",
+      "endingConfidence": "中"
+    },
+    "readerFit": {
+      "oneSentenceIntro": "一部氛围感较强的青春暗恋文，适合喜欢酸涩心动、慢热关系和校园回忆感的读者。",
+      "suitableFor": [
+        "喜欢青春暗恋",
+        "喜欢酸涩回忆感",
+        "喜欢慢热CP",
+        "喜欢校园氛围"
+      ],
+      "notSuitableFor": [
+        "只想看快节奏甜文",
+        "不喜欢暗恋拉扯",
+        "想看复杂强剧情",
+        "不喜欢青春伤感"
+      ],
+      "readerTypes": [
+        "暗恋文读者",
+        "青春文读者",
+        "CP党",
+        "甜虐党"
+      ]
+    },
+    "readingExperience": {
+      "slowBurnLevel": 4,
+      "plotComplexity": 2,
+      "romanceWeight": 5,
+      "plotWeight": 2,
+      "emotionType": "酸涩、心动、青春、回忆感",
+      "quitRisk": {
+        "range": "前10%-25%",
+        "reason": "前期以校园氛围和暗恋情绪为主，强剧情推进较弱。"
+      },
+      "stickUntil": {
+        "displayText": "建议至少读到暗恋情绪和人物牵引感都明显的位置。",
+        "chapter": null,
+        "progressRange": "10%-25%",
+        "confidence": "低"
+      }
+    },
+    "dropDecision": {
+      "ifAtBeginning": "如果觉得开局慢，先看自己是否喜欢氛围型青春暗恋，而不是强事件推动。",
+      "ifAtQuitRiskRange": "如果卡在前10%-25%，建议继续到两人关系牵引更明显的位置。",
+      "safeToDropAfter": "如果到25%左右仍不喜欢暗恋氛围和青春酸涩感，可以放弃。"
+    },
+    "highlightMap": [
+      {
+        "progressRange": "前10%",
+        "chapterRange": "待核验",
+        "type": "青春氛围建立",
+        "spoilerFreeText": "前期主要营造校园、少年感和暗恋氛围，适合喜欢慢慢进入关系的人。",
+        "lightSpoilerText": "人物之间的心动更多藏在观察、靠近和细节里。",
+        "emotion": [
+          "酸涩",
+          "心动",
+          "怀旧"
+        ],
+        "importance": 4,
+        "confidence": "中"
+      },
+      {
+        "progressRange": "10%-25%",
+        "chapterRange": "待核验",
+        "type": "暗恋牵引",
+        "spoilerFreeText": "暗恋感更明显后，读者会开始期待他们每一次靠近和错过。",
+        "lightSpoilerText": "关系牵引会在日常细节里逐渐增强。",
+        "emotion": [
+          "期待",
+          "酸甜",
+          "上头"
+        ],
+        "importance": 5,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "25%-50%",
+        "chapterRange": "待核验",
+        "type": "情绪加深",
+        "spoilerFreeText": "中段更偏情绪流，青春里的自尊、心动和不确定会让关系更有后劲。",
+        "lightSpoilerText": "人物关系会在试探和成长中变得更清楚。",
+        "emotion": [
+          "心疼",
+          "心动",
+          "酸涩"
+        ],
+        "importance": 5,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "50%-75%",
+        "chapterRange": "待核验",
+        "type": "关系回应",
+        "spoilerFreeText": "前期的暗恋和错过逐渐走向回应，甜感会在酸涩之后出现。",
+        "lightSpoilerText": "关系会逐渐从暗恋和拉扯走向更明确的回应。",
+        "emotion": [
+          "甜",
+          "释然",
+          "满足"
+        ],
+        "importance": 4,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "后25%",
+        "chapterRange": "待核验",
+        "type": "青春收束",
+        "spoilerFreeText": "后期会把青春心动、时间感和关系结果做收束，适合喜欢回味的人。",
+        "lightSpoilerText": "前期的暗恋情绪会在后期形成更完整的回响。",
+        "emotion": [
+          "释然",
+          "怀旧",
+          "回甜"
+        ],
+        "importance": 4,
+        "confidence": "低"
+      }
+    ],
+    "expectationWarnings": {
+      "slowBurn": "明显慢热",
+      "abuseLevel": "轻微/中等",
+      "misunderstandingLevel": "轻微/待核验",
+      "endingConcern": "结局口径待核验",
+      "controversy": "主要争议可能在节奏慢、强剧情弱和青春伤感接受度",
+      "otherWarnings": [
+        "氛围大于强情节",
+        "暗恋酸涩感较明显",
+        "章节节点待核验"
+      ]
+    },
+    "routes": {
+      "forTrialReader": "建议先读到关系线、情绪钩子或第一个明显转折出现后再判断，不要只凭开局几章决定。",
+      "forPlotReader": "剧情党重点看人物选择、成长压力和关系变化；这类作品通常不靠强悬疑或大世界观取胜。",
+      "forCPReader": "适合关注CP关系、暗恋、拉扯、回甜或救赎感的读者，建议重点看日常互动和情绪递进。",
+      "ifYouWantToDrop": "如果读到建议坚持区间后仍不吃人物性格、关系设定或情绪基调，可以合理放弃。"
+    },
+    "verification": {
+      "basicInfo": "中",
+      "chapterNodes": "低",
+      "readerDiscussion": "中",
+      "notes": [
+        "基础信息需平台核验",
+        "章节节点待人工核验",
+        "高光描述为不剧透类型化表达，不包含小说正文"
+      ]
+    }
+  },
+  {
+    "id": "book_036",
+    "title": "这么多年",
+    "author": "八月长安",
+    "platform": "待核验",
+    "officialUrl": "",
+    "status": "已完结",
+    "frontDisplayBadges": [
+      "青春成长",
+      "现实青春",
+      "强情绪",
+      "慢热后劲型",
+      "酸涩回甜"
+    ],
+    "hookSummary": "如果你喜欢青春不是只有甜，还包含现实、选择和很多年后的回望，这本适合。它更像一段成长路程，而不是单纯校园恋爱。",
+    "basic": {
+      "categories": [
+        "现言",
+        "青春",
+        "成长",
+        "现实向"
+      ],
+      "tags": [
+        "青春",
+        "成长",
+        "现实向",
+        "酸涩",
+        "时间跨度",
+        "情绪向",
+        "校园"
+      ],
+      "lengthType": "长篇",
+      "totalChapters": null,
+      "endingType": "HE/待核验",
+      "endingConfidence": "中"
+    },
+    "readerFit": {
+      "oneSentenceIntro": "一部现实感和成长感都较强的青春现言，适合喜欢时间跨度、遗憾和自我成长的读者。",
+      "suitableFor": [
+        "喜欢现实青春",
+        "喜欢成长线",
+        "喜欢酸涩情绪",
+        "喜欢八月长安式校园宇宙"
+      ],
+      "notSuitableFor": [
+        "只想看轻松甜文",
+        "不喜欢现实压力",
+        "不喜欢慢热成长",
+        "想看强爽感恋爱"
+      ],
+      "readerTypes": [
+        "青春文读者",
+        "成长线读者",
+        "情绪党",
+        "现实向读者"
+      ]
+    },
+    "readingExperience": {
+      "slowBurnLevel": 5,
+      "plotComplexity": 3,
+      "romanceWeight": 4,
+      "plotWeight": 4,
+      "emotionType": "现实、酸涩、成长、回望",
+      "quitRisk": {
+        "range": "前10%-25%",
+        "reason": "前期更偏人物处境、青春环境和成长压力，恋爱爽点不会很快释放。"
+      },
+      "stickUntil": {
+        "displayText": "建议至少读到人物成长压力和关系牵引都展开的位置。",
+        "chapter": null,
+        "progressRange": "10%-25%",
+        "confidence": "低"
+      }
+    },
+    "dropDecision": {
+      "ifAtBeginning": "如果开局觉得慢，先判断自己是否愿意看现实青春和成长线，而不是只等甜文互动。",
+      "ifAtQuitRiskRange": "如果卡在前10%-25%，建议继续到人物处境和关系选择更清楚的位置。",
+      "safeToDropAfter": "如果到25%左右仍不喜欢现实青春和慢热成长，可以合理放弃。"
+    },
+    "highlightMap": [
+      {
+        "progressRange": "前10%",
+        "chapterRange": "待核验",
+        "type": "现实青春建立",
+        "spoilerFreeText": "前期先建立人物处境、校园环境和现实压力，青春感里带着不轻松的底色。",
+        "lightSpoilerText": "人物成长环境和现实压力会持续影响后续选择。",
+        "emotion": [
+          "酸涩",
+          "代入",
+          "压抑"
+        ],
+        "importance": 4,
+        "confidence": "中"
+      },
+      {
+        "progressRange": "10%-25%",
+        "chapterRange": "待核验",
+        "type": "关系牵引",
+        "spoilerFreeText": "关系线逐渐变得清楚，但它的甜和痛都和人物成长处境绑在一起。",
+        "lightSpoilerText": "人物之间的靠近会受到现实条件和自我选择影响。",
+        "emotion": [
+          "心动",
+          "心疼",
+          "期待"
+        ],
+        "importance": 5,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "25%-50%",
+        "chapterRange": "待核验",
+        "type": "成长压力",
+        "spoilerFreeText": "中段更能看出成长线的重量，青春不只是恋爱，也是离开原有处境、寻找自己的过程。",
+        "lightSpoilerText": "人物会面对更明确的成长压力和人生选择。",
+        "emotion": [
+          "心疼",
+          "成长",
+          "压抑"
+        ],
+        "importance": 5,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "50%-75%",
+        "chapterRange": "待核验",
+        "type": "时间回响",
+        "spoilerFreeText": "随着时间推进，早期的选择和遗憾会产生回响，阅读后劲增强。",
+        "lightSpoilerText": "早期青春阶段的关系和选择会在后续得到重新审视。",
+        "emotion": [
+          "怀旧",
+          "酸涩",
+          "释然"
+        ],
+        "importance": 4,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "后25%",
+        "chapterRange": "待核验",
+        "type": "成长收束",
+        "spoilerFreeText": "后期重点在人物和关系的成熟收束，比起单纯甜，更像对青春和自我的回应。",
+        "lightSpoilerText": "人物成长线会在后期形成较完整的落点。",
+        "emotion": [
+          "释然",
+          "治愈",
+          "回望"
+        ],
+        "importance": 4,
+        "confidence": "低"
+      }
+    ],
+    "expectationWarnings": {
+      "slowBurn": "非常慢热",
+      "abuseLevel": "中等",
+      "misunderstandingLevel": "轻微/中等",
+      "endingConcern": "结局口径待核验",
+      "controversy": "主要争议可能在现实感、节奏慢和情绪压抑接受度",
+      "otherWarnings": [
+        "不是纯甜校园",
+        "现实压力较明显",
+        "章节节点待核验"
+      ]
+    },
+    "routes": {
+      "forTrialReader": "建议先读到关系线、情绪钩子或第一个明显转折出现后再判断，不要只凭开局几章决定。",
+      "forPlotReader": "剧情党重点看人物选择、成长压力和关系变化；这类作品通常不靠强悬疑或大世界观取胜。",
+      "forCPReader": "适合关注CP关系、暗恋、拉扯、回甜或救赎感的读者，建议重点看日常互动和情绪递进。",
+      "ifYouWantToDrop": "如果读到建议坚持区间后仍不吃人物性格、关系设定或情绪基调，可以合理放弃。"
+    },
+    "verification": {
+      "basicInfo": "中",
+      "chapterNodes": "低",
+      "readerDiscussion": "中",
+      "notes": [
+        "基础信息需平台核验",
+        "章节节点待人工核验",
+        "高光描述为不剧透类型化表达，不包含小说正文"
+      ]
+    }
+  },
+  {
+    "id": "book_037",
+    "title": "橘生淮南·暗恋",
+    "author": "八月长安",
+    "platform": "待核验",
+    "officialUrl": "",
+    "status": "已完结",
+    "frontDisplayBadges": [
+      "暗恋天花板",
+      "校园青春",
+      "酸涩回甜",
+      "慢热后劲型",
+      "强情绪"
+    ],
+    "hookSummary": "如果你想看暗恋里最典型的自我拉扯、仰望、错过和成长，这本很适合。它的重点不是甜得很快，而是把暗恋里的卑微、骄傲和漫长心事写出来。",
+    "basic": {
+      "categories": [
+        "现言",
+        "校园",
+        "暗恋",
+        "青春"
+      ],
+      "tags": [
+        "暗恋",
+        "校园",
+        "青春",
+        "酸涩",
+        "成长",
+        "时间跨度",
+        "情绪向"
+      ],
+      "lengthType": "长篇",
+      "totalChapters": null,
+      "endingType": "HE/待核验",
+      "endingConfidence": "中"
+    },
+    "readerFit": {
+      "oneSentenceIntro": "一部以漫长暗恋和青春成长为核心的现言，适合喜欢细腻心理、酸涩心事和时间跨度的读者。",
+      "suitableFor": [
+        "喜欢暗恋文",
+        "喜欢校园青春",
+        "喜欢酸涩心理描写",
+        "喜欢慢热后劲"
+      ],
+      "notSuitableFor": [
+        "只想看快速甜宠",
+        "不喜欢暗恋卑微感",
+        "不喜欢大量心理活动",
+        "想看强剧情爽文"
+      ],
+      "readerTypes": [
+        "暗恋文读者",
+        "青春文读者",
+        "情绪党",
+        "慢热读者"
+      ]
+    },
+    "readingExperience": {
+      "slowBurnLevel": 5,
+      "plotComplexity": 3,
+      "romanceWeight": 5,
+      "plotWeight": 3,
+      "emotionType": "酸涩、漫长、心动、成长",
+      "quitRisk": {
+        "range": "前10%-25%",
+        "reason": "暗恋情绪铺垫很重，甜度不是即时释放，容易劝退只想看高甜的人。"
+      },
+      "stickUntil": {
+        "displayText": "建议至少读到暗恋心事和现实交集都展开的位置，再判断是否继续。",
+        "chapter": null,
+        "progressRange": "10%-25%",
+        "confidence": "低"
+      }
+    },
+    "dropDecision": {
+      "ifAtBeginning": "如果开局觉得太酸或太慢，先判断自己是否愿意看长线暗恋心理。",
+      "ifAtQuitRiskRange": "如果卡在前10%-25%，建议继续到两人现实交集和情绪牵引更明显的位置。",
+      "safeToDropAfter": "如果到25%左右仍不喜欢暗恋心理和酸涩节奏，可以合理放弃。"
+    },
+    "highlightMap": [
+      {
+        "progressRange": "前10%",
+        "chapterRange": "待核验",
+        "type": "暗恋心事建立",
+        "spoilerFreeText": "前期重点是暗恋者的心理、仰望和自我拉扯，酸涩感很快就会出现。",
+        "lightSpoilerText": "女主的喜欢更像长期藏起来的心事，而不是直接表达。",
+        "emotion": [
+          "酸涩",
+          "心动",
+          "压抑"
+        ],
+        "importance": 5,
+        "confidence": "中"
+      },
+      {
+        "progressRange": "10%-25%",
+        "chapterRange": "待核验",
+        "type": "现实交集",
+        "spoilerFreeText": "当暗恋对象和现实生活产生更多交集，读者会看到暗恋不只是想象，也会被现实反复验证和刺痛。",
+        "lightSpoilerText": "两人的交集会逐渐让暗恋从单向心事变成更复杂的关系。",
+        "emotion": [
+          "期待",
+          "心疼",
+          "上头"
+        ],
+        "importance": 5,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "25%-50%",
+        "chapterRange": "待核验",
+        "type": "成长与错过",
+        "spoilerFreeText": "中段的后劲来自成长、错过和自我认知，暗恋线会变得更有现实重量。",
+        "lightSpoilerText": "人物会在关系和自我之间反复做选择。",
+        "emotion": [
+          "遗憾",
+          "成长",
+          "酸涩"
+        ],
+        "importance": 5,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "50%-75%",
+        "chapterRange": "待核验",
+        "type": "关系回应",
+        "spoilerFreeText": "前期漫长心事逐渐走向回应或重新理解，阅读会从酸涩转向释然。",
+        "lightSpoilerText": "暗恋中的误读、距离和真实感情会逐渐被重新看见。",
+        "emotion": [
+          "释然",
+          "心动",
+          "回甜"
+        ],
+        "importance": 5,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "后25%",
+        "chapterRange": "待核验",
+        "type": "暗恋收束",
+        "spoilerFreeText": "后期会给漫长暗恋一个更成熟的落点，适合喜欢情绪后劲的人。",
+        "lightSpoilerText": "暗恋线会在后期形成更完整的回应。",
+        "emotion": [
+          "满足",
+          "释然",
+          "回望"
+        ],
+        "importance": 4,
+        "confidence": "低"
+      }
+    ],
+    "expectationWarnings": {
+      "slowBurn": "非常慢热",
+      "abuseLevel": "中等",
+      "misunderstandingLevel": "中等/待核验",
+      "endingConcern": "结局口径待核验",
+      "controversy": "主要争议可能在暗恋卑微感、慢热和心理描写接受度",
+      "otherWarnings": [
+        "暗恋心理较重",
+        "前期酸涩感明显",
+        "章节节点待核验"
+      ]
+    },
+    "routes": {
+      "forTrialReader": "建议先读到关系线、情绪钩子或第一个明显转折出现后再判断，不要只凭开局几章决定。",
+      "forPlotReader": "剧情党重点看人物选择、成长压力和关系变化；这类作品通常不靠强悬疑或大世界观取胜。",
+      "forCPReader": "适合关注CP关系、暗恋、拉扯、回甜或救赎感的读者，建议重点看日常互动和情绪递进。",
+      "ifYouWantToDrop": "如果读到建议坚持区间后仍不吃人物性格、关系设定或情绪基调，可以合理放弃。"
+    },
+    "verification": {
+      "basicInfo": "中",
+      "chapterNodes": "低",
+      "readerDiscussion": "中",
+      "notes": [
+        "基础信息需平台核验",
+        "章节节点待人工核验",
+        "高光描述为不剧透类型化表达，不包含小说正文"
+      ]
+    }
+  },
+  {
+    "id": "book_038",
+    "title": "你好，旧时光",
+    "author": "八月长安",
+    "platform": "待核验",
+    "officialUrl": "",
+    "status": "已完结",
+    "frontDisplayBadges": [
+      "校园青春",
+      "成长治愈",
+      "慢热后劲型",
+      "青春群像",
+      "酸涩回甜"
+    ],
+    "hookSummary": "如果你喜欢校园生活里那种成长、朋友、遗憾和回忆感，这本适合。它不只是恋爱，也是在写一个人怎么穿过青春变成自己。",
+    "basic": {
+      "categories": [
+        "现言",
+        "校园",
+        "青春",
+        "成长"
+      ],
+      "tags": [
+        "校园",
+        "青春",
+        "成长",
+        "群像",
+        "怀旧",
+        "治愈",
+        "酸涩"
+      ],
+      "lengthType": "长篇",
+      "totalChapters": null,
+      "endingType": "HE/待核验",
+      "endingConfidence": "中"
+    },
+    "readerFit": {
+      "oneSentenceIntro": "一部校园成长气质浓的青春文，适合喜欢怀旧感、人物成长和群像青春的读者。",
+      "suitableFor": [
+        "喜欢校园青春",
+        "喜欢成长线",
+        "喜欢青春群像",
+        "喜欢怀旧氛围"
+      ],
+      "notSuitableFor": [
+        "只想看纯恋爱甜文",
+        "不喜欢慢热日常",
+        "想看强冲突爽文",
+        "不喜欢青春回忆感"
+      ],
+      "readerTypes": [
+        "青春文读者",
+        "成长线读者",
+        "校园党",
+        "情绪党"
+      ]
+    },
+    "readingExperience": {
+      "slowBurnLevel": 5,
+      "plotComplexity": 3,
+      "romanceWeight": 3,
+      "plotWeight": 4,
+      "emotionType": "怀旧、成长、酸涩、治愈",
+      "quitRisk": {
+        "range": "前10%-25%",
+        "reason": "前期更偏校园日常、人物成长和氛围建立，恋爱线不是唯一主轴。"
+      },
+      "stickUntil": {
+        "displayText": "建议至少读到人物成长线和青春群像都展开的位置。",
+        "chapter": null,
+        "progressRange": "10%-25%",
+        "confidence": "低"
+      }
+    },
+    "dropDecision": {
+      "ifAtBeginning": "如果开局觉得慢，先判断自己是否想看青春成长而不只是恋爱甜文。",
+      "ifAtQuitRiskRange": "如果卡在前10%-25%，建议继续到人物成长和校园群像更明显的位置。",
+      "safeToDropAfter": "如果到25%左右仍不喜欢校园日常和成长叙事，可以合理放弃。"
+    },
+    "highlightMap": [
+      {
+        "progressRange": "前10%",
+        "chapterRange": "待核验",
+        "type": "校园生活建立",
+        "spoilerFreeText": "前期主要建立校园环境、人物性格和青春记忆感，节奏不急但氛围稳定。",
+        "lightSpoilerText": "作品会先让读者进入主角的成长环境，而不是直接推进恋爱。",
+        "emotion": [
+          "怀旧",
+          "温柔",
+          "代入"
+        ],
+        "importance": 4,
+        "confidence": "中"
+      },
+      {
+        "progressRange": "10%-25%",
+        "chapterRange": "待核验",
+        "type": "成长线展开",
+        "spoilerFreeText": "人物之间的关系和校园选择逐渐变多，青春不只是美好，也会有比较、失落和努力。",
+        "lightSpoilerText": "主角的成长线会比单纯恋爱更重要。",
+        "emotion": [
+          "成长",
+          "酸涩",
+          "期待"
+        ],
+        "importance": 5,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "25%-50%",
+        "chapterRange": "待核验",
+        "type": "青春群像",
+        "spoilerFreeText": "中段更能体现群像感，朋友、学业、选择和关系会共同构成青春记忆。",
+        "lightSpoilerText": "多个青春关系和个人选择会在中段更集中出现。",
+        "emotion": [
+          "怀旧",
+          "心疼",
+          "治愈"
+        ],
+        "importance": 5,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "50%-75%",
+        "chapterRange": "待核验",
+        "type": "选择与遗憾",
+        "spoilerFreeText": "成长意味着选择，也意味着有些东西会错过，这一阶段的情绪后劲会更明显。",
+        "lightSpoilerText": "人物会面对更清楚的成长代价和关系变化。",
+        "emotion": [
+          "遗憾",
+          "成长",
+          "释然"
+        ],
+        "importance": 4,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "后25%",
+        "chapterRange": "待核验",
+        "type": "青春回望",
+        "spoilerFreeText": "后期更像对青春的回望和收束，适合喜欢成长感和怀旧感的读者。",
+        "lightSpoilerText": "前期校园记忆会在后期形成更完整的情绪回应。",
+        "emotion": [
+          "释然",
+          "治愈",
+          "回望"
+        ],
+        "importance": 4,
+        "confidence": "低"
+      }
+    ],
+    "expectationWarnings": {
+      "slowBurn": "非常慢热",
+      "abuseLevel": "轻微/中等",
+      "misunderstandingLevel": "轻微",
+      "endingConcern": "结局口径待核验",
+      "controversy": "主要争议可能在恋爱占比、慢热和青春日常接受度",
+      "otherWarnings": [
+        "不是纯恋爱文",
+        "成长线和群像更重要",
+        "章节节点待核验"
+      ]
+    },
+    "routes": {
+      "forTrialReader": "建议先读到关系线、情绪钩子或第一个明显转折出现后再判断，不要只凭开局几章决定。",
+      "forPlotReader": "剧情党重点看人物选择、成长压力和关系变化；这类作品通常不靠强悬疑或大世界观取胜。",
+      "forCPReader": "适合关注CP关系、暗恋、拉扯、回甜或救赎感的读者，建议重点看日常互动和情绪递进。",
+      "ifYouWantToDrop": "如果读到建议坚持区间后仍不吃人物性格、关系设定或情绪基调，可以合理放弃。"
+    },
+    "verification": {
+      "basicInfo": "中",
+      "chapterNodes": "低",
+      "readerDiscussion": "中",
+      "notes": [
+        "基础信息需平台核验",
+        "章节节点待人工核验",
+        "高光描述为不剧透类型化表达，不包含小说正文"
+      ]
+    }
+  },
+  {
+    "id": "book_039",
+    "title": "最好的我们",
+    "author": "八月长安",
+    "platform": "待核验",
+    "officialUrl": "",
+    "status": "已完结",
+    "frontDisplayBadges": [
+      "校园青春",
+      "暗恋成真",
+      "青春治愈",
+      "酸涩回甜",
+      "开局易入"
+    ],
+    "hookSummary": "如果你想看一段很有校园代入感的青春关系，这本是低门槛入口。它的吸引力在于同桌、成长、错过和多年后仍能被记住的心动。",
+    "basic": {
+      "categories": [
+        "现言",
+        "校园",
+        "青春",
+        "暗恋"
+      ],
+      "tags": [
+        "校园",
+        "同桌",
+        "青春",
+        "暗恋",
+        "成长",
+        "酸甜",
+        "治愈"
+      ],
+      "lengthType": "长篇",
+      "totalChapters": null,
+      "endingType": "HE/待核验",
+      "endingConfidence": "中"
+    },
+    "readerFit": {
+      "oneSentenceIntro": "一部校园代入感很强的青春现言，适合喜欢同桌、暗恋、成长和酸甜回忆的读者。",
+      "suitableFor": [
+        "喜欢校园青春",
+        "喜欢同桌设定",
+        "喜欢酸甜成长",
+        "喜欢低门槛现言"
+      ],
+      "notSuitableFor": [
+        "想看复杂强剧情",
+        "不喜欢青春怀旧",
+        "不喜欢校园文",
+        "只想看成人都市恋爱"
+      ],
+      "readerTypes": [
+        "校园党",
+        "青春文读者",
+        "暗恋文读者",
+        "CP党"
+      ]
+    },
+    "readingExperience": {
+      "slowBurnLevel": 3,
+      "plotComplexity": 2,
+      "romanceWeight": 4,
+      "plotWeight": 3,
+      "emotionType": "青春、酸甜、怀旧、治愈",
+      "quitRisk": {
+        "range": "前10%-25%",
+        "reason": "如果读者不喜欢校园日常和青春怀旧感，前期可能会觉得平淡。"
+      },
+      "stickUntil": {
+        "displayText": "建议至少读到同桌关系和青春成长线都稳定展开的位置。",
+        "chapter": null,
+        "progressRange": "10%-25%",
+        "confidence": "低"
+      }
+    },
+    "dropDecision": {
+      "ifAtBeginning": "刚开始觉得慢时，先判断自己是否喜欢校园同桌和青春回忆感。",
+      "ifAtQuitRiskRange": "如果卡在前10%-25%，建议继续到两人关系和成长线更明显的位置。",
+      "safeToDropAfter": "如果到25%左右仍不吃校园日常和青春酸甜，可以合理放弃。"
+    },
+    "highlightMap": [
+      {
+        "progressRange": "前10%",
+        "chapterRange": "待核验",
+        "type": "同桌氛围建立",
+        "spoilerFreeText": "前期的看点是校园、同桌和少年少女之间自然产生的熟悉感，代入门槛低。",
+        "lightSpoilerText": "两人关系会从日常相处和同桌互动中慢慢建立。",
+        "emotion": [
+          "轻松",
+          "怀旧",
+          "心动"
+        ],
+        "importance": 4,
+        "confidence": "中"
+      },
+      {
+        "progressRange": "10%-25%",
+        "chapterRange": "待核验",
+        "type": "关系升温",
+        "spoilerFreeText": "同桌关系带来的陪伴感和默契会增强，青春心动开始变得更明显。",
+        "lightSpoilerText": "校园日常中的陪伴和在意会逐渐推动关系。",
+        "emotion": [
+          "甜",
+          "心动",
+          "期待"
+        ],
+        "importance": 5,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "25%-50%",
+        "chapterRange": "待核验",
+        "type": "成长与选择",
+        "spoilerFreeText": "中段不仅是心动，也会出现学习、成长和未来选择带来的距离感。",
+        "lightSpoilerText": "人物会面对青春阶段常见的成长和选择压力。",
+        "emotion": [
+          "酸涩",
+          "成长",
+          "心疼"
+        ],
+        "importance": 5,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "50%-75%",
+        "chapterRange": "待核验",
+        "type": "青春错位",
+        "spoilerFreeText": "青春里没有说清的部分会带来后劲，关系不只是甜，也会有错过和遗憾感。",
+        "lightSpoilerText": "关系中的错过、时间和成长会成为后半段重要情绪。",
+        "emotion": [
+          "遗憾",
+          "酸涩",
+          "期待"
+        ],
+        "importance": 4,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "后25%",
+        "chapterRange": "待核验",
+        "type": "回忆收束",
+        "spoilerFreeText": "后期更像对青春关系的回望，适合喜欢怀旧和酸甜收束的人。",
+        "lightSpoilerText": "青春阶段的关系会在后期得到更成熟的回应。",
+        "emotion": [
+          "释然",
+          "治愈",
+          "满足"
+        ],
+        "importance": 4,
+        "confidence": "低"
+      }
+    ],
+    "expectationWarnings": {
+      "slowBurn": "中等慢热",
+      "abuseLevel": "轻微",
+      "misunderstandingLevel": "轻微/待核验",
+      "endingConcern": "结局口径待核验",
+      "controversy": "主要争议可能在校园日常、青春遗憾和改编印象差异",
+      "otherWarnings": [
+        "偏青春怀旧",
+        "强剧情密度不高",
+        "章节节点待核验"
+      ]
+    },
+    "routes": {
+      "forTrialReader": "建议先读到关系线、情绪钩子或第一个明显转折出现后再判断，不要只凭开局几章决定。",
+      "forPlotReader": "剧情党重点看人物选择、成长压力和关系变化；这类作品通常不靠强悬疑或大世界观取胜。",
+      "forCPReader": "适合关注CP关系、暗恋、拉扯、回甜或救赎感的读者，建议重点看日常互动和情绪递进。",
+      "ifYouWantToDrop": "如果读到建议坚持区间后仍不吃人物性格、关系设定或情绪基调，可以合理放弃。"
+    },
+    "verification": {
+      "basicInfo": "中",
+      "chapterNodes": "低",
+      "readerDiscussion": "中",
+      "notes": [
+        "基础信息需平台核验",
+        "章节节点待人工核验",
+        "高光描述为不剧透类型化表达，不包含小说正文"
+      ]
+    }
+  },
+  {
+    "id": "book_040",
+    "title": "暗格里的秘密",
+    "author": "耳东兔子",
+    "platform": "晋江文学城",
+    "officialUrl": "",
+    "status": "已完结",
+    "frontDisplayBadges": [
+      "校园暗恋",
+      "甜文低门槛",
+      "CP张力强",
+      "青春治愈",
+      "开局易入"
+    ],
+    "hookSummary": "如果你想看校园暗恋和双向靠近，这本适合。它的吸引力在于暗恋的细节、少年感和关系逐渐被照亮的过程。",
+    "basic": {
+      "categories": [
+        "现言",
+        "校园",
+        "暗恋",
+        "甜文"
+      ],
+      "tags": [
+        "校园",
+        "暗恋",
+        "甜文",
+        "青春",
+        "双向奔赴",
+        "CP",
+        "成长"
+      ],
+      "lengthType": "中篇",
+      "totalChapters": null,
+      "endingType": "HE/待核验",
+      "endingConfidence": "中"
+    },
+    "readerFit": {
+      "oneSentenceIntro": "一部以校园暗恋和青春心动为核心的现言，适合喜欢甜文低门槛和CP代入感的读者。",
+      "suitableFor": [
+        "喜欢校园暗恋",
+        "喜欢甜文",
+        "喜欢少年感",
+        "喜欢双向靠近"
+      ],
+      "notSuitableFor": [
+        "想看强剧情",
+        "不喜欢校园日常",
+        "不喜欢暗恋线",
+        "想看强虐文"
+      ],
+      "readerTypes": [
+        "校园党",
+        "甜文党",
+        "暗恋文读者",
+        "CP党"
+      ]
+    },
+    "readingExperience": {
+      "slowBurnLevel": 2,
+      "plotComplexity": 2,
+      "romanceWeight": 5,
+      "plotWeight": 2,
+      "emotionType": "甜、暗恋、青春、治愈",
+      "quitRisk": {
+        "range": "前10%",
+        "reason": "如果读者不喜欢校园暗恋或轻剧情，开局可能会觉得不够有事件压力。"
+      },
+      "stickUntil": {
+        "displayText": "建议至少读到两人互动和暗恋氛围都明显的位置。",
+        "chapter": null,
+        "progressRange": "前10%-15%",
+        "confidence": "低"
+      }
+    },
+    "dropDecision": {
+      "ifAtBeginning": "如果刚开始觉得轻，先判断自己是否想看校园暗恋和甜文，而不是强剧情。",
+      "ifAtQuitRiskRange": "如果处在前10%的适应期，建议看到互动变多再判断甜度。",
+      "safeToDropAfter": "如果到前15%-20%仍不喜欢校园暗恋，可以合理放弃。"
+    },
+    "highlightMap": [
+      {
+        "progressRange": "前10%",
+        "chapterRange": "待核验",
+        "type": "暗恋钩子",
+        "spoilerFreeText": "前期用校园日常和暗恋细节建立心动感，适合喜欢少年感的人。",
+        "lightSpoilerText": "暗恋情绪会通过日常互动和细节在意逐渐出现。",
+        "emotion": [
+          "心动",
+          "甜",
+          "期待"
+        ],
+        "importance": 4,
+        "confidence": "中"
+      },
+      {
+        "progressRange": "10%-25%",
+        "chapterRange": "待核验",
+        "type": "互动升温",
+        "spoilerFreeText": "互动变多后，关系开始从单向关注走向更明显的双向牵引。",
+        "lightSpoilerText": "两人之间的在意感会逐渐变得清楚。",
+        "emotion": [
+          "甜",
+          "暧昧",
+          "上头"
+        ],
+        "importance": 5,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "25%-50%",
+        "chapterRange": "待核验",
+        "type": "双向靠近",
+        "spoilerFreeText": "中段的爽点是暗恋逐渐被回应，双向靠近带来稳定甜感。",
+        "lightSpoilerText": "关系会从暗恋状态逐步进入更明确的双向阶段。",
+        "emotion": [
+          "满足",
+          "心动",
+          "治愈"
+        ],
+        "importance": 5,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "50%-75%",
+        "chapterRange": "待核验",
+        "type": "甜文兑现",
+        "spoilerFreeText": "关系更稳定后，甜文兑现感增强，适合喜欢青春甜宠的人。",
+        "lightSpoilerText": "两人关系会进入更稳定、更甜的节奏。",
+        "emotion": [
+          "甜",
+          "安心",
+          "满足"
+        ],
+        "importance": 4,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "后25%",
+        "chapterRange": "待核验",
+        "type": "青春收束",
+        "spoilerFreeText": "后期偏向把青春心动和成长做圆满收束，整体阅读体验轻松。",
+        "lightSpoilerText": "校园和关系线会在后期形成更完整的落点。",
+        "emotion": [
+          "治愈",
+          "轻松",
+          "释然"
+        ],
+        "importance": 4,
+        "confidence": "低"
+      }
+    ],
+    "expectationWarnings": {
+      "slowBurn": "轻微慢热",
+      "abuseLevel": "低",
+      "misunderstandingLevel": "轻微",
+      "endingConcern": "结局口径待核验",
+      "controversy": "主要争议可能在剧情较轻和校园甜文口味",
+      "otherWarnings": [
+        "主打恋爱甜感",
+        "强剧情较少",
+        "章节节点待核验"
+      ]
+    },
+    "routes": {
+      "forTrialReader": "建议先读到关系线、情绪钩子或第一个明显转折出现后再判断，不要只凭开局几章决定。",
+      "forPlotReader": "剧情党重点看人物选择、成长压力和关系变化；这类作品通常不靠强悬疑或大世界观取胜。",
+      "forCPReader": "适合关注CP关系、暗恋、拉扯、回甜或救赎感的读者，建议重点看日常互动和情绪递进。",
+      "ifYouWantToDrop": "如果读到建议坚持区间后仍不吃人物性格、关系设定或情绪基调，可以合理放弃。"
+    },
+    "verification": {
+      "basicInfo": "中",
+      "chapterNodes": "低",
+      "readerDiscussion": "中",
+      "notes": [
+        "基础信息需平台核验",
+        "章节节点待人工核验",
+        "高光描述为不剧透类型化表达，不包含小说正文"
+      ]
+    }
+  },
+  {
+    "id": "book_041",
+    "title": "陷入我们的热恋",
+    "author": "耳东兔子",
+    "platform": "晋江文学城",
+    "officialUrl": "",
+    "status": "已完结",
+    "frontDisplayBadges": [
+      "现言热恋",
+      "CP张力强",
+      "甜文低门槛",
+      "青春治愈",
+      "开局上头型"
+    ],
+    "hookSummary": "如果你想看更直接的心动、靠近和热恋氛围，这本适合放在甜文推荐区。它的重点不是烧脑剧情，而是两个人之间的吸引力和情绪升温。",
+    "basic": {
+      "categories": [
+        "现言",
+        "青春",
+        "甜文",
+        "恋爱"
+      ],
+      "tags": [
+        "热恋",
+        "甜文",
+        "青春",
+        "CP",
+        "心动",
+        "暧昧",
+        "治愈"
+      ],
+      "lengthType": "中篇",
+      "totalChapters": null,
+      "endingType": "HE/待核验",
+      "endingConfidence": "中"
+    },
+    "readerFit": {
+      "oneSentenceIntro": "一部主打热恋感和CP吸引力的现言作品，适合喜欢快速心动和甜度兑现的读者。",
+      "suitableFor": [
+        "喜欢热恋氛围",
+        "喜欢CP张力",
+        "喜欢甜文",
+        "喜欢轻松心动"
+      ],
+      "notSuitableFor": [
+        "想看强剧情悬疑",
+        "不喜欢甜文",
+        "不喜欢恋爱占比高",
+        "想看慢热现实向"
+      ],
+      "readerTypes": [
+        "甜文党",
+        "CP党",
+        "现言读者",
+        "轻松向读者"
+      ]
+    },
+    "readingExperience": {
+      "slowBurnLevel": 2,
+      "plotComplexity": 2,
+      "romanceWeight": 5,
+      "plotWeight": 2,
+      "emotionType": "心动、甜、暧昧、热烈",
+      "quitRisk": {
+        "range": "前10%",
+        "reason": "如果读者不喜欢恋爱占比很高或偏甜的现言，开局就可能觉得不对口。"
+      },
+      "stickUntil": {
+        "displayText": "建议至少读到两人吸引力和互动模式都稳定出现的位置。",
+        "chapter": null,
+        "progressRange": "前10%-15%",
+        "confidence": "低"
+      }
+    },
+    "dropDecision": {
+      "ifAtBeginning": "如果开局觉得太恋爱向，先判断自己是否想看热恋氛围和CP张力。",
+      "ifAtQuitRiskRange": "如果处在前10%的适应区，建议继续到互动模式更稳定后判断甜度。",
+      "safeToDropAfter": "如果到前15%-20%仍不吃热恋感和甜文节奏，可以放弃。"
+    },
+    "highlightMap": [
+      {
+        "progressRange": "前10%",
+        "chapterRange": "待核验",
+        "type": "心动氛围建立",
+        "spoilerFreeText": "开局重点是建立人物吸引力和暧昧感，适合想快速进入恋爱状态的人。",
+        "lightSpoilerText": "两人之间的吸引力会较早成为阅读钩子。",
+        "emotion": [
+          "心动",
+          "暧昧",
+          "期待"
+        ],
+        "importance": 5,
+        "confidence": "中"
+      },
+      {
+        "progressRange": "10%-25%",
+        "chapterRange": "待核验",
+        "type": "互动升温",
+        "spoilerFreeText": "互动密度增加后，热恋感会更明显，适合喜欢CP拉扯的人。",
+        "lightSpoilerText": "关系会从互相吸引逐渐走向更明确的靠近。",
+        "emotion": [
+          "甜",
+          "上头",
+          "暧昧"
+        ],
+        "importance": 5,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "25%-50%",
+        "chapterRange": "待核验",
+        "type": "感情推进",
+        "spoilerFreeText": "中段主要看两人如何在现实相处中确认彼此位置，甜度和安全感增强。",
+        "lightSpoilerText": "感情会进入更正面的回应阶段。",
+        "emotion": [
+          "甜",
+          "安心",
+          "满足"
+        ],
+        "importance": 4,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "50%-75%",
+        "chapterRange": "待核验",
+        "type": "热恋兑现",
+        "spoilerFreeText": "关系进入更稳定的热恋状态，甜文读者会更容易获得满足。",
+        "lightSpoilerText": "两人关系会在后半段更加明确稳定。",
+        "emotion": [
+          "甜",
+          "治愈",
+          "满足"
+        ],
+        "importance": 4,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "后25%",
+        "chapterRange": "待核验",
+        "type": "关系收束",
+        "spoilerFreeText": "后期偏向把恋爱线和人物状态收束到稳定状态。",
+        "lightSpoilerText": "感情线会形成较完整的落点。",
+        "emotion": [
+          "安心",
+          "释然",
+          "回甜"
+        ],
+        "importance": 4,
+        "confidence": "低"
+      }
+    ],
+    "expectationWarnings": {
+      "slowBurn": "不算慢热",
+      "abuseLevel": "低",
+      "misunderstandingLevel": "轻微",
+      "endingConcern": "结局口径待核验",
+      "controversy": "主要争议可能在恋爱占比高、剧情较轻和甜文口味",
+      "otherWarnings": [
+        "主打恋爱氛围",
+        "强剧情较少",
+        "章节节点待核验"
+      ]
+    },
+    "routes": {
+      "forTrialReader": "建议先读到关系线、情绪钩子或第一个明显转折出现后再判断，不要只凭开局几章决定。",
+      "forPlotReader": "剧情党重点看人物选择、成长压力和关系变化；这类作品通常不靠强悬疑或大世界观取胜。",
+      "forCPReader": "适合关注CP关系、暗恋、拉扯、回甜或救赎感的读者，建议重点看日常互动和情绪递进。",
+      "ifYouWantToDrop": "如果读到建议坚持区间后仍不吃人物性格、关系设定或情绪基调，可以合理放弃。"
+    },
+    "verification": {
+      "basicInfo": "中",
+      "chapterNodes": "低",
+      "readerDiscussion": "中",
+      "notes": [
+        "基础信息需平台核验",
+        "章节节点待人工核验",
+        "高光描述为不剧透类型化表达，不包含小说正文"
+      ]
+    }
+  },
+  {
+    "id": "book_042",
+    "title": "他最野了",
+    "author": "曲小蛐",
+    "platform": "晋江文学城",
+    "officialUrl": "",
+    "status": "已完结",
+    "frontDisplayBadges": [
+      "校园甜文",
+      "男主张力",
+      "CP张力强",
+      "甜虐交织",
+      "开局上头型"
+    ],
+    "hookSummary": "如果你喜欢人设张力强、互动带点锋利感的校园恋爱，这本可以放进强CP区。它的爽点在于反差、吸引和关系逐渐被拉近。",
+    "basic": {
+      "categories": [
+        "现言",
+        "校园",
+        "甜文",
+        "青春"
+      ],
+      "tags": [
+        "校园",
+        "甜文",
+        "男主张力",
+        "反差",
+        "CP",
+        "青春",
+        "心动"
+      ],
+      "lengthType": "中篇",
+      "totalChapters": null,
+      "endingType": "HE/待核验",
+      "endingConfidence": "中"
+    },
+    "readerFit": {
+      "oneSentenceIntro": "一部人设张力较强的校园现言，适合喜欢强吸引、反差和甜虐交织的读者。",
+      "suitableFor": [
+        "喜欢男主张力",
+        "喜欢校园恋爱",
+        "喜欢CP拉扯",
+        "喜欢甜中带一点刺"
+      ],
+      "notSuitableFor": [
+        "不喜欢强势人设",
+        "只想看温柔日常",
+        "不喜欢校园文",
+        "想看强剧情主线"
+      ],
+      "readerTypes": [
+        "校园党",
+        "CP党",
+        "甜虐党",
+        "男主人设党"
+      ]
+    },
+    "readingExperience": {
+      "slowBurnLevel": 2,
+      "plotComplexity": 2,
+      "romanceWeight": 5,
+      "plotWeight": 3,
+      "emotionType": "心动、拉扯、甜、青春",
+      "quitRisk": {
+        "range": "前10%",
+        "reason": "如果读者不吃男主张力或校园甜文风格，开局就可能劝退。"
+      },
+      "stickUntil": {
+        "displayText": "建议至少读到两人互动模式稳定、吸引力更清楚的位置。",
+        "chapter": null,
+        "progressRange": "前10%-15%",
+        "confidence": "低"
+      }
+    },
+    "dropDecision": {
+      "ifAtBeginning": "刚开始读不下去时，先判断自己是否喜欢这种人设张力和校园恋爱风格。",
+      "ifAtQuitRiskRange": "如果处在开局适应期，建议看到关系互动更清楚后再判断。",
+      "safeToDropAfter": "如果到前15%-20%仍不喜欢人物设定和CP拉扯，可以放弃。"
+    },
+    "highlightMap": [
+      {
+        "progressRange": "前10%",
+        "chapterRange": "待核验",
+        "type": "人设张力建立",
+        "spoilerFreeText": "前期重点是建立人物反差和吸引力，关系从一开始就带着张力。",
+        "lightSpoilerText": "男主的人设和两人之间的张力会较早成为钩子。",
+        "emotion": [
+          "心动",
+          "好奇",
+          "上头"
+        ],
+        "importance": 5,
+        "confidence": "中"
+      },
+      {
+        "progressRange": "10%-25%",
+        "chapterRange": "待核验",
+        "type": "关系拉扯",
+        "spoilerFreeText": "互动增加后，甜和拉扯并行，适合喜欢CP张力的人。",
+        "lightSpoilerText": "两人之间的靠近会伴随试探和反差。",
+        "emotion": [
+          "暧昧",
+          "期待",
+          "甜"
+        ],
+        "importance": 5,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "25%-50%",
+        "chapterRange": "待核验",
+        "type": "感情升温",
+        "spoilerFreeText": "中段甜度增强，但人物性格里的锋利感仍然保留。",
+        "lightSpoilerText": "关系会从吸引和试探进入更明确的情感推进。",
+        "emotion": [
+          "甜",
+          "心动",
+          "满足"
+        ],
+        "importance": 4,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "50%-75%",
+        "chapterRange": "待核验",
+        "type": "甜虐交织",
+        "spoilerFreeText": "后半段适合喜欢甜中带一点情绪波动的读者。",
+        "lightSpoilerText": "感情线会在波动后进入更稳定的回应。",
+        "emotion": [
+          "心疼",
+          "甜",
+          "释然"
+        ],
+        "importance": 4,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "后25%",
+        "chapterRange": "待核验",
+        "type": "关系收束",
+        "spoilerFreeText": "后期把人物成长和关系确认做收束，整体偏甜。",
+        "lightSpoilerText": "前期拉扯会在后期形成更稳定的关系结果。",
+        "emotion": [
+          "满足",
+          "回甜",
+          "治愈"
+        ],
+        "importance": 4,
+        "confidence": "低"
+      }
+    ],
+    "expectationWarnings": {
+      "slowBurn": "不算慢热",
+      "abuseLevel": "轻微/中等",
+      "misunderstandingLevel": "轻微",
+      "endingConcern": "结局口径待核验",
+      "controversy": "主要争议可能在男主人设接受度和校园甜文套路",
+      "otherWarnings": [
+        "人设张力较强",
+        "甜文属性明显",
+        "章节节点待核验"
+      ]
+    },
+    "routes": {
+      "forTrialReader": "建议先读到关系线、情绪钩子或第一个明显转折出现后再判断，不要只凭开局几章决定。",
+      "forPlotReader": "剧情党重点看人物选择、成长压力和关系变化；这类作品通常不靠强悬疑或大世界观取胜。",
+      "forCPReader": "适合关注CP关系、暗恋、拉扯、回甜或救赎感的读者，建议重点看日常互动和情绪递进。",
+      "ifYouWantToDrop": "如果读到建议坚持区间后仍不吃人物性格、关系设定或情绪基调，可以合理放弃。"
+    },
+    "verification": {
+      "basicInfo": "中",
+      "chapterNodes": "低",
+      "readerDiscussion": "中",
+      "notes": [
+        "基础信息需平台核验",
+        "章节节点待人工核验",
+        "高光描述为不剧透类型化表达，不包含小说正文"
+      ]
+    }
+  },
+  {
+    "id": "book_043",
+    "title": "别哭",
+    "author": "曲小蛐",
+    "platform": "晋江文学城",
+    "officialUrl": "",
+    "status": "已完结",
+    "frontDisplayBadges": [
+      "现言甜虐",
+      "CP张力强",
+      "救赎向",
+      "强情绪",
+      "酸涩回甜"
+    ],
+    "hookSummary": "如果你想看带一点伤口、保护欲和回甜感的现言，这本适合放进甜虐救赎区。它不是纯轻松，而是靠人物关系里的照顾和修复感带来情绪价值。",
+    "basic": {
+      "categories": [
+        "现言",
+        "甜虐",
+        "救赎",
+        "恋爱"
+      ],
+      "tags": [
+        "救赎",
+        "甜虐",
+        "CP",
+        "保护欲",
+        "酸涩",
+        "治愈",
+        "现言"
+      ],
+      "lengthType": "中篇",
+      "totalChapters": null,
+      "endingType": "HE/待核验",
+      "endingConfidence": "中"
+    },
+    "readerFit": {
+      "oneSentenceIntro": "一部带甜虐和救赎气质的现言，适合喜欢强CP、保护欲和情绪修复的读者。",
+      "suitableFor": [
+        "喜欢甜虐交织",
+        "喜欢救赎向",
+        "喜欢强CP",
+        "喜欢酸涩回甜"
+      ],
+      "notSuitableFor": [
+        "只想看轻松甜文",
+        "不喜欢人物伤口",
+        "想看校园轻喜剧",
+        "不喜欢现言情绪线"
+      ],
+      "readerTypes": [
+        "甜虐党",
+        "CP党",
+        "救赎文读者",
+        "现言读者"
+      ]
+    },
+    "readingExperience": {
+      "slowBurnLevel": 3,
+      "plotComplexity": 2,
+      "romanceWeight": 5,
+      "plotWeight": 3,
+      "emotionType": "心疼、治愈、酸涩、回甜",
+      "quitRisk": {
+        "range": "前10%-25%",
+        "reason": "前期需要适应人物状态和情绪基调，不是单纯轻松甜。"
+      },
+      "stickUntil": {
+        "displayText": "建议至少读到照顾、靠近和情绪修复感明显的位置。",
+        "chapter": null,
+        "progressRange": "10%-25%",
+        "confidence": "低"
+      }
+    },
+    "dropDecision": {
+      "ifAtBeginning": "如果开局觉得情绪偏重，先判断自己是否愿意看救赎向甜虐。",
+      "ifAtQuitRiskRange": "如果卡在前10%-25%，建议继续到关系照顾感和回甜感更清楚后判断。",
+      "safeToDropAfter": "如果到25%左右仍不喜欢甜虐救赎和人物伤口，可以放弃。"
+    },
+    "highlightMap": [
+      {
+        "progressRange": "前10%",
+        "chapterRange": "待核验",
+        "type": "情绪基调建立",
+        "spoilerFreeText": "前期重点是人物状态和关系初始距离，甜感背后带着一点伤口。",
+        "lightSpoilerText": "人物的脆弱感和保护欲会较早成为钩子。",
+        "emotion": [
+          "心疼",
+          "好奇",
+          "期待"
+        ],
+        "importance": 4,
+        "confidence": "中"
+      },
+      {
+        "progressRange": "10%-25%",
+        "chapterRange": "待核验",
+        "type": "照顾感出现",
+        "spoilerFreeText": "互动增加后，照顾、靠近和安全感开始变得明显。",
+        "lightSpoilerText": "关系会从距离感走向更细致的照顾和牵引。",
+        "emotion": [
+          "治愈",
+          "暧昧",
+          "心动"
+        ],
+        "importance": 5,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "25%-50%",
+        "chapterRange": "待核验",
+        "type": "甜虐推进",
+        "spoilerFreeText": "中段甜和虐会交织推进，适合喜欢情绪波动的人。",
+        "lightSpoilerText": "人物伤口和关系推进会互相影响。",
+        "emotion": [
+          "心疼",
+          "酸涩",
+          "上头"
+        ],
+        "importance": 5,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "50%-75%",
+        "chapterRange": "待核验",
+        "type": "回甜阶段",
+        "spoilerFreeText": "前期积累的伤口感逐渐被回应，回甜和修复感增强。",
+        "lightSpoilerText": "感情线会进入更明确的治愈方向。",
+        "emotion": [
+          "甜",
+          "释然",
+          "治愈"
+        ],
+        "importance": 4,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "后25%",
+        "chapterRange": "待核验",
+        "type": "情绪收束",
+        "spoilerFreeText": "后期把关系和人物状态收束到更稳定的方向，适合喜欢救赎落点的人。",
+        "lightSpoilerText": "人物关系会在后期形成较完整的修复感。",
+        "emotion": [
+          "满足",
+          "安心",
+          "回甜"
+        ],
+        "importance": 4,
+        "confidence": "低"
+      }
+    ],
+    "expectationWarnings": {
+      "slowBurn": "中等慢热",
+      "abuseLevel": "中等/待核验",
+      "misunderstandingLevel": "轻微",
+      "endingConcern": "结局口径待核验",
+      "controversy": "主要争议可能在甜虐比例、人物伤口和情绪接受度",
+      "otherWarnings": [
+        "不是纯轻松甜文",
+        "有一定情绪压力",
+        "章节节点待核验"
+      ]
+    },
+    "routes": {
+      "forTrialReader": "建议先读到关系线、情绪钩子或第一个明显转折出现后再判断，不要只凭开局几章决定。",
+      "forPlotReader": "剧情党重点看人物选择、成长压力和关系变化；这类作品通常不靠强悬疑或大世界观取胜。",
+      "forCPReader": "适合关注CP关系、暗恋、拉扯、回甜或救赎感的读者，建议重点看日常互动和情绪递进。",
+      "ifYouWantToDrop": "如果读到建议坚持区间后仍不吃人物性格、关系设定或情绪基调，可以合理放弃。"
+    },
+    "verification": {
+      "basicInfo": "中",
+      "chapterNodes": "低",
+      "readerDiscussion": "中",
+      "notes": [
+        "基础信息需平台核验",
+        "章节节点待人工核验",
+        "高光描述为不剧透类型化表达，不包含小说正文"
+      ]
+    }
+  },
+  {
+    "id": "book_044",
+    "title": "见春天",
+    "author": "纵虎嗅花",
+    "platform": "晋江文学城",
+    "officialUrl": "",
+    "status": "已完结",
+    "frontDisplayBadges": [
+      "青春治愈",
+      "现实青春",
+      "酸涩回甜",
+      "慢热后劲型",
+      "强情绪"
+    ],
+    "hookSummary": "如果你喜欢青春里那种被生活压过、但仍然慢慢向春天走去的故事，这本适合。它更偏现实和治愈，不是单纯甜宠。",
+    "basic": {
+      "categories": [
+        "现言",
+        "青春",
+        "现实向",
+        "治愈"
+      ],
+      "tags": [
+        "青春",
+        "现实向",
+        "治愈",
+        "酸涩",
+        "成长",
+        "情绪向",
+        "CP"
+      ],
+      "lengthType": "中篇",
+      "totalChapters": null,
+      "endingType": "HE/待核验",
+      "endingConfidence": "中"
+    },
+    "readerFit": {
+      "oneSentenceIntro": "一部现实青春和治愈气质较强的现言，适合喜欢慢热后劲和人物成长的读者。",
+      "suitableFor": [
+        "喜欢现实青春",
+        "喜欢成长治愈",
+        "喜欢酸涩回甜",
+        "喜欢慢热情绪"
+      ],
+      "notSuitableFor": [
+        "只想看轻松甜文",
+        "不喜欢现实压力",
+        "不喜欢慢热",
+        "想看强爽感恋爱"
+      ],
+      "readerTypes": [
+        "青春文读者",
+        "情绪党",
+        "治愈文读者",
+        "慢热读者"
+      ]
+    },
+    "readingExperience": {
+      "slowBurnLevel": 5,
+      "plotComplexity": 3,
+      "romanceWeight": 4,
+      "plotWeight": 4,
+      "emotionType": "酸涩、现实、治愈、成长",
+      "quitRisk": {
+        "range": "前10%-25%",
+        "reason": "前期现实感和人物处境更重，甜度不会立刻释放。"
+      },
+      "stickUntil": {
+        "displayText": "建议至少读到人物关系和成长方向都逐渐清晰的位置。",
+        "chapter": null,
+        "progressRange": "10%-25%",
+        "confidence": "低"
+      }
+    },
+    "dropDecision": {
+      "ifAtBeginning": "如果开局觉得压抑，先判断自己是否能接受现实青春和慢热治愈。",
+      "ifAtQuitRiskRange": "如果卡在前10%-25%，建议继续到关系支撑感和成长线更清楚后判断。",
+      "safeToDropAfter": "如果到25%左右仍完全不喜欢现实青春和慢热情绪，可以放弃。"
+    },
+    "highlightMap": [
+      {
+        "progressRange": "前10%",
+        "chapterRange": "待核验",
+        "type": "现实处境建立",
+        "spoilerFreeText": "前期先建立人物处境和现实压力，氛围不轻，但有向上生长的底色。",
+        "lightSpoilerText": "人物的现实压力会持续影响后续关系和成长。",
+        "emotion": [
+          "酸涩",
+          "代入",
+          "压抑"
+        ],
+        "importance": 4,
+        "confidence": "中"
+      },
+      {
+        "progressRange": "10%-25%",
+        "chapterRange": "待核验",
+        "type": "关系支撑出现",
+        "spoilerFreeText": "关系中的支撑感逐渐出现，读者会看到人物并不是独自消化困境。",
+        "lightSpoilerText": "重要关系会成为人物走出低谷的支点。",
+        "emotion": [
+          "心疼",
+          "治愈",
+          "期待"
+        ],
+        "importance": 5,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "25%-50%",
+        "chapterRange": "待核验",
+        "type": "成长推进",
+        "spoilerFreeText": "中段看点在于人物如何面对现实、重新建立自我。",
+        "lightSpoilerText": "人物成长会比单纯恋爱更重要。",
+        "emotion": [
+          "成长",
+          "释然",
+          "治愈"
+        ],
+        "importance": 5,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "50%-75%",
+        "chapterRange": "待核验",
+        "type": "回甜与修复",
+        "spoilerFreeText": "前期的酸涩会逐渐转向修复和回甜，情绪后劲增强。",
+        "lightSpoilerText": "关系和自我状态会逐渐走向更稳定。",
+        "emotion": [
+          "回甜",
+          "安心",
+          "释然"
+        ],
+        "importance": 4,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "后25%",
+        "chapterRange": "待核验",
+        "type": "春天收束",
+        "spoilerFreeText": "后期更像对标题的回应，人物从现实压力中走向更亮的状态。",
+        "lightSpoilerText": "成长和关系线会在后期形成更治愈的落点。",
+        "emotion": [
+          "治愈",
+          "满足",
+          "回望"
+        ],
+        "importance": 4,
+        "confidence": "低"
+      }
+    ],
+    "expectationWarnings": {
+      "slowBurn": "非常慢热",
+      "abuseLevel": "中等",
+      "misunderstandingLevel": "轻微",
+      "endingConcern": "结局口径待核验",
+      "controversy": "主要争议可能在现实感、节奏慢和情绪压抑接受度",
+      "otherWarnings": [
+        "不是轻松甜宠",
+        "现实压力较明显",
+        "章节节点待核验"
+      ]
+    },
+    "routes": {
+      "forTrialReader": "建议先读到关系线、情绪钩子或第一个明显转折出现后再判断，不要只凭开局几章决定。",
+      "forPlotReader": "剧情党重点看人物选择、成长压力和关系变化；这类作品通常不靠强悬疑或大世界观取胜。",
+      "forCPReader": "适合关注CP关系、暗恋、拉扯、回甜或救赎感的读者，建议重点看日常互动和情绪递进。",
+      "ifYouWantToDrop": "如果读到建议坚持区间后仍不吃人物性格、关系设定或情绪基调，可以合理放弃。"
+    },
+    "verification": {
+      "basicInfo": "中",
+      "chapterNodes": "低",
+      "readerDiscussion": "中",
+      "notes": [
+        "基础信息需平台核验",
+        "章节节点待人工核验",
+        "高光描述为不剧透类型化表达，不包含小说正文"
+      ]
+    }
+  },
+  {
+    "id": "book_045",
+    "title": "偷偷驯服",
+    "author": "暴躁喵",
+    "platform": "待核验",
+    "officialUrl": "",
+    "status": "已完结",
+    "frontDisplayBadges": [
+      "现言甜文",
+      "CP张力强",
+      "轻松恋爱",
+      "甜文低门槛",
+      "开局易入"
+    ],
+    "hookSummary": "如果你想补一个轻松、恋爱感强、适合快速进入的现言，这本可以放进甜文池。它更适合想看互动和心动的人，不适合作为强剧情作品期待。",
+    "basic": {
+      "categories": [
+        "现言",
+        "甜文",
+        "恋爱",
+        "轻松"
+      ],
+      "tags": [
+        "甜文",
+        "现言",
+        "恋爱",
+        "CP",
+        "轻松",
+        "心动",
+        "互动"
+      ],
+      "lengthType": "中篇",
+      "totalChapters": null,
+      "endingType": "HE/待核验",
+      "endingConfidence": "中"
+    },
+    "readerFit": {
+      "oneSentenceIntro": "一部轻松恋爱向现言，适合喜欢甜文、互动感和快速心动的读者。",
+      "suitableFor": [
+        "喜欢轻松甜文",
+        "喜欢CP互动",
+        "喜欢恋爱占比高",
+        "想看低门槛现言"
+      ],
+      "notSuitableFor": [
+        "想看强剧情",
+        "不喜欢甜文套路",
+        "不喜欢恋爱占比高",
+        "想看现实向强情绪"
+      ],
+      "readerTypes": [
+        "甜文党",
+        "CP党",
+        "现言读者",
+        "轻松向读者"
+      ]
+    },
+    "readingExperience": {
+      "slowBurnLevel": 1,
+      "plotComplexity": 1,
+      "romanceWeight": 5,
+      "plotWeight": 2,
+      "emotionType": "甜、轻松、心动、暧昧",
+      "quitRisk": {
+        "range": "前10%",
+        "reason": "如果读者不喜欢轻剧情甜文，开局就可能觉得不够有主线。"
+      },
+      "stickUntil": {
+        "displayText": "建议至少读到两人互动模式稳定、甜感明显的位置。",
+        "chapter": null,
+        "progressRange": "前10%-15%",
+        "confidence": "低"
+      }
+    },
+    "dropDecision": {
+      "ifAtBeginning": "如果开局觉得剧情轻，先判断自己是否想看恋爱甜文。",
+      "ifAtQuitRiskRange": "如果处在前10%适应期，建议继续到互动变多后再判断。",
+      "safeToDropAfter": "如果到前15%-20%仍不吃轻松甜文，可以合理放弃。"
+    },
+    "highlightMap": [
+      {
+        "progressRange": "前10%",
+        "chapterRange": "待核验",
+        "type": "恋爱氛围建立",
+        "spoilerFreeText": "开局主要建立人物关系和恋爱氛围，阅读门槛较低。",
+        "lightSpoilerText": "两人之间的互动会较早成为主要钩子。",
+        "emotion": [
+          "轻松",
+          "心动",
+          "期待"
+        ],
+        "importance": 4,
+        "confidence": "中"
+      },
+      {
+        "progressRange": "10%-25%",
+        "chapterRange": "待核验",
+        "type": "互动升温",
+        "spoilerFreeText": "互动变多后，甜感和暧昧感会更稳定。",
+        "lightSpoilerText": "关系会从普通接触走向更明显的双向吸引。",
+        "emotion": [
+          "甜",
+          "暧昧",
+          "上头"
+        ],
+        "importance": 5,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "25%-50%",
+        "chapterRange": "待核验",
+        "type": "关系推进",
+        "spoilerFreeText": "中段适合看甜文兑现，关系推进比外部剧情更重要。",
+        "lightSpoilerText": "感情线会逐渐进入更明确的回应阶段。",
+        "emotion": [
+          "甜",
+          "满足",
+          "心动"
+        ],
+        "importance": 4,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "50%-75%",
+        "chapterRange": "待核验",
+        "type": "稳定回甜",
+        "spoilerFreeText": "后半段偏向稳定甜感和关系确认。",
+        "lightSpoilerText": "两人关系会进入更稳定的甜文节奏。",
+        "emotion": [
+          "安心",
+          "甜",
+          "治愈"
+        ],
+        "importance": 4,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "后25%",
+        "chapterRange": "待核验",
+        "type": "甜文收束",
+        "spoilerFreeText": "后期把恋爱关系收束到较圆满的状态。",
+        "lightSpoilerText": "甜文线会形成完整落点。",
+        "emotion": [
+          "满足",
+          "轻松",
+          "释然"
+        ],
+        "importance": 4,
+        "confidence": "低"
+      }
+    ],
+    "expectationWarnings": {
+      "slowBurn": "不算慢热",
+      "abuseLevel": "低",
+      "misunderstandingLevel": "轻微",
+      "endingConcern": "结局口径待核验",
+      "controversy": "基础信息和口碑需进一步核验",
+      "otherWarnings": [
+        "作品信息待人工核验",
+        "剧情主线较轻",
+        "章节节点待核验"
+      ]
+    },
+    "routes": {
+      "forTrialReader": "建议先读到关系线、情绪钩子或第一个明显转折出现后再判断，不要只凭开局几章决定。",
+      "forPlotReader": "剧情党重点看人物选择、成长压力和关系变化；这类作品通常不靠强悬疑或大世界观取胜。",
+      "forCPReader": "适合关注CP关系、暗恋、拉扯、回甜或救赎感的读者，建议重点看日常互动和情绪递进。",
+      "ifYouWantToDrop": "如果读到建议坚持区间后仍不吃人物性格、关系设定或情绪基调，可以合理放弃。"
+    },
+    "verification": {
+      "basicInfo": "中",
+      "chapterNodes": "低",
+      "readerDiscussion": "中",
+      "notes": [
+        "基础信息需平台核验",
+        "章节节点待人工核验",
+        "高光描述为不剧透类型化表达，不包含小说正文"
+      ]
+    }
+  },
+  {
+    "id": "book_046",
+    "title": "偏偏宠爱",
+    "author": "藤萝为枝",
+    "platform": "晋江文学城",
+    "officialUrl": "",
+    "status": "已完结",
+    "frontDisplayBadges": [
+      "甜宠救赎",
+      "校园青春",
+      "CP张力强",
+      "甜文低门槛",
+      "回甜感强"
+    ],
+    "hookSummary": "如果你想看被坚定选择、被偏爱和甜宠救赎，这本适合放在女生高频推荐区。它的核心爽点是情绪价值和被偏爱的满足感。",
+    "basic": {
+      "categories": [
+        "现言",
+        "校园",
+        "甜宠",
+        "救赎"
+      ],
+      "tags": [
+        "甜宠",
+        "校园",
+        "救赎",
+        "偏爱",
+        "CP",
+        "青春",
+        "回甜"
+      ],
+      "lengthType": "中篇",
+      "totalChapters": null,
+      "endingType": "HE/待核验",
+      "endingConfidence": "中"
+    },
+    "readerFit": {
+      "oneSentenceIntro": "一部甜宠和救赎感都比较强的现言，适合喜欢被偏爱、回甜和CP情绪价值的读者。",
+      "suitableFor": [
+        "喜欢甜宠",
+        "喜欢救赎向",
+        "喜欢被偏爱感",
+        "喜欢校园现言"
+      ],
+      "notSuitableFor": [
+        "不喜欢甜宠套路",
+        "想看强剧情",
+        "不喜欢男主偏执感",
+        "想看现实严肃向"
+      ],
+      "readerTypes": [
+        "甜文党",
+        "CP党",
+        "救赎文读者",
+        "校园党"
+      ]
+    },
+    "readingExperience": {
+      "slowBurnLevel": 2,
+      "plotComplexity": 2,
+      "romanceWeight": 5,
+      "plotWeight": 3,
+      "emotionType": "甜、救赎、偏爱、治愈",
+      "quitRisk": {
+        "range": "前10%",
+        "reason": "如果读者不吃甜宠和被偏爱设定，开局可能不对口。"
+      },
+      "stickUntil": {
+        "displayText": "建议至少读到偏爱感和关系保护感都明显的位置。",
+        "chapter": null,
+        "progressRange": "前10%-15%",
+        "confidence": "低"
+      }
+    },
+    "dropDecision": {
+      "ifAtBeginning": "刚开始读不下去时，先判断自己是否喜欢甜宠救赎和偏爱感。",
+      "ifAtQuitRiskRange": "如果处在前10%适应区，建议继续到关系保护感明显后再判断。",
+      "safeToDropAfter": "如果到前15%-20%仍不喜欢甜宠救赎，可以合理放弃。"
+    },
+    "highlightMap": [
+      {
+        "progressRange": "前10%",
+        "chapterRange": "待核验",
+        "type": "甜宠基调建立",
+        "spoilerFreeText": "前期会较快建立人物关系和甜宠基调，适合喜欢被偏爱感的读者。",
+        "lightSpoilerText": "男主的在意和偏爱会较早成为阅读钩子。",
+        "emotion": [
+          "甜",
+          "心动",
+          "期待"
+        ],
+        "importance": 4,
+        "confidence": "中"
+      },
+      {
+        "progressRange": "10%-25%",
+        "chapterRange": "待核验",
+        "type": "偏爱感增强",
+        "spoilerFreeText": "关系互动增加后，被选择和被保护的情绪价值会更明显。",
+        "lightSpoilerText": "两人关系会朝更明确的偏爱和守护方向推进。",
+        "emotion": [
+          "甜",
+          "安心",
+          "上头"
+        ],
+        "importance": 5,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "25%-50%",
+        "chapterRange": "待核验",
+        "type": "救赎推进",
+        "spoilerFreeText": "中段不只是甜，也会带出人物处境和互相支撑的意义。",
+        "lightSpoilerText": "人物的脆弱和关系支撑会互相加强。",
+        "emotion": [
+          "心疼",
+          "治愈",
+          "甜"
+        ],
+        "importance": 5,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "50%-75%",
+        "chapterRange": "待核验",
+        "type": "感情稳定",
+        "spoilerFreeText": "后半段甜宠兑现感更强，关系更稳定。",
+        "lightSpoilerText": "前期的偏爱会在后半段得到更明确的回应。",
+        "emotion": [
+          "满足",
+          "甜",
+          "安心"
+        ],
+        "importance": 4,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "后25%",
+        "chapterRange": "待核验",
+        "type": "回甜收束",
+        "spoilerFreeText": "后期把甜宠、救赎和关系确认做收束，整体偏满足。",
+        "lightSpoilerText": "感情线会形成较圆满的落点。",
+        "emotion": [
+          "满足",
+          "治愈",
+          "回甜"
+        ],
+        "importance": 4,
+        "confidence": "低"
+      }
+    ],
+    "expectationWarnings": {
+      "slowBurn": "轻微慢热",
+      "abuseLevel": "轻微/中等",
+      "misunderstandingLevel": "轻微",
+      "endingConcern": "结局口径待核验",
+      "controversy": "主要争议可能在甜宠套路、男主人设和偏爱感接受度",
+      "otherWarnings": [
+        "甜宠属性明显",
+        "适合情绪价值型阅读",
+        "章节节点待核验"
+      ]
+    },
+    "routes": {
+      "forTrialReader": "建议先读到关系线、情绪钩子或第一个明显转折出现后再判断，不要只凭开局几章决定。",
+      "forPlotReader": "剧情党重点看人物选择、成长压力和关系变化；这类作品通常不靠强悬疑或大世界观取胜。",
+      "forCPReader": "适合关注CP关系、暗恋、拉扯、回甜或救赎感的读者，建议重点看日常互动和情绪递进。",
+      "ifYouWantToDrop": "如果读到建议坚持区间后仍不吃人物性格、关系设定或情绪基调，可以合理放弃。"
+    },
+    "verification": {
+      "basicInfo": "中",
+      "chapterNodes": "低",
+      "readerDiscussion": "中",
+      "notes": [
+        "基础信息需平台核验",
+        "章节节点待人工核验",
+        "高光描述为不剧透类型化表达，不包含小说正文"
+      ]
+    }
+  },
+  {
+    "id": "book_047",
+    "title": "黑月光拿稳BE剧本",
+    "author": "藤萝为枝",
+    "platform": "晋江文学城",
+    "officialUrl": "",
+    "status": "已完结",
+    "frontDisplayBadges": [
+      "仙侠虐恋",
+      "强情绪",
+      "追妻火葬场",
+      "CP张力强",
+      "BE美学"
+    ],
+    "hookSummary": "如果你想看强情绪、虐恋、宿命感和追妻火葬场，这本很适合。它不是低压甜文，核心看点是爱恨拉扯、命运压力和情绪爆发。",
+    "basic": {
+      "categories": [
+        "仙侠",
+        "言情",
+        "虐恋",
+        "穿书"
+      ],
+      "tags": [
+        "仙侠",
+        "虐恋",
+        "追妻火葬场",
+        "强情绪",
+        "宿命",
+        "CP",
+        "穿书"
+      ],
+      "lengthType": "长篇",
+      "totalChapters": null,
+      "endingType": "HE/BE口径待核验",
+      "endingConfidence": "中"
+    },
+    "readerFit": {
+      "oneSentenceIntro": "一部强情绪仙侠言情，适合喜欢虐恋、宿命感和爱恨拉扯的读者。",
+      "suitableFor": [
+        "喜欢仙侠虐恋",
+        "喜欢强情绪",
+        "喜欢追妻火葬场",
+        "能接受虐点"
+      ],
+      "notSuitableFor": [
+        "只想看轻松甜文",
+        "不喜欢虐恋",
+        "不喜欢误解和宿命压力",
+        "不喜欢强情绪拉扯"
+      ],
+      "readerTypes": [
+        "虐文读者",
+        "仙侠言情读者",
+        "CP党",
+        "强情绪读者"
+      ]
+    },
+    "readingExperience": {
+      "slowBurnLevel": 4,
+      "plotComplexity": 3,
+      "romanceWeight": 5,
+      "plotWeight": 4,
+      "emotionType": "虐、宿命、心疼、强情绪",
+      "quitRisk": {
+        "range": "前10%-25%",
+        "reason": "前期需要适应强情绪、人物立场和宿命压力，不是轻松甜文。"
+      },
+      "stickUntil": {
+        "displayText": "建议至少读到人物关系和宿命压力都明显展开的位置。",
+        "chapter": null,
+        "progressRange": "10%-25%",
+        "confidence": "低"
+      }
+    },
+    "dropDecision": {
+      "ifAtBeginning": "如果开局觉得虐，先确认自己是否就是想看强情绪仙侠虐恋。",
+      "ifAtQuitRiskRange": "如果卡在前10%-25%，建议继续到爱恨拉扯和人物处境更清楚后判断。",
+      "safeToDropAfter": "如果到25%左右仍不能接受虐恋和强情绪，可以放弃。"
+    },
+    "highlightMap": [
+      {
+        "progressRange": "前10%",
+        "chapterRange": "待核验",
+        "type": "宿命基调建立",
+        "spoilerFreeText": "前期很快建立强情绪和人物处境，读者需要先确认能不能接受虐恋基调。",
+        "lightSpoilerText": "人物关系一开始就带着命运压力和立场冲突。",
+        "emotion": [
+          "压抑",
+          "好奇",
+          "心疼"
+        ],
+        "importance": 5,
+        "confidence": "中"
+      },
+      {
+        "progressRange": "10%-25%",
+        "chapterRange": "待核验",
+        "type": "爱恨拉扯",
+        "spoilerFreeText": "关系中的吸引、误解和伤害感会增强，适合喜欢强CP拉扯的人。",
+        "lightSpoilerText": "主角之间的关系会在靠近和伤害之间反复推进。",
+        "emotion": [
+          "心疼",
+          "上头",
+          "虐"
+        ],
+        "importance": 5,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "25%-50%",
+        "chapterRange": "待核验",
+        "type": "情绪爆发",
+        "spoilerFreeText": "中段会集中释放强情绪，人物选择和宿命压力变得更重。",
+        "lightSpoilerText": "误解、立场和情感会发生更强烈的碰撞。",
+        "emotion": [
+          "压抑",
+          "震撼",
+          "心疼"
+        ],
+        "importance": 5,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "50%-75%",
+        "chapterRange": "待核验",
+        "type": "追悔与回收",
+        "spoilerFreeText": "后半段适合喜欢火葬场和情绪回收的人，前期伤害会产生后果。",
+        "lightSpoilerText": "关系会进入更明显的追悔与回应阶段。",
+        "emotion": [
+          "心疼",
+          "释然",
+          "期待"
+        ],
+        "importance": 5,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "后25%",
+        "chapterRange": "待核验",
+        "type": "终局收束",
+        "spoilerFreeText": "后期把宿命、爱恨和人物选择做收束，情绪冲击较强。",
+        "lightSpoilerText": "前期强情绪线会在终局集中回应。",
+        "emotion": [
+          "释然",
+          "心疼",
+          "满足"
+        ],
+        "importance": 4,
+        "confidence": "低"
+      }
+    ],
+    "expectationWarnings": {
+      "slowBurn": "明显慢热",
+      "abuseLevel": "较重",
+      "misunderstandingLevel": "中等/较重",
+      "endingConcern": "结局口径和番外需人工核验",
+      "controversy": "主要争议可能在虐点强度、男主人设和情绪接受度",
+      "otherWarnings": [
+        "虐恋属性强",
+        "有较强误解和宿命压力",
+        "章节节点待核验"
+      ]
+    },
+    "routes": {
+      "forTrialReader": "建议先读到关系线、情绪钩子或第一个明显转折出现后再判断，不要只凭开局几章决定。",
+      "forPlotReader": "剧情党重点看人物选择、成长压力和关系变化；这类作品通常不靠强悬疑或大世界观取胜。",
+      "forCPReader": "适合关注CP关系、暗恋、拉扯、回甜或救赎感的读者，建议重点看日常互动和情绪递进。",
+      "ifYouWantToDrop": "如果读到建议坚持区间后仍不吃人物性格、关系设定或情绪基调，可以合理放弃。"
+    },
+    "verification": {
+      "basicInfo": "中",
+      "chapterNodes": "低",
+      "readerDiscussion": "中",
+      "notes": [
+        "基础信息需平台核验",
+        "章节节点待人工核验",
+        "高光描述为不剧透类型化表达，不包含小说正文"
+      ]
+    }
+  },
+  {
+    "id": "book_048",
+    "title": "病态宠爱",
+    "author": "藤萝为枝",
+    "platform": "晋江文学城",
+    "officialUrl": "",
+    "status": "已完结",
+    "frontDisplayBadges": [
+      "甜虐交织",
+      "偏执男主",
+      "CP张力强",
+      "救赎向",
+      "强情绪"
+    ],
+    "hookSummary": "如果你喜欢偏执、救赎和甜虐交织，这本适合放在强情绪现言区。它的爽点是强烈的关系绑定和情绪拉扯，但对男主人设接受度有要求。",
+    "basic": {
+      "categories": [
+        "现言",
+        "甜虐",
+        "救赎",
+        "恋爱"
+      ],
+      "tags": [
+        "偏执",
+        "甜虐",
+        "救赎",
+        "CP",
+        "强情绪",
+        "现言",
+        "回甜"
+      ],
+      "lengthType": "中篇",
+      "totalChapters": null,
+      "endingType": "HE/待核验",
+      "endingConfidence": "中"
+    },
+    "readerFit": {
+      "oneSentenceIntro": "一部偏执感和救赎感都较强的现言，适合喜欢强关系绑定和甜虐拉扯的读者。",
+      "suitableFor": [
+        "喜欢偏执男主",
+        "喜欢甜虐救赎",
+        "喜欢强CP",
+        "能接受强情绪"
+      ],
+      "notSuitableFor": [
+        "不喜欢偏执人设",
+        "只想看健康轻甜",
+        "不喜欢甜虐拉扯",
+        "想看现实向慢热"
+      ],
+      "readerTypes": [
+        "甜虐党",
+        "CP党",
+        "救赎文读者",
+        "人设党"
+      ]
+    },
+    "readingExperience": {
+      "slowBurnLevel": 3,
+      "plotComplexity": 2,
+      "romanceWeight": 5,
+      "plotWeight": 3,
+      "emotionType": "甜虐、偏执、心疼、回甜",
+      "quitRisk": {
+        "range": "前10%-25%",
+        "reason": "前期需要适应男主人设和关系强度，如果不吃偏执设定会很快劝退。"
+      },
+      "stickUntil": {
+        "displayText": "建议至少读到人物关系的救赎感和回甜方向都变清楚的位置。",
+        "chapter": null,
+        "progressRange": "10%-25%",
+        "confidence": "低"
+      }
+    },
+    "dropDecision": {
+      "ifAtBeginning": "刚开始读不下去时，先判断自己是否能接受偏执型人设和甜虐关系。",
+      "ifAtQuitRiskRange": "如果卡在前10%-25%，建议继续到救赎感和回甜方向更清楚后再判断。",
+      "safeToDropAfter": "如果到25%左右仍不接受男主人设和强关系绑定，可以合理放弃。"
+    },
+    "highlightMap": [
+      {
+        "progressRange": "前10%",
+        "chapterRange": "待核验",
+        "type": "人设张力建立",
+        "spoilerFreeText": "前期主要建立人物关系和偏执感，关系强度会比较明显。",
+        "lightSpoilerText": "男主的人设张力会较早成为阅读筛选点。",
+        "emotion": [
+          "好奇",
+          "紧张",
+          "心动"
+        ],
+        "importance": 4,
+        "confidence": "中"
+      },
+      {
+        "progressRange": "10%-25%",
+        "chapterRange": "待核验",
+        "type": "关系绑定",
+        "spoilerFreeText": "两人之间的牵引感增强，甜虐和保护欲会并行出现。",
+        "lightSpoilerText": "关系会逐渐从强吸引走向更深的绑定。",
+        "emotion": [
+          "上头",
+          "心疼",
+          "期待"
+        ],
+        "importance": 5,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "25%-50%",
+        "chapterRange": "待核验",
+        "type": "救赎推进",
+        "spoilerFreeText": "中段会带出人物伤口和彼此支撑，救赎感变强。",
+        "lightSpoilerText": "人物的伤口和关系推进会互相影响。",
+        "emotion": [
+          "心疼",
+          "治愈",
+          "酸涩"
+        ],
+        "importance": 5,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "50%-75%",
+        "chapterRange": "待核验",
+        "type": "回甜阶段",
+        "spoilerFreeText": "前期强情绪逐渐转向更明确的回甜和稳定。",
+        "lightSpoilerText": "关系会从拉扯逐渐走向更正向的回应。",
+        "emotion": [
+          "甜",
+          "释然",
+          "安心"
+        ],
+        "importance": 4,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "后25%",
+        "chapterRange": "待核验",
+        "type": "情绪收束",
+        "spoilerFreeText": "后期把甜虐和救赎线做收束，适合喜欢强情绪落点的人。",
+        "lightSpoilerText": "人物关系会形成较完整的回甜结果。",
+        "emotion": [
+          "满足",
+          "治愈",
+          "回甜"
+        ],
+        "importance": 4,
+        "confidence": "低"
+      }
+    ],
+    "expectationWarnings": {
+      "slowBurn": "中等慢热",
+      "abuseLevel": "中等/较重",
+      "misunderstandingLevel": "轻微/中等",
+      "endingConcern": "结局口径待核验",
+      "controversy": "主要争议可能在偏执男主人设、关系健康度和甜虐接受度",
+      "otherWarnings": [
+        "男主人设接受度因人而异",
+        "甜虐属性明显",
+        "章节节点待核验"
+      ]
+    },
+    "routes": {
+      "forTrialReader": "建议先读到关系线、情绪钩子或第一个明显转折出现后再判断，不要只凭开局几章决定。",
+      "forPlotReader": "剧情党重点看人物选择、成长压力和关系变化；这类作品通常不靠强悬疑或大世界观取胜。",
+      "forCPReader": "适合关注CP关系、暗恋、拉扯、回甜或救赎感的读者，建议重点看日常互动和情绪递进。",
+      "ifYouWantToDrop": "如果读到建议坚持区间后仍不吃人物性格、关系设定或情绪基调，可以合理放弃。"
+    },
+    "verification": {
+      "basicInfo": "中",
+      "chapterNodes": "低",
+      "readerDiscussion": "中",
+      "notes": [
+        "基础信息需平台核验",
+        "章节节点待人工核验",
+        "高光描述为不剧透类型化表达，不包含小说正文"
+      ]
+    }
+  },
+  {
+    "id": "book_049",
+    "title": "白色橄榄树",
+    "author": "玖月晞",
+    "platform": "晋江文学城",
+    "officialUrl": "",
+    "status": "已完结",
+    "frontDisplayBadges": [
+      "强情绪",
+      "家国职业线",
+      "救赎向",
+      "CP张力强",
+      "虐点较重"
+    ],
+    "hookSummary": "如果你想看强情绪、职业线、战争背景和救赎感，这本适合放在高情绪价值区。它不是轻松恋爱文，阅读前要接受沉重背景和虐点。",
+    "basic": {
+      "categories": [
+        "现言",
+        "职业",
+        "救赎",
+        "情绪向"
+      ],
+      "tags": [
+        "强情绪",
+        "职业线",
+        "救赎",
+        "家国",
+        "虐点",
+        "CP",
+        "现实向"
+      ],
+      "lengthType": "长篇",
+      "totalChapters": null,
+      "endingType": "HE/待核验",
+      "endingConfidence": "中"
+    },
+    "readerFit": {
+      "oneSentenceIntro": "一部职业线和强情绪并重的现言，适合喜欢家国背景、救赎感和高情绪冲击的读者。",
+      "suitableFor": [
+        "喜欢强情绪",
+        "喜欢职业线",
+        "喜欢救赎向",
+        "能接受沉重背景"
+      ],
+      "notSuitableFor": [
+        "只想看轻松甜文",
+        "不喜欢战争或创伤背景",
+        "不喜欢虐点",
+        "想看校园轻松文"
+      ],
+      "readerTypes": [
+        "情绪党",
+        "救赎文读者",
+        "现言读者",
+        "职业线读者"
+      ]
+    },
+    "readingExperience": {
+      "slowBurnLevel": 4,
+      "plotComplexity": 3,
+      "romanceWeight": 5,
+      "plotWeight": 4,
+      "emotionType": "沉重、救赎、心疼、家国",
+      "quitRisk": {
+        "range": "前10%-25%",
+        "reason": "前期需要适应职业背景、现实压力和较沉重的情绪基调。"
+      },
+      "stickUntil": {
+        "displayText": "建议至少读到主角关系和职业线都明显展开的位置。",
+        "chapter": null,
+        "progressRange": "10%-25%",
+        "confidence": "低"
+      }
+    },
+    "dropDecision": {
+      "ifAtBeginning": "如果开局觉得沉重，先判断自己是否能接受现实/职业背景下的强情绪。",
+      "ifAtQuitRiskRange": "如果卡在前10%-25%，建议继续到CP牵引和职业线压力都清楚后判断。",
+      "safeToDropAfter": "如果到25%左右仍不喜欢沉重背景和强情绪，可以放弃。"
+    },
+    "highlightMap": [
+      {
+        "progressRange": "前10%",
+        "chapterRange": "待核验",
+        "type": "职业背景建立",
+        "spoilerFreeText": "前期先建立特殊职业环境和人物处境，整体基调比普通现言更沉重。",
+        "lightSpoilerText": "人物的职业和环境会持续影响感情线。",
+        "emotion": [
+          "紧张",
+          "好奇",
+          "压抑"
+        ],
+        "importance": 4,
+        "confidence": "中"
+      },
+      {
+        "progressRange": "10%-25%",
+        "chapterRange": "待核验",
+        "type": "关系牵引",
+        "spoilerFreeText": "关系线逐渐和职业压力交织，CP吸引力带着现实重量。",
+        "lightSpoilerText": "两人的靠近会受到环境和职业风险影响。",
+        "emotion": [
+          "心动",
+          "心疼",
+          "期待"
+        ],
+        "importance": 5,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "25%-50%",
+        "chapterRange": "待核验",
+        "type": "强情绪展开",
+        "spoilerFreeText": "中段会更明显地呈现救赎、创伤和家国背景带来的情绪冲击。",
+        "lightSpoilerText": "职业线与人物伤口会更紧密地绑定。",
+        "emotion": [
+          "心疼",
+          "压抑",
+          "震撼"
+        ],
+        "importance": 5,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "50%-75%",
+        "chapterRange": "待核验",
+        "type": "救赎推进",
+        "spoilerFreeText": "后半段的看点是关系如何在伤口和现实压力中继续支撑。",
+        "lightSpoilerText": "人物关系会从吸引走向更深的救赎和守护。",
+        "emotion": [
+          "治愈",
+          "心疼",
+          "释然"
+        ],
+        "importance": 5,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "后25%",
+        "chapterRange": "待核验",
+        "type": "情绪收束",
+        "spoilerFreeText": "后期会把职业线、人物伤口和关系落点一起收束，情绪后劲较强。",
+        "lightSpoilerText": "前期沉重背景会在后期形成更完整的情绪回应。",
+        "emotion": [
+          "释然",
+          "满足",
+          "心疼"
+        ],
+        "importance": 4,
+        "confidence": "低"
+      }
+    ],
+    "expectationWarnings": {
+      "slowBurn": "明显慢热",
+      "abuseLevel": "较重",
+      "misunderstandingLevel": "轻微/中等",
+      "endingConcern": "结局和番外口径需人工核验",
+      "controversy": "主要争议可能在题材沉重、职业线真实性和虐点接受度",
+      "otherWarnings": [
+        "题材较沉重",
+        "有创伤和强情绪内容",
+        "章节节点待核验"
+      ]
+    },
+    "routes": {
+      "forTrialReader": "建议先读到关系线、情绪钩子或第一个明显转折出现后再判断，不要只凭开局几章决定。",
+      "forPlotReader": "剧情党重点看人物选择、成长压力和关系变化；这类作品通常不靠强悬疑或大世界观取胜。",
+      "forCPReader": "适合关注CP关系、暗恋、拉扯、回甜或救赎感的读者，建议重点看日常互动和情绪递进。",
+      "ifYouWantToDrop": "如果读到建议坚持区间后仍不吃人物性格、关系设定或情绪基调，可以合理放弃。"
+    },
+    "verification": {
+      "basicInfo": "中",
+      "chapterNodes": "低",
+      "readerDiscussion": "中",
+      "notes": [
+        "基础信息需平台核验",
+        "章节节点待人工核验",
+        "高光描述为不剧透类型化表达，不包含小说正文"
+      ]
+    }
+  },
+  {
+    "id": "book_050",
+    "title": "亲爱的阿基米德",
+    "author": "玖月晞",
+    "platform": "晋江文学城",
+    "officialUrl": "",
+    "status": "已完结",
+    "frontDisplayBadges": [
+      "悬疑恋爱",
+      "剧情党友好",
+      "CP张力强",
+      "推理向",
+      "强情绪"
+    ],
+    "hookSummary": "如果你想看恋爱和悬疑推理结合，这本适合放在剧情恋爱区。它的看点不是单纯甜宠，而是案件、人物关系和情绪张力一起推进。",
+    "basic": {
+      "categories": [
+        "现言",
+        "悬疑",
+        "推理",
+        "恋爱"
+      ],
+      "tags": [
+        "悬疑",
+        "推理",
+        "现言",
+        "CP",
+        "强剧情",
+        "恋爱",
+        "情绪向"
+      ],
+      "lengthType": "长篇",
+      "totalChapters": null,
+      "endingType": "HE/待核验",
+      "endingConfidence": "中"
+    },
+    "readerFit": {
+      "oneSentenceIntro": "一部悬疑推理和恋爱线并行的现言，适合喜欢剧情和CP都要的读者。",
+      "suitableFor": [
+        "喜欢悬疑恋爱",
+        "喜欢推理元素",
+        "喜欢强剧情CP",
+        "喜欢情绪张力"
+      ],
+      "notSuitableFor": [
+        "只想看轻松甜文",
+        "不喜欢案件推理",
+        "不喜欢剧情信息量",
+        "想看纯校园文"
+      ],
+      "readerTypes": [
+        "悬疑党",
+        "剧情党",
+        "CP党",
+        "现言读者"
+      ]
+    },
+    "readingExperience": {
+      "slowBurnLevel": 3,
+      "plotComplexity": 4,
+      "romanceWeight": 4,
+      "plotWeight": 5,
+      "emotionType": "悬疑、紧张、心动、强剧情",
+      "quitRisk": {
+        "range": "前10%-25%",
+        "reason": "前期需要适应案件线、人物设定和恋爱/悬疑并行的节奏。"
+      },
+      "stickUntil": {
+        "displayText": "建议至少读到第一个明显案件或关系转折收束后再判断。",
+        "chapter": null,
+        "progressRange": "10%-25%",
+        "confidence": "低"
+      }
+    },
+    "dropDecision": {
+      "ifAtBeginning": "如果开局觉得信息量大，先判断自己是否愿意看悬疑恋爱结合。",
+      "ifAtQuitRiskRange": "如果卡在前10%-25%，建议读到案件风格和CP互动都更清楚后再判断。",
+      "safeToDropAfter": "如果到25%左右仍不喜欢悬疑推理和恋爱并行，可以合理放弃。"
+    },
+    "highlightMap": [
+      {
+        "progressRange": "前10%",
+        "chapterRange": "待核验",
+        "type": "悬疑钩子建立",
+        "spoilerFreeText": "前期会建立推理氛围和人物初始关系，阅读需要同时关注案件与情绪。",
+        "lightSpoilerText": "案件线和人物关系会共同成为开局钩子。",
+        "emotion": [
+          "好奇",
+          "紧张",
+          "心动"
+        ],
+        "importance": 5,
+        "confidence": "中"
+      },
+      {
+        "progressRange": "10%-25%",
+        "chapterRange": "待核验",
+        "type": "案件推进",
+        "spoilerFreeText": "案件线更清楚后，故事的强剧情属性会显现，CP互动也会随压力升温。",
+        "lightSpoilerText": "推理和关系线会开始互相推动。",
+        "emotion": [
+          "悬疑",
+          "期待",
+          "上头"
+        ],
+        "importance": 5,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "25%-50%",
+        "chapterRange": "待核验",
+        "type": "关系与主线交织",
+        "spoilerFreeText": "中段的看点是人物关系不脱离案件，而是在推理和风险中加深。",
+        "lightSpoilerText": "CP张力会和悬疑主线更加绑定。",
+        "emotion": [
+          "心动",
+          "紧张",
+          "心疼"
+        ],
+        "importance": 5,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "50%-75%",
+        "chapterRange": "待核验",
+        "type": "主线升级",
+        "spoilerFreeText": "后半段案件压力和人物情绪都会增强，适合剧情党继续追。",
+        "lightSpoilerText": "更大的主线或人物秘密会逐渐浮出。",
+        "emotion": [
+          "震惊",
+          "压迫",
+          "期待"
+        ],
+        "importance": 4,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "后25%",
+        "chapterRange": "待核验",
+        "type": "真相收束",
+        "spoilerFreeText": "后期会集中回应案件、人物关系和主要悬念，情绪收束感更明显。",
+        "lightSpoilerText": "悬疑线和关系线会在后期共同收束。",
+        "emotion": [
+          "释然",
+          "满足",
+          "回收"
+        ],
+        "importance": 5,
+        "confidence": "低"
+      }
+    ],
+    "expectationWarnings": {
+      "slowBurn": "中等慢热",
+      "abuseLevel": "中等/待核验",
+      "misunderstandingLevel": "轻微/中等",
+      "endingConcern": "结局口径待核验",
+      "controversy": "主要争议可能在推理严谨性、感情线占比和案件接受度",
+      "otherWarnings": [
+        "有悬疑案件元素",
+        "信息量高于普通甜文",
+        "章节节点待核验"
+      ]
+    },
+    "routes": {
+      "forTrialReader": "建议先读到关系线、情绪钩子或第一个明显转折出现后再判断，不要只凭开局几章决定。",
+      "forPlotReader": "剧情党重点看人物选择、成长压力和关系变化；这类作品通常不靠强悬疑或大世界观取胜。",
+      "forCPReader": "适合关注CP关系、暗恋、拉扯、回甜或救赎感的读者，建议重点看日常互动和情绪递进。",
+      "ifYouWantToDrop": "如果读到建议坚持区间后仍不吃人物性格、关系设定或情绪基调，可以合理放弃。"
+    },
+    "verification": {
+      "basicInfo": "中",
+      "chapterNodes": "低",
+      "readerDiscussion": "中",
+      "notes": [
+        "基础信息需平台核验",
+        "章节节点待人工核验",
+        "高光描述为不剧透类型化表达，不包含小说正文"
+      ]
+    }
   }
 ]
