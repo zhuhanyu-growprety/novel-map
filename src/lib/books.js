@@ -53,6 +53,27 @@ export function getBookById(id) {
   return booksData.find((b) => b.id === id) ?? null;
 }
 
+function scoreTitleAuthorMatch(book, q) {
+  const title = (book.title || '').toLowerCase();
+  const author = (book.author || '').toLowerCase();
+  if (title === q) return { matched: true, score: 100, type: 'title' };
+  if (title.includes(q)) return { matched: true, score: 90 + Math.min(9, q.length), type: 'title' };
+  if (author === q) return { matched: true, score: 85, type: 'author' };
+  if (author.includes(q)) return { matched: true, score: 75 + Math.min(9, q.length), type: 'author' };
+  return { matched: false, score: 0, type: null };
+}
+
+/** 按书名或作者筛选，用于进度页搜索与推荐页书名命中 */
+export function searchBooksByTitleOrAuthor(query, books = booksData) {
+  const q = query.toLowerCase().trim();
+  if (!q) return [...books];
+  return books
+    .map((book) => ({ book, ...scoreTitleAuthorMatch(book, q) }))
+    .filter((item) => item.matched)
+    .sort((a, b) => b.score - a.score || a.book.title.localeCompare(b.book.title, 'zh-CN'))
+    .map((item) => item.book);
+}
+
 export function bookExists(id) {
   return booksData.some((b) => b.id === id);
 }
@@ -339,6 +360,38 @@ function buildBookReasons(book, activeRules, q) {
 
 export function recommendBooks(query, limit = 5) {
   const q = query.toLowerCase().trim();
+  const titleAuthorMatches = searchBooksByTitleOrAuthor(query);
+
+  if (titleAuthorMatches.length > 0) {
+    const results = titleAuthorMatches.slice(0, limit).map((book, i) => {
+      const match = scoreTitleAuthorMatch(book, q);
+      const reasons = [];
+      if (match.type === 'title') {
+        reasons.push(`书名命中「${query.trim()}」`);
+      } else {
+        reasons.push(`作者命中「${query.trim()}」`);
+      }
+      if (book.readerFit?.oneSentenceIntro) {
+        reasons.push(book.readerFit.oneSentenceIntro);
+      } else if (book.hookSummary) {
+        reasons.push(book.hookSummary.slice(0, 60) + (book.hookSummary.length > 60 ? '…' : ''));
+      }
+      return {
+        book,
+        score: Math.min(98, 96 - i * 2),
+        rawScore: match.score,
+        reasons,
+        warnings: ['暂无明显劝退信号，但仍建议先试读再决定'],
+        stickUntil: book.readingExperience?.stickUntil?.displayText || '信息待核验',
+      };
+    });
+
+    return {
+      detectedPrefs: [`书名/作者匹配（${titleAuthorMatches.length} 本）`],
+      results,
+    };
+  }
+
   const detectedPrefs = [];
   const activeRules = [];
 
