@@ -8624,5 +8624,5405 @@
         "高光描述为不剧透类型化表达，不包含小说正文"
       ]
     }
+  },
+  {
+    "id": "book_051",
+    "title": "亲爱的弗洛伊德",
+    "author": "玖月晞",
+    "platform": "晋江文学城",
+    "officialUrl": "",
+    "status": "已完结",
+    "frontDisplayBadges": [
+      "悬疑恋爱",
+      "心理推理",
+      "CP张力强",
+      "剧情党友好",
+      "强情绪"
+    ],
+    "hookSummary": "如果你喜欢恋爱线和悬疑心理线并行，这本适合放在剧情恋爱区。它不是单纯撒糖，而是案件、人物心理和关系张力一起推进。",
+    "basic": {
+      "categories": [
+        "现言",
+        "悬疑",
+        "推理",
+        "恋爱"
+      ],
+      "tags": [
+        "悬疑",
+        "心理",
+        "推理",
+        "现言",
+        "CP",
+        "强剧情",
+        "情绪向"
+      ],
+      "lengthType": "长篇",
+      "totalChapters": null,
+      "endingType": "HE/待核验",
+      "endingConfidence": "中"
+    },
+    "readerFit": {
+      "oneSentenceIntro": "一部悬疑心理和恋爱线并行的现言，适合喜欢推理、强剧情和CP张力的读者。",
+      "suitableFor": [
+        "喜欢悬疑恋爱",
+        "喜欢心理推理",
+        "喜欢强剧情CP",
+        "喜欢情绪张力"
+      ],
+      "notSuitableFor": [
+        "只想看轻松甜文",
+        "不喜欢案件推理",
+        "不喜欢心理议题",
+        "想看校园低压甜文"
+      ],
+      "readerTypes": [
+        "悬疑党",
+        "剧情党",
+        "CP党",
+        "现言读者"
+      ]
+    },
+    "readingExperience": {
+      "slowBurnLevel": 3,
+      "plotComplexity": 4,
+      "romanceWeight": 4,
+      "plotWeight": 5,
+      "emotionType": "悬疑、紧张、心动、强剧情",
+      "quitRisk": {
+        "range": "前10%-25%",
+        "reason": "前期需要适应案件、心理分析和恋爱线并行的信息量。"
+      },
+      "stickUntil": {
+        "displayText": "建议至少读到第一个明显案件或关系转折收束后再判断。",
+        "chapter": null,
+        "progressRange": "10%-25%",
+        "confidence": "低"
+      }
+    },
+    "dropDecision": {
+      "ifAtBeginning": "刚开始读不下去时，先判断自己是否接受这本书的题材、人物关系和情绪基调，不要只用开局几章判断。",
+      "ifAtQuitRiskRange": "如果卡在弃文风险区，建议继续到第一个明显关系转折或主线转折出现后再判断。",
+      "safeToDropAfter": "如果到建议坚持区间后仍不喜欢人物性格、关系设定或主要情绪方向，可以合理放弃。"
+    },
+    "highlightMap": [
+      {
+        "progressRange": "前10%",
+        "chapterRange": "待核验",
+        "type": "处境建立",
+        "spoilerFreeText": "亲爱的弗洛伊德这一阶段重点看人物处境、题材氛围和悬疑恋爱的初始钩子，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让人物处境、题材氛围和悬疑恋爱的初始钩子变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "好奇",
+          "代入",
+          "期待"
+        ],
+        "importance": 4,
+        "confidence": "中"
+      },
+      {
+        "progressRange": "10%-25%",
+        "chapterRange": "待核验",
+        "type": "关系/规则转折",
+        "spoilerFreeText": "亲爱的弗洛伊德这一阶段重点看悬疑恋爱开始变得明确，读者能看出这本文的主要吸引力，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让悬疑恋爱开始变得明确，读者能看出这本文的主要吸引力变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "上头",
+          "心动",
+          "期待"
+        ],
+        "importance": 5,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "25%-50%",
+        "chapterRange": "待核验",
+        "type": "主线展开",
+        "spoilerFreeText": "亲爱的弗洛伊德这一阶段重点看人物选择、关系压力和主要剧情线进一步推进，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让人物选择、关系压力和主要剧情线进一步推进变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "沉浸",
+          "心疼",
+          "成长"
+        ],
+        "importance": 5,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "50%-75%",
+        "chapterRange": "待核验",
+        "type": "情绪回收",
+        "spoilerFreeText": "亲爱的弗洛伊德这一阶段重点看前期铺垫开始回收，甜虐、权谋或成长线更集中，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让前期铺垫开始回收，甜虐、权谋或成长线更集中变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "释然",
+          "紧张",
+          "回甜"
+        ],
+        "importance": 4,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "后25%",
+        "chapterRange": "待核验",
+        "type": "结局收束",
+        "spoilerFreeText": "亲爱的弗洛伊德这一阶段重点看主要关系、人物选择和情绪落点逐渐收束，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让主要关系、人物选择和情绪落点逐渐收束变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "满足",
+          "释然",
+          "回收"
+        ],
+        "importance": 4,
+        "confidence": "低"
+      }
+    ],
+    "expectationWarnings": {
+      "slowBurn": "中等慢热",
+      "abuseLevel": "中等/待核验",
+      "misunderstandingLevel": "轻微/中等",
+      "endingConcern": "结局口径待核验",
+      "controversy": "主要争议可能在人物设定、情绪强度、题材口味或节奏接受度，需结合读者讨论继续核验。",
+      "otherWarnings": [
+        "章节节点待核验",
+        "不展示小说正文",
+        "高光描述为不剧透类型化表达"
+      ]
+    },
+    "routes": {
+      "forTrialReader": "建议至少读到关系线、情绪钩子或第一个明显转折出现后再判断，不要只凭开局几章决定。",
+      "forPlotReader": "剧情党重点看人物选择、成长压力、家庭/权力结构和关系变化。",
+      "forCPReader": "适合关注CP关系、暗恋、拉扯、回甜、救赎或婚恋经营的读者，建议重点看互动和情绪递进。",
+      "ifYouWantToDrop": "如果读到建议坚持区间后仍不吃人物性格、关系设定或情绪基调，可以合理放弃。"
+    },
+    "verification": {
+      "basicInfo": "中",
+      "chapterNodes": "低",
+      "readerDiscussion": "中",
+      "notes": [
+        "基础信息需平台核验",
+        "章节节点待人工核验",
+        "高光描述为不剧透类型化表达，不包含小说正文"
+      ]
+    }
+  },
+  {
+    "id": "book_052",
+    "title": "他知道风从哪个方向来",
+    "author": "玖月晞",
+    "platform": "晋江文学城",
+    "officialUrl": "",
+    "status": "已完结",
+    "frontDisplayBadges": [
+      "职业线恋爱",
+      "野性张力",
+      "CP张力强",
+      "现实向",
+      "强情绪"
+    ],
+    "hookSummary": "如果你想看职业环境、强吸引力和更成熟的爱情张力，这本适合放在成人现言区。它的氛围比校园甜文更野、更现实。",
+    "basic": {
+      "categories": [
+        "现言",
+        "职业",
+        "现实向",
+        "恋爱"
+      ],
+      "tags": [
+        "职业线",
+        "现言",
+        "野性张力",
+        "CP",
+        "现实向",
+        "强情绪",
+        "成长"
+      ],
+      "lengthType": "长篇",
+      "totalChapters": null,
+      "endingType": "HE/待核验",
+      "endingConfidence": "中"
+    },
+    "readerFit": {
+      "oneSentenceIntro": "一部职业线和强CP吸引力并重的现言，适合喜欢成熟关系、现实压力和情绪张力的读者。",
+      "suitableFor": [
+        "喜欢职业线恋爱",
+        "喜欢成熟CP张力",
+        "喜欢现实向现言",
+        "能接受强情绪"
+      ],
+      "notSuitableFor": [
+        "只想看校园甜文",
+        "不喜欢现实压力",
+        "不喜欢强烈人设",
+        "想看轻松低压日常"
+      ],
+      "readerTypes": [
+        "现言读者",
+        "职业线读者",
+        "CP党",
+        "情绪党"
+      ]
+    },
+    "readingExperience": {
+      "slowBurnLevel": 3,
+      "plotComplexity": 3,
+      "romanceWeight": 5,
+      "plotWeight": 4,
+      "emotionType": "野性、心动、现实、强情绪",
+      "quitRisk": {
+        "range": "前10%-25%",
+        "reason": "前期需要适应职业背景、人物气质和更成人向的关系张力。"
+      },
+      "stickUntil": {
+        "displayText": "建议至少读到两人关系和职业环境都明显展开的位置。",
+        "chapter": null,
+        "progressRange": "10%-25%",
+        "confidence": "低"
+      }
+    },
+    "dropDecision": {
+      "ifAtBeginning": "刚开始读不下去时，先判断自己是否接受这本书的题材、人物关系和情绪基调，不要只用开局几章判断。",
+      "ifAtQuitRiskRange": "如果卡在弃文风险区，建议继续到第一个明显关系转折或主线转折出现后再判断。",
+      "safeToDropAfter": "如果到建议坚持区间后仍不喜欢人物性格、关系设定或主要情绪方向，可以合理放弃。"
+    },
+    "highlightMap": [
+      {
+        "progressRange": "前10%",
+        "chapterRange": "待核验",
+        "type": "处境建立",
+        "spoilerFreeText": "他知道风从哪个方向来这一阶段重点看人物处境、题材氛围和职业线和关系牵引的初始钩子，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让人物处境、题材氛围和职业线和关系牵引的初始钩子变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "好奇",
+          "代入",
+          "期待"
+        ],
+        "importance": 4,
+        "confidence": "中"
+      },
+      {
+        "progressRange": "10%-25%",
+        "chapterRange": "待核验",
+        "type": "关系/规则转折",
+        "spoilerFreeText": "他知道风从哪个方向来这一阶段重点看职业线和关系牵引开始变得明确，读者能看出这本文的主要吸引力，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让职业线和关系牵引开始变得明确，读者能看出这本文的主要吸引力变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "上头",
+          "心动",
+          "期待"
+        ],
+        "importance": 5,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "25%-50%",
+        "chapterRange": "待核验",
+        "type": "主线展开",
+        "spoilerFreeText": "他知道风从哪个方向来这一阶段重点看人物选择、关系压力和主要剧情线进一步推进，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让人物选择、关系压力和主要剧情线进一步推进变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "沉浸",
+          "心疼",
+          "成长"
+        ],
+        "importance": 5,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "50%-75%",
+        "chapterRange": "待核验",
+        "type": "情绪回收",
+        "spoilerFreeText": "他知道风从哪个方向来这一阶段重点看前期铺垫开始回收，甜虐、权谋或成长线更集中，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让前期铺垫开始回收，甜虐、权谋或成长线更集中变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "释然",
+          "紧张",
+          "回甜"
+        ],
+        "importance": 4,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "后25%",
+        "chapterRange": "待核验",
+        "type": "结局收束",
+        "spoilerFreeText": "他知道风从哪个方向来这一阶段重点看主要关系、人物选择和情绪落点逐渐收束，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让主要关系、人物选择和情绪落点逐渐收束变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "满足",
+          "释然",
+          "回收"
+        ],
+        "importance": 4,
+        "confidence": "低"
+      }
+    ],
+    "expectationWarnings": {
+      "slowBurn": "中等慢热",
+      "abuseLevel": "中等/待核验",
+      "misunderstandingLevel": "轻微/中等",
+      "endingConcern": "结局口径待核验",
+      "controversy": "主要争议可能在人物设定、情绪强度、题材口味或节奏接受度，需结合读者讨论继续核验。",
+      "otherWarnings": [
+        "章节节点待核验",
+        "不展示小说正文",
+        "高光描述为不剧透类型化表达"
+      ]
+    },
+    "routes": {
+      "forTrialReader": "建议至少读到关系线、情绪钩子或第一个明显转折出现后再判断，不要只凭开局几章决定。",
+      "forPlotReader": "剧情党重点看人物选择、成长压力、家庭/权力结构和关系变化。",
+      "forCPReader": "适合关注CP关系、暗恋、拉扯、回甜、救赎或婚恋经营的读者，建议重点看互动和情绪递进。",
+      "ifYouWantToDrop": "如果读到建议坚持区间后仍不吃人物性格、关系设定或情绪基调，可以合理放弃。"
+    },
+    "verification": {
+      "basicInfo": "中",
+      "chapterNodes": "低",
+      "readerDiscussion": "中",
+      "notes": [
+        "基础信息需平台核验",
+        "章节节点待人工核验",
+        "高光描述为不剧透类型化表达，不包含小说正文"
+      ]
+    }
+  },
+  {
+    "id": "book_053",
+    "title": "十二年，故人戏",
+    "author": "墨宝非宝",
+    "platform": "晋江文学城",
+    "officialUrl": "",
+    "status": "已完结",
+    "frontDisplayBadges": [
+      "民国爱情",
+      "强情绪",
+      "家国背景",
+      "酸涩回甜",
+      "慢热后劲型"
+    ],
+    "hookSummary": "如果你喜欢时间跨度、民国背景和带家国底色的爱情，这本适合。它不是快速甜文，而是靠岁月、重逢和克制情绪积累后劲。",
+    "basic": {
+      "categories": [
+        "现言",
+        "民国",
+        "爱情",
+        "家国"
+      ],
+      "tags": [
+        "民国",
+        "家国",
+        "时间跨度",
+        "酸涩",
+        "CP",
+        "强情绪",
+        "克制"
+      ],
+      "lengthType": "长篇",
+      "totalChapters": null,
+      "endingType": "HE/待核验",
+      "endingConfidence": "中"
+    },
+    "readerFit": {
+      "oneSentenceIntro": "一部带民国背景和时间跨度的爱情作品，适合喜欢克制、家国底色和酸涩回甜的读者。",
+      "suitableFor": [
+        "喜欢民国爱情",
+        "喜欢时间跨度",
+        "喜欢强情绪",
+        "喜欢克制深情"
+      ],
+      "notSuitableFor": [
+        "只想看轻松甜文",
+        "不喜欢民国背景",
+        "不喜欢慢热",
+        "想看现代校园"
+      ],
+      "readerTypes": [
+        "情绪党",
+        "民国文读者",
+        "CP党",
+        "慢热读者"
+      ]
+    },
+    "readingExperience": {
+      "slowBurnLevel": 5,
+      "plotComplexity": 3,
+      "romanceWeight": 5,
+      "plotWeight": 4,
+      "emotionType": "克制、酸涩、家国、回甜",
+      "quitRisk": {
+        "range": "前10%-25%",
+        "reason": "前期需要适应时代背景、人物关系和慢热情绪积累。"
+      },
+      "stickUntil": {
+        "displayText": "建议至少读到时间跨度和核心关系牵引都明显的位置。",
+        "chapter": null,
+        "progressRange": "10%-25%",
+        "confidence": "低"
+      }
+    },
+    "dropDecision": {
+      "ifAtBeginning": "刚开始读不下去时，先判断自己是否接受这本书的题材、人物关系和情绪基调，不要只用开局几章判断。",
+      "ifAtQuitRiskRange": "如果卡在弃文风险区，建议继续到第一个明显关系转折或主线转折出现后再判断。",
+      "safeToDropAfter": "如果到建议坚持区间后仍不喜欢人物性格、关系设定或主要情绪方向，可以合理放弃。"
+    },
+    "highlightMap": [
+      {
+        "progressRange": "前10%",
+        "chapterRange": "待核验",
+        "type": "处境建立",
+        "spoilerFreeText": "十二年，故人戏这一阶段重点看人物处境、题材氛围和时代背景和关系牵引的初始钩子，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让人物处境、题材氛围和时代背景和关系牵引的初始钩子变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "好奇",
+          "代入",
+          "期待"
+        ],
+        "importance": 4,
+        "confidence": "中"
+      },
+      {
+        "progressRange": "10%-25%",
+        "chapterRange": "待核验",
+        "type": "关系/规则转折",
+        "spoilerFreeText": "十二年，故人戏这一阶段重点看时代背景和关系牵引开始变得明确，读者能看出这本文的主要吸引力，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让时代背景和关系牵引开始变得明确，读者能看出这本文的主要吸引力变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "上头",
+          "心动",
+          "期待"
+        ],
+        "importance": 5,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "25%-50%",
+        "chapterRange": "待核验",
+        "type": "主线展开",
+        "spoilerFreeText": "十二年，故人戏这一阶段重点看人物选择、关系压力和主要剧情线进一步推进，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让人物选择、关系压力和主要剧情线进一步推进变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "沉浸",
+          "心疼",
+          "成长"
+        ],
+        "importance": 5,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "50%-75%",
+        "chapterRange": "待核验",
+        "type": "情绪回收",
+        "spoilerFreeText": "十二年，故人戏这一阶段重点看前期铺垫开始回收，甜虐、权谋或成长线更集中，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让前期铺垫开始回收，甜虐、权谋或成长线更集中变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "释然",
+          "紧张",
+          "回甜"
+        ],
+        "importance": 4,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "后25%",
+        "chapterRange": "待核验",
+        "type": "结局收束",
+        "spoilerFreeText": "十二年，故人戏这一阶段重点看主要关系、人物选择和情绪落点逐渐收束，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让主要关系、人物选择和情绪落点逐渐收束变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "满足",
+          "释然",
+          "回收"
+        ],
+        "importance": 4,
+        "confidence": "低"
+      }
+    ],
+    "expectationWarnings": {
+      "slowBurn": "非常慢热",
+      "abuseLevel": "中等/待核验",
+      "misunderstandingLevel": "轻微/中等",
+      "endingConcern": "结局口径待核验",
+      "controversy": "主要争议可能在人物设定、情绪强度、题材口味或节奏接受度，需结合读者讨论继续核验。",
+      "otherWarnings": [
+        "章节节点待核验",
+        "不展示小说正文",
+        "高光描述为不剧透类型化表达"
+      ]
+    },
+    "routes": {
+      "forTrialReader": "建议至少读到关系线、情绪钩子或第一个明显转折出现后再判断，不要只凭开局几章决定。",
+      "forPlotReader": "剧情党重点看人物选择、成长压力、家庭/权力结构和关系变化。",
+      "forCPReader": "适合关注CP关系、暗恋、拉扯、回甜、救赎或婚恋经营的读者，建议重点看互动和情绪递进。",
+      "ifYouWantToDrop": "如果读到建议坚持区间后仍不吃人物性格、关系设定或情绪基调，可以合理放弃。"
+    },
+    "verification": {
+      "basicInfo": "中",
+      "chapterNodes": "低",
+      "readerDiscussion": "中",
+      "notes": [
+        "基础信息需平台核验",
+        "章节节点待人工核验",
+        "高光描述为不剧透类型化表达，不包含小说正文"
+      ]
+    }
+  },
+  {
+    "id": "book_054",
+    "title": "一生一世，美人骨",
+    "author": "墨宝非宝",
+    "platform": "晋江文学城",
+    "officialUrl": "",
+    "status": "已完结",
+    "frontDisplayBadges": [
+      "宿命爱情",
+      "前世今生",
+      "强情绪",
+      "甜虐交织",
+      "CP张力强"
+    ],
+    "hookSummary": "如果你喜欢前世今生、宿命感和温柔深情，这本适合放在古今羁绊区。它的吸引力来自克制、深情和命运回响。",
+    "basic": {
+      "categories": [
+        "现言",
+        "古今",
+        "宿命",
+        "爱情"
+      ],
+      "tags": [
+        "前世今生",
+        "宿命",
+        "深情",
+        "甜虐",
+        "CP",
+        "情绪向",
+        "治愈"
+      ],
+      "lengthType": "中篇",
+      "totalChapters": null,
+      "endingType": "HE/待核验",
+      "endingConfidence": "中"
+    },
+    "readerFit": {
+      "oneSentenceIntro": "一部以前世今生和宿命深情为核心的爱情作品，适合喜欢温柔克制与强情绪回响的读者。",
+      "suitableFor": [
+        "喜欢宿命爱情",
+        "喜欢前世今生",
+        "喜欢温柔深情",
+        "喜欢甜虐交织"
+      ],
+      "notSuitableFor": [
+        "不喜欢宿命设定",
+        "只想看现实甜文",
+        "不喜欢慢热克制",
+        "想看强剧情爽文"
+      ],
+      "readerTypes": [
+        "宿命文读者",
+        "CP党",
+        "甜虐党",
+        "情绪党"
+      ]
+    },
+    "readingExperience": {
+      "slowBurnLevel": 4,
+      "plotComplexity": 3,
+      "romanceWeight": 5,
+      "plotWeight": 3,
+      "emotionType": "宿命、温柔、酸涩、治愈",
+      "quitRisk": {
+        "range": "前10%-25%",
+        "reason": "前期需要适应前世今生和克制深情的叙事节奏。"
+      },
+      "stickUntil": {
+        "displayText": "建议至少读到宿命感和核心关系牵引都明显的位置。",
+        "chapter": null,
+        "progressRange": "10%-25%",
+        "confidence": "低"
+      }
+    },
+    "dropDecision": {
+      "ifAtBeginning": "刚开始读不下去时，先判断自己是否接受这本书的题材、人物关系和情绪基调，不要只用开局几章判断。",
+      "ifAtQuitRiskRange": "如果卡在弃文风险区，建议继续到第一个明显关系转折或主线转折出现后再判断。",
+      "safeToDropAfter": "如果到建议坚持区间后仍不喜欢人物性格、关系设定或主要情绪方向，可以合理放弃。"
+    },
+    "highlightMap": [
+      {
+        "progressRange": "前10%",
+        "chapterRange": "待核验",
+        "type": "处境建立",
+        "spoilerFreeText": "一生一世，美人骨这一阶段重点看人物处境、题材氛围和宿命感与关系牵引的初始钩子，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让人物处境、题材氛围和宿命感与关系牵引的初始钩子变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "好奇",
+          "代入",
+          "期待"
+        ],
+        "importance": 4,
+        "confidence": "中"
+      },
+      {
+        "progressRange": "10%-25%",
+        "chapterRange": "待核验",
+        "type": "关系/规则转折",
+        "spoilerFreeText": "一生一世，美人骨这一阶段重点看宿命感与关系牵引开始变得明确，读者能看出这本文的主要吸引力，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让宿命感与关系牵引开始变得明确，读者能看出这本文的主要吸引力变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "上头",
+          "心动",
+          "期待"
+        ],
+        "importance": 5,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "25%-50%",
+        "chapterRange": "待核验",
+        "type": "主线展开",
+        "spoilerFreeText": "一生一世，美人骨这一阶段重点看人物选择、关系压力和主要剧情线进一步推进，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让人物选择、关系压力和主要剧情线进一步推进变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "沉浸",
+          "心疼",
+          "成长"
+        ],
+        "importance": 5,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "50%-75%",
+        "chapterRange": "待核验",
+        "type": "情绪回收",
+        "spoilerFreeText": "一生一世，美人骨这一阶段重点看前期铺垫开始回收，甜虐、权谋或成长线更集中，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让前期铺垫开始回收，甜虐、权谋或成长线更集中变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "释然",
+          "紧张",
+          "回甜"
+        ],
+        "importance": 4,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "后25%",
+        "chapterRange": "待核验",
+        "type": "结局收束",
+        "spoilerFreeText": "一生一世，美人骨这一阶段重点看主要关系、人物选择和情绪落点逐渐收束，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让主要关系、人物选择和情绪落点逐渐收束变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "满足",
+          "释然",
+          "回收"
+        ],
+        "importance": 4,
+        "confidence": "低"
+      }
+    ],
+    "expectationWarnings": {
+      "slowBurn": "明显慢热",
+      "abuseLevel": "较重",
+      "misunderstandingLevel": "轻微/中等",
+      "endingConcern": "结局口径待核验",
+      "controversy": "主要争议可能在人物设定、情绪强度、题材口味或节奏接受度，需结合读者讨论继续核验。",
+      "otherWarnings": [
+        "章节节点待核验",
+        "不展示小说正文",
+        "高光描述为不剧透类型化表达"
+      ]
+    },
+    "routes": {
+      "forTrialReader": "建议至少读到关系线、情绪钩子或第一个明显转折出现后再判断，不要只凭开局几章决定。",
+      "forPlotReader": "剧情党重点看人物选择、成长压力、家庭/权力结构和关系变化。",
+      "forCPReader": "适合关注CP关系、暗恋、拉扯、回甜、救赎或婚恋经营的读者，建议重点看互动和情绪递进。",
+      "ifYouWantToDrop": "如果读到建议坚持区间后仍不吃人物性格、关系设定或情绪基调，可以合理放弃。"
+    },
+    "verification": {
+      "basicInfo": "中",
+      "chapterNodes": "低",
+      "readerDiscussion": "中",
+      "notes": [
+        "基础信息需平台核验",
+        "章节节点待人工核验",
+        "高光描述为不剧透类型化表达，不包含小说正文"
+      ]
+    }
+  },
+  {
+    "id": "book_055",
+    "title": "很想很想你",
+    "author": "墨宝非宝",
+    "platform": "晋江文学城",
+    "officialUrl": "",
+    "status": "已完结",
+    "frontDisplayBadges": [
+      "甜文低门槛",
+      "声控友好",
+      "治愈恋爱",
+      "CP张力强",
+      "轻松入门"
+    ],
+    "hookSummary": "如果你想找一本低压、甜、治愈、适合放松的现言，这本很适合。它的看点是声音、日常、陪伴和细水长流的心动。",
+    "basic": {
+      "categories": [
+        "现言",
+        "甜文",
+        "治愈",
+        "日常"
+      ],
+      "tags": [
+        "声控",
+        "甜文",
+        "治愈",
+        "日常",
+        "CP",
+        "美食",
+        "陪伴"
+      ],
+      "lengthType": "中篇",
+      "totalChapters": null,
+      "endingType": "HE/待核验",
+      "endingConfidence": "中"
+    },
+    "readerFit": {
+      "oneSentenceIntro": "一部轻松治愈的甜向现言，适合喜欢声音、美食、日常陪伴和低压恋爱的读者。",
+      "suitableFor": [
+        "喜欢甜文",
+        "喜欢治愈日常",
+        "喜欢声控设定",
+        "想看低压恋爱"
+      ],
+      "notSuitableFor": [
+        "想看强剧情",
+        "不喜欢日常流",
+        "不喜欢甜文",
+        "想看强虐强情绪"
+      ],
+      "readerTypes": [
+        "甜文党",
+        "声控读者",
+        "治愈文读者",
+        "轻松向读者"
+      ]
+    },
+    "readingExperience": {
+      "slowBurnLevel": 1,
+      "plotComplexity": 1,
+      "romanceWeight": 5,
+      "plotWeight": 2,
+      "emotionType": "甜、轻松、治愈、陪伴",
+      "quitRisk": {
+        "range": "前10%",
+        "reason": "如果读者不喜欢日常流和低压甜文，开局可能觉得剧情不够强。"
+      },
+      "stickUntil": {
+        "displayText": "建议至少读到两人稳定互动、声音和日常钩子都明显的位置。",
+        "chapter": null,
+        "progressRange": "前10%-15%",
+        "confidence": "低"
+      }
+    },
+    "dropDecision": {
+      "ifAtBeginning": "刚开始读不下去时，先判断自己是否接受这本书的题材、人物关系和情绪基调，不要只用开局几章判断。",
+      "ifAtQuitRiskRange": "如果卡在弃文风险区，建议继续到第一个明显关系转折或主线转折出现后再判断。",
+      "safeToDropAfter": "如果到建议坚持区间后仍不喜欢人物性格、关系设定或主要情绪方向，可以合理放弃。"
+    },
+    "highlightMap": [
+      {
+        "progressRange": "前10%",
+        "chapterRange": "待核验",
+        "type": "处境建立",
+        "spoilerFreeText": "很想很想你这一阶段重点看人物处境、题材氛围和声音、日常和陪伴感的初始钩子，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让人物处境、题材氛围和声音、日常和陪伴感的初始钩子变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "好奇",
+          "代入",
+          "期待"
+        ],
+        "importance": 4,
+        "confidence": "中"
+      },
+      {
+        "progressRange": "10%-25%",
+        "chapterRange": "待核验",
+        "type": "关系/规则转折",
+        "spoilerFreeText": "很想很想你这一阶段重点看声音、日常和陪伴感开始变得明确，读者能看出这本文的主要吸引力，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让声音、日常和陪伴感开始变得明确，读者能看出这本文的主要吸引力变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "上头",
+          "心动",
+          "期待"
+        ],
+        "importance": 5,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "25%-50%",
+        "chapterRange": "待核验",
+        "type": "主线展开",
+        "spoilerFreeText": "很想很想你这一阶段重点看人物选择、关系压力和主要剧情线进一步推进，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让人物选择、关系压力和主要剧情线进一步推进变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "沉浸",
+          "心疼",
+          "成长"
+        ],
+        "importance": 5,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "50%-75%",
+        "chapterRange": "待核验",
+        "type": "情绪回收",
+        "spoilerFreeText": "很想很想你这一阶段重点看前期铺垫开始回收，甜虐、权谋或成长线更集中，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让前期铺垫开始回收，甜虐、权谋或成长线更集中变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "释然",
+          "紧张",
+          "回甜"
+        ],
+        "importance": 4,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "后25%",
+        "chapterRange": "待核验",
+        "type": "结局收束",
+        "spoilerFreeText": "很想很想你这一阶段重点看主要关系、人物选择和情绪落点逐渐收束，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让主要关系、人物选择和情绪落点逐渐收束变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "满足",
+          "释然",
+          "回收"
+        ],
+        "importance": 4,
+        "confidence": "低"
+      }
+    ],
+    "expectationWarnings": {
+      "slowBurn": "不算慢热",
+      "abuseLevel": "中等/待核验",
+      "misunderstandingLevel": "轻微/中等",
+      "endingConcern": "结局口径待核验",
+      "controversy": "主要争议可能在人物设定、情绪强度、题材口味或节奏接受度，需结合读者讨论继续核验。",
+      "otherWarnings": [
+        "章节节点待核验",
+        "不展示小说正文",
+        "高光描述为不剧透类型化表达"
+      ]
+    },
+    "routes": {
+      "forTrialReader": "建议至少读到关系线、情绪钩子或第一个明显转折出现后再判断，不要只凭开局几章决定。",
+      "forPlotReader": "剧情党重点看人物选择、成长压力、家庭/权力结构和关系变化。",
+      "forCPReader": "适合关注CP关系、暗恋、拉扯、回甜、救赎或婚恋经营的读者，建议重点看互动和情绪递进。",
+      "ifYouWantToDrop": "如果读到建议坚持区间后仍不吃人物性格、关系设定或情绪基调，可以合理放弃。"
+    },
+    "verification": {
+      "basicInfo": "中",
+      "chapterNodes": "低",
+      "readerDiscussion": "中",
+      "notes": [
+        "基础信息需平台核验",
+        "章节节点待人工核验",
+        "高光描述为不剧透类型化表达，不包含小说正文"
+      ]
+    }
+  },
+  {
+    "id": "book_056",
+    "title": "坤宁",
+    "author": "时镜",
+    "platform": "晋江文学城/待核验",
+    "officialUrl": "",
+    "status": "已完结",
+    "frontDisplayBadges": [
+      "古言重生",
+      "权谋强剧情",
+      "CP张力强",
+      "强情绪",
+      "救赎向"
+    ],
+    "hookSummary": "如果你想看重生、权谋和情感张力并重，适合喜欢女主重新选择人生和复杂关系的读者。",
+    "basic": {
+      "categories": [
+        "古言",
+        "重生",
+        "权谋",
+        "婚恋"
+      ],
+      "tags": [
+        "重生",
+        "权谋",
+        "古言",
+        "CP",
+        "救赎",
+        "强情绪",
+        "朝堂"
+      ],
+      "lengthType": "长篇",
+      "totalChapters": null,
+      "endingType": "HE/待核验",
+      "endingConfidence": "中"
+    },
+    "readerFit": {
+      "oneSentenceIntro": "一部以古言、重生为主要气质的作品，适合喜欢古言重生和权谋强剧情的读者。",
+      "suitableFor": [
+        "喜欢古言重生",
+        "喜欢权谋强剧情",
+        "喜欢古言或古风氛围",
+        "能接受人物关系铺垫"
+      ],
+      "notSuitableFor": [
+        "只想看现代校园甜文",
+        "不喜欢古言语境",
+        "不耐烦人物关系铺陈",
+        "想看快节奏无脑爽文"
+      ],
+      "readerTypes": [
+        "古言读者",
+        "CP党",
+        "女性成长线读者",
+        "慢热读者"
+      ]
+    },
+    "readingExperience": {
+      "slowBurnLevel": 4,
+      "plotComplexity": 4,
+      "romanceWeight": 5,
+      "plotWeight": 5,
+      "emotionType": "甜虐、心动、回甜、婚恋",
+      "quitRisk": {
+        "range": "前10%-25%",
+        "reason": "古言权谋与重生处境需要一定适应，人物关系也不是开局全甜。"
+      },
+      "stickUntil": {
+        "displayText": "建议至少读到人物关系、核心处境和第一个明显转折都展开后再判断。",
+        "chapter": null,
+        "progressRange": "10%-25%",
+        "confidence": "低"
+      }
+    },
+    "dropDecision": {
+      "ifAtBeginning": "刚开始读不下去时，先判断自己是否接受这本书的题材、人物关系和情绪基调，不要只用开局几章判断。",
+      "ifAtQuitRiskRange": "如果卡在弃文风险区，建议继续到第一个明显关系转折或主线转折出现后再判断。",
+      "safeToDropAfter": "如果到建议坚持区间后仍不喜欢人物性格、关系设定或主要情绪方向，可以合理放弃。"
+    },
+    "highlightMap": [
+      {
+        "progressRange": "前10%",
+        "chapterRange": "待核验",
+        "type": "处境建立",
+        "spoilerFreeText": "坤宁这一阶段重点看人物处境、题材氛围和人物关系、核心处境和古言规则的初始钩子，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让人物处境、题材氛围和人物关系、核心处境和古言规则的初始钩子变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "好奇",
+          "代入",
+          "期待"
+        ],
+        "importance": 4,
+        "confidence": "中"
+      },
+      {
+        "progressRange": "10%-25%",
+        "chapterRange": "待核验",
+        "type": "关系/规则转折",
+        "spoilerFreeText": "坤宁这一阶段重点看人物关系、核心处境和古言规则开始变得明确，读者能看出这本文的主要吸引力，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让人物关系、核心处境和古言规则开始变得明确，读者能看出这本文的主要吸引力变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "上头",
+          "心动",
+          "期待"
+        ],
+        "importance": 5,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "25%-50%",
+        "chapterRange": "待核验",
+        "type": "主线展开",
+        "spoilerFreeText": "坤宁这一阶段重点看人物选择、关系压力和主要剧情线进一步推进，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让人物选择、关系压力和主要剧情线进一步推进变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "沉浸",
+          "心疼",
+          "成长"
+        ],
+        "importance": 5,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "50%-75%",
+        "chapterRange": "待核验",
+        "type": "情绪回收",
+        "spoilerFreeText": "坤宁这一阶段重点看前期铺垫开始回收，甜虐、权谋或成长线更集中，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让前期铺垫开始回收，甜虐、权谋或成长线更集中变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "释然",
+          "紧张",
+          "回甜"
+        ],
+        "importance": 4,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "后25%",
+        "chapterRange": "待核验",
+        "type": "结局收束",
+        "spoilerFreeText": "坤宁这一阶段重点看主要关系、人物选择和情绪落点逐渐收束，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让主要关系、人物选择和情绪落点逐渐收束变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "满足",
+          "释然",
+          "回收"
+        ],
+        "importance": 4,
+        "confidence": "低"
+      }
+    ],
+    "expectationWarnings": {
+      "slowBurn": "明显慢热",
+      "abuseLevel": "较重",
+      "misunderstandingLevel": "轻微/中等",
+      "endingConcern": "结局口径待核验",
+      "controversy": "主要争议可能在人物设定、情绪强度、题材口味或节奏接受度，需结合读者讨论继续核验。",
+      "otherWarnings": [
+        "章节节点待核验",
+        "不展示小说正文",
+        "高光描述为不剧透类型化表达"
+      ]
+    },
+    "routes": {
+      "forTrialReader": "建议至少读到关系线、情绪钩子或第一个明显转折出现后再判断，不要只凭开局几章决定。",
+      "forPlotReader": "剧情党重点看人物选择、成长压力、家庭/权力结构和关系变化。",
+      "forCPReader": "适合关注CP关系、暗恋、拉扯、回甜、救赎或婚恋经营的读者，建议重点看互动和情绪递进。",
+      "ifYouWantToDrop": "如果读到建议坚持区间后仍不吃人物性格、关系设定或情绪基调，可以合理放弃。"
+    },
+    "verification": {
+      "basicInfo": "中",
+      "chapterNodes": "低",
+      "readerDiscussion": "中",
+      "notes": [
+        "基础信息需平台核验",
+        "章节节点待人工核验",
+        "高光描述为不剧透类型化表达，不包含小说正文"
+      ]
+    }
+  },
+  {
+    "id": "book_057",
+    "title": "恰逢雨连天",
+    "author": "沉筱之",
+    "platform": "晋江文学城/待核验",
+    "officialUrl": "",
+    "status": "已完结",
+    "frontDisplayBadges": [
+      "古言权谋",
+      "朝堂群像",
+      "慢热后劲型",
+      "CP张力强",
+      "强剧情"
+    ],
+    "hookSummary": "如果你想看朝堂、身份和关系线交织，适合喜欢古言权谋和克制情绪的读者。",
+    "basic": {
+      "categories": [
+        "古言",
+        "权谋",
+        "朝堂",
+        "情绪向"
+      ],
+      "tags": [
+        "古言",
+        "权谋",
+        "朝堂",
+        "群像",
+        "CP",
+        "慢热",
+        "强剧情"
+      ],
+      "lengthType": "长篇",
+      "totalChapters": null,
+      "endingType": "HE/待核验",
+      "endingConfidence": "中"
+    },
+    "readerFit": {
+      "oneSentenceIntro": "一部以古言、权谋为主要气质的作品，适合喜欢古言权谋和朝堂群像的读者。",
+      "suitableFor": [
+        "喜欢古言权谋",
+        "喜欢朝堂群像",
+        "喜欢古言或古风氛围",
+        "能接受人物关系铺垫"
+      ],
+      "notSuitableFor": [
+        "只想看现代校园甜文",
+        "不喜欢古言语境",
+        "不耐烦人物关系铺陈",
+        "想看快节奏无脑爽文"
+      ],
+      "readerTypes": [
+        "古言读者",
+        "CP党",
+        "女性成长线读者",
+        "慢热读者"
+      ]
+    },
+    "readingExperience": {
+      "slowBurnLevel": 5,
+      "plotComplexity": 5,
+      "romanceWeight": 4,
+      "plotWeight": 5,
+      "emotionType": "权谋、成长、克制、剧情",
+      "quitRisk": {
+        "range": "前10%-25%",
+        "reason": "前期人物关系、朝堂结构和文风都偏慢热，需要耐心进入。"
+      },
+      "stickUntil": {
+        "displayText": "建议至少读到人物关系、核心处境和第一个明显转折都展开后再判断。",
+        "chapter": null,
+        "progressRange": "10%-25%",
+        "confidence": "低"
+      }
+    },
+    "dropDecision": {
+      "ifAtBeginning": "刚开始读不下去时，先判断自己是否接受这本书的题材、人物关系和情绪基调，不要只用开局几章判断。",
+      "ifAtQuitRiskRange": "如果卡在弃文风险区，建议继续到第一个明显关系转折或主线转折出现后再判断。",
+      "safeToDropAfter": "如果到建议坚持区间后仍不喜欢人物性格、关系设定或主要情绪方向，可以合理放弃。"
+    },
+    "highlightMap": [
+      {
+        "progressRange": "前10%",
+        "chapterRange": "待核验",
+        "type": "处境建立",
+        "spoilerFreeText": "恰逢雨连天这一阶段重点看人物处境、题材氛围和人物关系、核心处境和古言规则的初始钩子，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让人物处境、题材氛围和人物关系、核心处境和古言规则的初始钩子变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "好奇",
+          "代入",
+          "期待"
+        ],
+        "importance": 4,
+        "confidence": "中"
+      },
+      {
+        "progressRange": "10%-25%",
+        "chapterRange": "待核验",
+        "type": "关系/规则转折",
+        "spoilerFreeText": "恰逢雨连天这一阶段重点看人物关系、核心处境和古言规则开始变得明确，读者能看出这本文的主要吸引力，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让人物关系、核心处境和古言规则开始变得明确，读者能看出这本文的主要吸引力变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "上头",
+          "心动",
+          "期待"
+        ],
+        "importance": 5,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "25%-50%",
+        "chapterRange": "待核验",
+        "type": "主线展开",
+        "spoilerFreeText": "恰逢雨连天这一阶段重点看人物选择、关系压力和主要剧情线进一步推进，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让人物选择、关系压力和主要剧情线进一步推进变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "沉浸",
+          "心疼",
+          "成长"
+        ],
+        "importance": 5,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "50%-75%",
+        "chapterRange": "待核验",
+        "type": "情绪回收",
+        "spoilerFreeText": "恰逢雨连天这一阶段重点看前期铺垫开始回收，甜虐、权谋或成长线更集中，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让前期铺垫开始回收，甜虐、权谋或成长线更集中变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "释然",
+          "紧张",
+          "回甜"
+        ],
+        "importance": 4,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "后25%",
+        "chapterRange": "待核验",
+        "type": "结局收束",
+        "spoilerFreeText": "恰逢雨连天这一阶段重点看主要关系、人物选择和情绪落点逐渐收束，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让主要关系、人物选择和情绪落点逐渐收束变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "满足",
+          "释然",
+          "回收"
+        ],
+        "importance": 4,
+        "confidence": "低"
+      }
+    ],
+    "expectationWarnings": {
+      "slowBurn": "非常慢热",
+      "abuseLevel": "轻微/中等",
+      "misunderstandingLevel": "轻微/中等",
+      "endingConcern": "结局口径待核验",
+      "controversy": "主要争议可能在人物设定、情绪强度、题材口味或节奏接受度，需结合读者讨论继续核验。",
+      "otherWarnings": [
+        "章节节点待核验",
+        "不展示小说正文",
+        "高光描述为不剧透类型化表达"
+      ]
+    },
+    "routes": {
+      "forTrialReader": "建议至少读到关系线、情绪钩子或第一个明显转折出现后再判断，不要只凭开局几章决定。",
+      "forPlotReader": "剧情党重点看人物选择、成长压力、家庭/权力结构和关系变化。",
+      "forCPReader": "适合关注CP关系、暗恋、拉扯、回甜、救赎或婚恋经营的读者，建议重点看互动和情绪递进。",
+      "ifYouWantToDrop": "如果读到建议坚持区间后仍不吃人物性格、关系设定或情绪基调，可以合理放弃。"
+    },
+    "verification": {
+      "basicInfo": "中",
+      "chapterNodes": "低",
+      "readerDiscussion": "中",
+      "notes": [
+        "基础信息需平台核验",
+        "章节节点待人工核验",
+        "高光描述为不剧透类型化表达，不包含小说正文"
+      ]
+    }
+  },
+  {
+    "id": "book_058",
+    "title": "长安第一美人",
+    "author": "发达的泪腺",
+    "platform": "晋江文学城/待核验",
+    "officialUrl": "",
+    "status": "已完结",
+    "frontDisplayBadges": [
+      "古言婚恋",
+      "CP张力强",
+      "酸涩回甜",
+      "甜虐交织",
+      "氛围感"
+    ],
+    "hookSummary": "如果你想看古言氛围和感情拉扯较强，适合喜欢美人、婚恋和酸甜回响的读者。",
+    "basic": {
+      "categories": [
+        "古言",
+        "婚恋",
+        "甜虐",
+        "情绪向"
+      ],
+      "tags": [
+        "古言",
+        "婚恋",
+        "美人",
+        "CP",
+        "酸涩",
+        "甜虐",
+        "氛围感"
+      ],
+      "lengthType": "中篇",
+      "totalChapters": null,
+      "endingType": "HE/待核验",
+      "endingConfidence": "中"
+    },
+    "readerFit": {
+      "oneSentenceIntro": "一部以古言、婚恋为主要气质的作品，适合喜欢古言婚恋和CP张力强的读者。",
+      "suitableFor": [
+        "喜欢古言婚恋",
+        "喜欢CP张力强",
+        "喜欢古言或古风氛围",
+        "能接受人物关系铺垫"
+      ],
+      "notSuitableFor": [
+        "只想看现代校园甜文",
+        "不喜欢古言语境",
+        "不耐烦人物关系铺陈",
+        "想看快节奏无脑爽文"
+      ],
+      "readerTypes": [
+        "古言读者",
+        "CP党",
+        "女性成长线读者",
+        "甜虐党"
+      ]
+    },
+    "readingExperience": {
+      "slowBurnLevel": 3,
+      "plotComplexity": 3,
+      "romanceWeight": 5,
+      "plotWeight": 3,
+      "emotionType": "甜虐、心动、回甜、婚恋",
+      "quitRisk": {
+        "range": "前10%-25%",
+        "reason": "前期需要适应人物关系和古言氛围，甜度不是立刻释放。"
+      },
+      "stickUntil": {
+        "displayText": "建议至少读到人物关系、核心处境和第一个明显转折都展开后再判断。",
+        "chapter": null,
+        "progressRange": "10%-25%",
+        "confidence": "低"
+      }
+    },
+    "dropDecision": {
+      "ifAtBeginning": "刚开始读不下去时，先判断自己是否接受这本书的题材、人物关系和情绪基调，不要只用开局几章判断。",
+      "ifAtQuitRiskRange": "如果卡在弃文风险区，建议继续到第一个明显关系转折或主线转折出现后再判断。",
+      "safeToDropAfter": "如果到建议坚持区间后仍不喜欢人物性格、关系设定或主要情绪方向，可以合理放弃。"
+    },
+    "highlightMap": [
+      {
+        "progressRange": "前10%",
+        "chapterRange": "待核验",
+        "type": "处境建立",
+        "spoilerFreeText": "长安第一美人这一阶段重点看人物处境、题材氛围和人物关系、核心处境和古言规则的初始钩子，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让人物处境、题材氛围和人物关系、核心处境和古言规则的初始钩子变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "好奇",
+          "代入",
+          "期待"
+        ],
+        "importance": 4,
+        "confidence": "中"
+      },
+      {
+        "progressRange": "10%-25%",
+        "chapterRange": "待核验",
+        "type": "关系/规则转折",
+        "spoilerFreeText": "长安第一美人这一阶段重点看人物关系、核心处境和古言规则开始变得明确，读者能看出这本文的主要吸引力，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让人物关系、核心处境和古言规则开始变得明确，读者能看出这本文的主要吸引力变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "上头",
+          "心动",
+          "期待"
+        ],
+        "importance": 5,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "25%-50%",
+        "chapterRange": "待核验",
+        "type": "主线展开",
+        "spoilerFreeText": "长安第一美人这一阶段重点看人物选择、关系压力和主要剧情线进一步推进，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让人物选择、关系压力和主要剧情线进一步推进变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "沉浸",
+          "心疼",
+          "成长"
+        ],
+        "importance": 5,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "50%-75%",
+        "chapterRange": "待核验",
+        "type": "情绪回收",
+        "spoilerFreeText": "长安第一美人这一阶段重点看前期铺垫开始回收，甜虐、权谋或成长线更集中，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让前期铺垫开始回收，甜虐、权谋或成长线更集中变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "释然",
+          "紧张",
+          "回甜"
+        ],
+        "importance": 4,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "后25%",
+        "chapterRange": "待核验",
+        "type": "结局收束",
+        "spoilerFreeText": "长安第一美人这一阶段重点看主要关系、人物选择和情绪落点逐渐收束，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让主要关系、人物选择和情绪落点逐渐收束变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "满足",
+          "释然",
+          "回收"
+        ],
+        "importance": 4,
+        "confidence": "低"
+      }
+    ],
+    "expectationWarnings": {
+      "slowBurn": "中等慢热",
+      "abuseLevel": "较重",
+      "misunderstandingLevel": "轻微/中等",
+      "endingConcern": "结局口径待核验",
+      "controversy": "主要争议可能在人物设定、情绪强度、题材口味或节奏接受度，需结合读者讨论继续核验。",
+      "otherWarnings": [
+        "章节节点待核验",
+        "不展示小说正文",
+        "高光描述为不剧透类型化表达"
+      ]
+    },
+    "routes": {
+      "forTrialReader": "建议至少读到关系线、情绪钩子或第一个明显转折出现后再判断，不要只凭开局几章决定。",
+      "forPlotReader": "剧情党重点看人物选择、成长压力、家庭/权力结构和关系变化。",
+      "forCPReader": "适合关注CP关系、暗恋、拉扯、回甜、救赎或婚恋经营的读者，建议重点看互动和情绪递进。",
+      "ifYouWantToDrop": "如果读到建议坚持区间后仍不吃人物性格、关系设定或情绪基调，可以合理放弃。"
+    },
+    "verification": {
+      "basicInfo": "中",
+      "chapterNodes": "低",
+      "readerDiscussion": "中",
+      "notes": [
+        "基础信息需平台核验",
+        "章节节点待人工核验",
+        "高光描述为不剧透类型化表达，不包含小说正文"
+      ]
+    }
+  },
+  {
+    "id": "book_059",
+    "title": "春日宴",
+    "author": "白鹭成双",
+    "platform": "晋江文学城/待核验",
+    "officialUrl": "",
+    "status": "已完结",
+    "frontDisplayBadges": [
+      "古言反转",
+      "追妻火葬场",
+      "CP张力强",
+      "甜虐交织",
+      "开局上头型"
+    ],
+    "hookSummary": "如果你想看适合喜欢身份反转、情感拉扯和追妻火葬场的读者，开局钩子较强。",
+    "basic": {
+      "categories": [
+        "古言",
+        "重生",
+        "甜虐",
+        "婚恋"
+      ],
+      "tags": [
+        "古言",
+        "反转",
+        "追妻火葬场",
+        "CP",
+        "甜虐",
+        "重生",
+        "强情绪"
+      ],
+      "lengthType": "中篇",
+      "totalChapters": null,
+      "endingType": "HE/待核验",
+      "endingConfidence": "中"
+    },
+    "readerFit": {
+      "oneSentenceIntro": "一部以古言、重生为主要气质的作品，适合喜欢古言反转和追妻火葬场的读者。",
+      "suitableFor": [
+        "喜欢古言反转",
+        "喜欢追妻火葬场",
+        "喜欢古言或古风氛围",
+        "能接受人物关系铺垫"
+      ],
+      "notSuitableFor": [
+        "只想看现代校园甜文",
+        "不喜欢古言语境",
+        "不耐烦人物关系铺陈",
+        "想看快节奏无脑爽文"
+      ],
+      "readerTypes": [
+        "古言读者",
+        "CP党",
+        "女性成长线读者",
+        "甜虐党"
+      ]
+    },
+    "readingExperience": {
+      "slowBurnLevel": 2,
+      "plotComplexity": 3,
+      "romanceWeight": 5,
+      "plotWeight": 4,
+      "emotionType": "甜虐、心动、回甜、婚恋",
+      "quitRisk": {
+        "range": "前10%",
+        "reason": "如果不吃反转、误会或追妻火葬场设定，开局就可能不对口。"
+      },
+      "stickUntil": {
+        "displayText": "建议至少读到人物关系、核心处境和第一个明显转折都展开后再判断。",
+        "chapter": null,
+        "progressRange": "前10%-15%",
+        "confidence": "低"
+      }
+    },
+    "dropDecision": {
+      "ifAtBeginning": "刚开始读不下去时，先判断自己是否接受这本书的题材、人物关系和情绪基调，不要只用开局几章判断。",
+      "ifAtQuitRiskRange": "如果卡在弃文风险区，建议继续到第一个明显关系转折或主线转折出现后再判断。",
+      "safeToDropAfter": "如果到建议坚持区间后仍不喜欢人物性格、关系设定或主要情绪方向，可以合理放弃。"
+    },
+    "highlightMap": [
+      {
+        "progressRange": "前10%",
+        "chapterRange": "待核验",
+        "type": "处境建立",
+        "spoilerFreeText": "春日宴这一阶段重点看人物处境、题材氛围和人物关系、核心处境和古言规则的初始钩子，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让人物处境、题材氛围和人物关系、核心处境和古言规则的初始钩子变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "好奇",
+          "代入",
+          "期待"
+        ],
+        "importance": 4,
+        "confidence": "中"
+      },
+      {
+        "progressRange": "10%-25%",
+        "chapterRange": "待核验",
+        "type": "关系/规则转折",
+        "spoilerFreeText": "春日宴这一阶段重点看人物关系、核心处境和古言规则开始变得明确，读者能看出这本文的主要吸引力，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让人物关系、核心处境和古言规则开始变得明确，读者能看出这本文的主要吸引力变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "上头",
+          "心动",
+          "期待"
+        ],
+        "importance": 5,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "25%-50%",
+        "chapterRange": "待核验",
+        "type": "主线展开",
+        "spoilerFreeText": "春日宴这一阶段重点看人物选择、关系压力和主要剧情线进一步推进，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让人物选择、关系压力和主要剧情线进一步推进变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "沉浸",
+          "心疼",
+          "成长"
+        ],
+        "importance": 5,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "50%-75%",
+        "chapterRange": "待核验",
+        "type": "情绪回收",
+        "spoilerFreeText": "春日宴这一阶段重点看前期铺垫开始回收，甜虐、权谋或成长线更集中，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让前期铺垫开始回收，甜虐、权谋或成长线更集中变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "释然",
+          "紧张",
+          "回甜"
+        ],
+        "importance": 4,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "后25%",
+        "chapterRange": "待核验",
+        "type": "结局收束",
+        "spoilerFreeText": "春日宴这一阶段重点看主要关系、人物选择和情绪落点逐渐收束，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让主要关系、人物选择和情绪落点逐渐收束变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "满足",
+          "释然",
+          "回收"
+        ],
+        "importance": 4,
+        "confidence": "低"
+      }
+    ],
+    "expectationWarnings": {
+      "slowBurn": "不算慢热",
+      "abuseLevel": "较重",
+      "misunderstandingLevel": "轻微/中等",
+      "endingConcern": "结局口径待核验",
+      "controversy": "主要争议可能在人物设定、情绪强度、题材口味或节奏接受度，需结合读者讨论继续核验。",
+      "otherWarnings": [
+        "章节节点待核验",
+        "不展示小说正文",
+        "高光描述为不剧透类型化表达"
+      ]
+    },
+    "routes": {
+      "forTrialReader": "建议至少读到关系线、情绪钩子或第一个明显转折出现后再判断，不要只凭开局几章决定。",
+      "forPlotReader": "剧情党重点看人物选择、成长压力、家庭/权力结构和关系变化。",
+      "forCPReader": "适合关注CP关系、暗恋、拉扯、回甜、救赎或婚恋经营的读者，建议重点看互动和情绪递进。",
+      "ifYouWantToDrop": "如果读到建议坚持区间后仍不吃人物性格、关系设定或情绪基调，可以合理放弃。"
+    },
+    "verification": {
+      "basicInfo": "中",
+      "chapterNodes": "低",
+      "readerDiscussion": "中",
+      "notes": [
+        "基础信息需平台核验",
+        "章节节点待人工核验",
+        "高光描述为不剧透类型化表达，不包含小说正文"
+      ]
+    }
+  },
+  {
+    "id": "book_060",
+    "title": "惜花芷",
+    "author": "空留",
+    "platform": "晋江文学城/待核验",
+    "officialUrl": "",
+    "status": "已完结",
+    "frontDisplayBadges": [
+      "女性成长",
+      "家族经营",
+      "古言群像",
+      "事业线",
+      "慢热后劲型"
+    ],
+    "hookSummary": "如果你想看女主承担家族、经营和成长压力，适合喜欢女性成长和家族经营的读者。",
+    "basic": {
+      "categories": [
+        "古言",
+        "女性成长",
+        "家族",
+        "经营"
+      ],
+      "tags": [
+        "女性成长",
+        "家族经营",
+        "古言",
+        "事业线",
+        "群像",
+        "慢热",
+        "CP"
+      ],
+      "lengthType": "长篇",
+      "totalChapters": null,
+      "endingType": "HE/待核验",
+      "endingConfidence": "中"
+    },
+    "readerFit": {
+      "oneSentenceIntro": "一部以古言、女性成长为主要气质的作品，适合喜欢女性成长和家族经营的读者。",
+      "suitableFor": [
+        "喜欢女性成长",
+        "喜欢家族经营",
+        "喜欢古言或古风氛围",
+        "能接受人物关系铺垫"
+      ],
+      "notSuitableFor": [
+        "只想看现代校园甜文",
+        "不喜欢古言语境",
+        "不耐烦人物关系铺陈",
+        "想看快节奏无脑爽文"
+      ],
+      "readerTypes": [
+        "古言读者",
+        "剧情党",
+        "女性成长线读者",
+        "慢热读者"
+      ]
+    },
+    "readingExperience": {
+      "slowBurnLevel": 4,
+      "plotComplexity": 4,
+      "romanceWeight": 3,
+      "plotWeight": 5,
+      "emotionType": "权谋、成长、克制、剧情",
+      "quitRisk": {
+        "range": "前10%-25%",
+        "reason": "前期偏家族处境和经营铺垫，恋爱不是唯一核心。"
+      },
+      "stickUntil": {
+        "displayText": "建议至少读到人物关系、核心处境和第一个明显转折都展开后再判断。",
+        "chapter": null,
+        "progressRange": "10%-25%",
+        "confidence": "低"
+      }
+    },
+    "dropDecision": {
+      "ifAtBeginning": "刚开始读不下去时，先判断自己是否接受这本书的题材、人物关系和情绪基调，不要只用开局几章判断。",
+      "ifAtQuitRiskRange": "如果卡在弃文风险区，建议继续到第一个明显关系转折或主线转折出现后再判断。",
+      "safeToDropAfter": "如果到建议坚持区间后仍不喜欢人物性格、关系设定或主要情绪方向，可以合理放弃。"
+    },
+    "highlightMap": [
+      {
+        "progressRange": "前10%",
+        "chapterRange": "待核验",
+        "type": "处境建立",
+        "spoilerFreeText": "惜花芷这一阶段重点看人物处境、题材氛围和人物关系、核心处境和古言规则的初始钩子，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让人物处境、题材氛围和人物关系、核心处境和古言规则的初始钩子变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "好奇",
+          "代入",
+          "期待"
+        ],
+        "importance": 4,
+        "confidence": "中"
+      },
+      {
+        "progressRange": "10%-25%",
+        "chapterRange": "待核验",
+        "type": "关系/规则转折",
+        "spoilerFreeText": "惜花芷这一阶段重点看人物关系、核心处境和古言规则开始变得明确，读者能看出这本文的主要吸引力，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让人物关系、核心处境和古言规则开始变得明确，读者能看出这本文的主要吸引力变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "上头",
+          "心动",
+          "期待"
+        ],
+        "importance": 5,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "25%-50%",
+        "chapterRange": "待核验",
+        "type": "主线展开",
+        "spoilerFreeText": "惜花芷这一阶段重点看人物选择、关系压力和主要剧情线进一步推进，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让人物选择、关系压力和主要剧情线进一步推进变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "沉浸",
+          "心疼",
+          "成长"
+        ],
+        "importance": 5,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "50%-75%",
+        "chapterRange": "待核验",
+        "type": "情绪回收",
+        "spoilerFreeText": "惜花芷这一阶段重点看前期铺垫开始回收，甜虐、权谋或成长线更集中，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让前期铺垫开始回收，甜虐、权谋或成长线更集中变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "释然",
+          "紧张",
+          "回甜"
+        ],
+        "importance": 4,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "后25%",
+        "chapterRange": "待核验",
+        "type": "结局收束",
+        "spoilerFreeText": "惜花芷这一阶段重点看主要关系、人物选择和情绪落点逐渐收束，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让主要关系、人物选择和情绪落点逐渐收束变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "满足",
+          "释然",
+          "回收"
+        ],
+        "importance": 4,
+        "confidence": "低"
+      }
+    ],
+    "expectationWarnings": {
+      "slowBurn": "明显慢热",
+      "abuseLevel": "轻微/中等",
+      "misunderstandingLevel": "轻微/中等",
+      "endingConcern": "结局口径待核验",
+      "controversy": "主要争议可能在人物设定、情绪强度、题材口味或节奏接受度，需结合读者讨论继续核验。",
+      "otherWarnings": [
+        "章节节点待核验",
+        "不展示小说正文",
+        "高光描述为不剧透类型化表达"
+      ]
+    },
+    "routes": {
+      "forTrialReader": "建议至少读到关系线、情绪钩子或第一个明显转折出现后再判断，不要只凭开局几章决定。",
+      "forPlotReader": "剧情党重点看人物选择、成长压力、家庭/权力结构和关系变化。",
+      "forCPReader": "适合关注CP关系、暗恋、拉扯、回甜、救赎或婚恋经营的读者，建议重点看互动和情绪递进。",
+      "ifYouWantToDrop": "如果读到建议坚持区间后仍不吃人物性格、关系设定或情绪基调，可以合理放弃。"
+    },
+    "verification": {
+      "basicInfo": "中",
+      "chapterNodes": "低",
+      "readerDiscussion": "中",
+      "notes": [
+        "基础信息需平台核验",
+        "章节节点待人工核验",
+        "高光描述为不剧透类型化表达，不包含小说正文"
+      ]
+    }
+  },
+  {
+    "id": "book_061",
+    "title": "九重紫",
+    "author": "吱吱",
+    "platform": "晋江文学城/待核验",
+    "officialUrl": "",
+    "status": "已完结",
+    "frontDisplayBadges": [
+      "古言重生",
+      "宅斗经营",
+      "慢热后劲型",
+      "女性成长",
+      "婚恋线"
+    ],
+    "hookSummary": "如果你想看重生后重新经营人生和家族关系，适合喜欢古言宅斗、成长和婚恋经营的读者。",
+    "basic": {
+      "categories": [
+        "古言",
+        "重生",
+        "宅斗",
+        "婚恋"
+      ],
+      "tags": [
+        "重生",
+        "宅斗",
+        "古言",
+        "女性成长",
+        "婚恋",
+        "家族",
+        "慢热"
+      ],
+      "lengthType": "长篇",
+      "totalChapters": null,
+      "endingType": "HE/待核验",
+      "endingConfidence": "中"
+    },
+    "readerFit": {
+      "oneSentenceIntro": "一部以古言、重生为主要气质的作品，适合喜欢古言重生和宅斗经营的读者。",
+      "suitableFor": [
+        "喜欢古言重生",
+        "喜欢宅斗经营",
+        "喜欢古言或古风氛围",
+        "能接受人物关系铺垫"
+      ],
+      "notSuitableFor": [
+        "只想看现代校园甜文",
+        "不喜欢古言语境",
+        "不耐烦人物关系铺陈",
+        "想看快节奏无脑爽文"
+      ],
+      "readerTypes": [
+        "古言读者",
+        "剧情党",
+        "女性成长线读者",
+        "慢热读者"
+      ]
+    },
+    "readingExperience": {
+      "slowBurnLevel": 4,
+      "plotComplexity": 4,
+      "romanceWeight": 3,
+      "plotWeight": 4,
+      "emotionType": "权谋、成长、克制、剧情",
+      "quitRisk": {
+        "range": "前10%-25%",
+        "reason": "前期重在人生处境、家族关系和重生后的规划，节奏偏慢。"
+      },
+      "stickUntil": {
+        "displayText": "建议至少读到人物关系、核心处境和第一个明显转折都展开后再判断。",
+        "chapter": null,
+        "progressRange": "10%-25%",
+        "confidence": "低"
+      }
+    },
+    "dropDecision": {
+      "ifAtBeginning": "刚开始读不下去时，先判断自己是否接受这本书的题材、人物关系和情绪基调，不要只用开局几章判断。",
+      "ifAtQuitRiskRange": "如果卡在弃文风险区，建议继续到第一个明显关系转折或主线转折出现后再判断。",
+      "safeToDropAfter": "如果到建议坚持区间后仍不喜欢人物性格、关系设定或主要情绪方向，可以合理放弃。"
+    },
+    "highlightMap": [
+      {
+        "progressRange": "前10%",
+        "chapterRange": "待核验",
+        "type": "处境建立",
+        "spoilerFreeText": "九重紫这一阶段重点看人物处境、题材氛围和人物关系、核心处境和古言规则的初始钩子，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让人物处境、题材氛围和人物关系、核心处境和古言规则的初始钩子变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "好奇",
+          "代入",
+          "期待"
+        ],
+        "importance": 4,
+        "confidence": "中"
+      },
+      {
+        "progressRange": "10%-25%",
+        "chapterRange": "待核验",
+        "type": "关系/规则转折",
+        "spoilerFreeText": "九重紫这一阶段重点看人物关系、核心处境和古言规则开始变得明确，读者能看出这本文的主要吸引力，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让人物关系、核心处境和古言规则开始变得明确，读者能看出这本文的主要吸引力变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "上头",
+          "心动",
+          "期待"
+        ],
+        "importance": 5,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "25%-50%",
+        "chapterRange": "待核验",
+        "type": "主线展开",
+        "spoilerFreeText": "九重紫这一阶段重点看人物选择、关系压力和主要剧情线进一步推进，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让人物选择、关系压力和主要剧情线进一步推进变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "沉浸",
+          "心疼",
+          "成长"
+        ],
+        "importance": 5,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "50%-75%",
+        "chapterRange": "待核验",
+        "type": "情绪回收",
+        "spoilerFreeText": "九重紫这一阶段重点看前期铺垫开始回收，甜虐、权谋或成长线更集中，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让前期铺垫开始回收，甜虐、权谋或成长线更集中变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "释然",
+          "紧张",
+          "回甜"
+        ],
+        "importance": 4,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "后25%",
+        "chapterRange": "待核验",
+        "type": "结局收束",
+        "spoilerFreeText": "九重紫这一阶段重点看主要关系、人物选择和情绪落点逐渐收束，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让主要关系、人物选择和情绪落点逐渐收束变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "满足",
+          "释然",
+          "回收"
+        ],
+        "importance": 4,
+        "confidence": "低"
+      }
+    ],
+    "expectationWarnings": {
+      "slowBurn": "明显慢热",
+      "abuseLevel": "轻微/中等",
+      "misunderstandingLevel": "轻微/中等",
+      "endingConcern": "结局口径待核验",
+      "controversy": "主要争议可能在人物设定、情绪强度、题材口味或节奏接受度，需结合读者讨论继续核验。",
+      "otherWarnings": [
+        "章节节点待核验",
+        "不展示小说正文",
+        "高光描述为不剧透类型化表达"
+      ]
+    },
+    "routes": {
+      "forTrialReader": "建议至少读到关系线、情绪钩子或第一个明显转折出现后再判断，不要只凭开局几章决定。",
+      "forPlotReader": "剧情党重点看人物选择、成长压力、家庭/权力结构和关系变化。",
+      "forCPReader": "适合关注CP关系、暗恋、拉扯、回甜、救赎或婚恋经营的读者，建议重点看互动和情绪递进。",
+      "ifYouWantToDrop": "如果读到建议坚持区间后仍不吃人物性格、关系设定或情绪基调，可以合理放弃。"
+    },
+    "verification": {
+      "basicInfo": "中",
+      "chapterNodes": "低",
+      "readerDiscussion": "中",
+      "notes": [
+        "基础信息需平台核验",
+        "章节节点待人工核验",
+        "高光描述为不剧透类型化表达，不包含小说正文"
+      ]
+    }
+  },
+  {
+    "id": "book_062",
+    "title": "表妹万福",
+    "author": "蓬莱客",
+    "platform": "晋江文学城/待核验",
+    "officialUrl": "",
+    "status": "已完结",
+    "frontDisplayBadges": [
+      "古言婚恋",
+      "CP张力强",
+      "慢热回甜",
+      "家族关系",
+      "情绪细腻"
+    ],
+    "hookSummary": "如果你想看适合喜欢古言婚恋、细腻相处和慢慢回甜的读者。",
+    "basic": {
+      "categories": [
+        "古言",
+        "婚恋",
+        "家族",
+        "情绪向"
+      ],
+      "tags": [
+        "古言",
+        "婚恋",
+        "CP",
+        "慢热",
+        "家族",
+        "回甜",
+        "细腻"
+      ],
+      "lengthType": "中篇",
+      "totalChapters": null,
+      "endingType": "HE/待核验",
+      "endingConfidence": "中"
+    },
+    "readerFit": {
+      "oneSentenceIntro": "一部以古言、婚恋为主要气质的作品，适合喜欢古言婚恋和CP张力强的读者。",
+      "suitableFor": [
+        "喜欢古言婚恋",
+        "喜欢CP张力强",
+        "喜欢古言或古风氛围",
+        "能接受人物关系铺垫"
+      ],
+      "notSuitableFor": [
+        "只想看现代校园甜文",
+        "不喜欢古言语境",
+        "不耐烦人物关系铺陈",
+        "想看快节奏无脑爽文"
+      ],
+      "readerTypes": [
+        "古言读者",
+        "CP党",
+        "女性成长线读者",
+        "慢热读者"
+      ]
+    },
+    "readingExperience": {
+      "slowBurnLevel": 4,
+      "plotComplexity": 3,
+      "romanceWeight": 5,
+      "plotWeight": 3,
+      "emotionType": "甜虐、心动、回甜、婚恋",
+      "quitRisk": {
+        "range": "前10%-25%",
+        "reason": "前期需要适应古言关系和慢热婚恋氛围。"
+      },
+      "stickUntil": {
+        "displayText": "建议至少读到人物关系、核心处境和第一个明显转折都展开后再判断。",
+        "chapter": null,
+        "progressRange": "10%-25%",
+        "confidence": "低"
+      }
+    },
+    "dropDecision": {
+      "ifAtBeginning": "刚开始读不下去时，先判断自己是否接受这本书的题材、人物关系和情绪基调，不要只用开局几章判断。",
+      "ifAtQuitRiskRange": "如果卡在弃文风险区，建议继续到第一个明显关系转折或主线转折出现后再判断。",
+      "safeToDropAfter": "如果到建议坚持区间后仍不喜欢人物性格、关系设定或主要情绪方向，可以合理放弃。"
+    },
+    "highlightMap": [
+      {
+        "progressRange": "前10%",
+        "chapterRange": "待核验",
+        "type": "处境建立",
+        "spoilerFreeText": "表妹万福这一阶段重点看人物处境、题材氛围和人物关系、核心处境和古言规则的初始钩子，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让人物处境、题材氛围和人物关系、核心处境和古言规则的初始钩子变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "好奇",
+          "代入",
+          "期待"
+        ],
+        "importance": 4,
+        "confidence": "中"
+      },
+      {
+        "progressRange": "10%-25%",
+        "chapterRange": "待核验",
+        "type": "关系/规则转折",
+        "spoilerFreeText": "表妹万福这一阶段重点看人物关系、核心处境和古言规则开始变得明确，读者能看出这本文的主要吸引力，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让人物关系、核心处境和古言规则开始变得明确，读者能看出这本文的主要吸引力变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "上头",
+          "心动",
+          "期待"
+        ],
+        "importance": 5,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "25%-50%",
+        "chapterRange": "待核验",
+        "type": "主线展开",
+        "spoilerFreeText": "表妹万福这一阶段重点看人物选择、关系压力和主要剧情线进一步推进，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让人物选择、关系压力和主要剧情线进一步推进变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "沉浸",
+          "心疼",
+          "成长"
+        ],
+        "importance": 5,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "50%-75%",
+        "chapterRange": "待核验",
+        "type": "情绪回收",
+        "spoilerFreeText": "表妹万福这一阶段重点看前期铺垫开始回收，甜虐、权谋或成长线更集中，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让前期铺垫开始回收，甜虐、权谋或成长线更集中变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "释然",
+          "紧张",
+          "回甜"
+        ],
+        "importance": 4,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "后25%",
+        "chapterRange": "待核验",
+        "type": "结局收束",
+        "spoilerFreeText": "表妹万福这一阶段重点看主要关系、人物选择和情绪落点逐渐收束，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让主要关系、人物选择和情绪落点逐渐收束变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "满足",
+          "释然",
+          "回收"
+        ],
+        "importance": 4,
+        "confidence": "低"
+      }
+    ],
+    "expectationWarnings": {
+      "slowBurn": "明显慢热",
+      "abuseLevel": "较重",
+      "misunderstandingLevel": "轻微/中等",
+      "endingConcern": "结局口径待核验",
+      "controversy": "主要争议可能在人物设定、情绪强度、题材口味或节奏接受度，需结合读者讨论继续核验。",
+      "otherWarnings": [
+        "章节节点待核验",
+        "不展示小说正文",
+        "高光描述为不剧透类型化表达"
+      ]
+    },
+    "routes": {
+      "forTrialReader": "建议至少读到关系线、情绪钩子或第一个明显转折出现后再判断，不要只凭开局几章决定。",
+      "forPlotReader": "剧情党重点看人物选择、成长压力、家庭/权力结构和关系变化。",
+      "forCPReader": "适合关注CP关系、暗恋、拉扯、回甜、救赎或婚恋经营的读者，建议重点看互动和情绪递进。",
+      "ifYouWantToDrop": "如果读到建议坚持区间后仍不吃人物性格、关系设定或情绪基调，可以合理放弃。"
+    },
+    "verification": {
+      "basicInfo": "中",
+      "chapterNodes": "低",
+      "readerDiscussion": "中",
+      "notes": [
+        "基础信息需平台核验",
+        "章节节点待人工核验",
+        "高光描述为不剧透类型化表达，不包含小说正文"
+      ]
+    }
+  },
+  {
+    "id": "book_063",
+    "title": "嫁千户",
+    "author": "白鹿谓霜",
+    "platform": "晋江文学城/待核验",
+    "officialUrl": "",
+    "status": "已完结",
+    "frontDisplayBadges": [
+      "古言婚恋",
+      "先婚后爱",
+      "CP张力强",
+      "甜虐交织",
+      "成长线"
+    ],
+    "hookSummary": "如果你想看先婚后爱和古言婚恋氛围突出，适合喜欢相处中慢慢靠近的人。",
+    "basic": {
+      "categories": [
+        "古言",
+        "婚恋",
+        "先婚后爱",
+        "成长"
+      ],
+      "tags": [
+        "先婚后爱",
+        "古言",
+        "婚恋",
+        "CP",
+        "甜虐",
+        "成长",
+        "回甜"
+      ],
+      "lengthType": "中篇",
+      "totalChapters": null,
+      "endingType": "HE/待核验",
+      "endingConfidence": "中"
+    },
+    "readerFit": {
+      "oneSentenceIntro": "一部以古言、婚恋为主要气质的作品，适合喜欢古言婚恋和先婚后爱的读者。",
+      "suitableFor": [
+        "喜欢古言婚恋",
+        "喜欢先婚后爱",
+        "喜欢古言或古风氛围",
+        "能接受人物关系铺垫"
+      ],
+      "notSuitableFor": [
+        "只想看现代校园甜文",
+        "不喜欢古言语境",
+        "不耐烦人物关系铺陈",
+        "想看快节奏无脑爽文"
+      ],
+      "readerTypes": [
+        "古言读者",
+        "CP党",
+        "女性成长线读者",
+        "甜虐党"
+      ]
+    },
+    "readingExperience": {
+      "slowBurnLevel": 3,
+      "plotComplexity": 3,
+      "romanceWeight": 5,
+      "plotWeight": 3,
+      "emotionType": "甜虐、心动、回甜、婚恋",
+      "quitRisk": {
+        "range": "前10%-25%",
+        "reason": "前期需要适应婚恋处境和人物关系，甜感会逐步释放。"
+      },
+      "stickUntil": {
+        "displayText": "建议至少读到人物关系、核心处境和第一个明显转折都展开后再判断。",
+        "chapter": null,
+        "progressRange": "10%-25%",
+        "confidence": "低"
+      }
+    },
+    "dropDecision": {
+      "ifAtBeginning": "刚开始读不下去时，先判断自己是否接受这本书的题材、人物关系和情绪基调，不要只用开局几章判断。",
+      "ifAtQuitRiskRange": "如果卡在弃文风险区，建议继续到第一个明显关系转折或主线转折出现后再判断。",
+      "safeToDropAfter": "如果到建议坚持区间后仍不喜欢人物性格、关系设定或主要情绪方向，可以合理放弃。"
+    },
+    "highlightMap": [
+      {
+        "progressRange": "前10%",
+        "chapterRange": "待核验",
+        "type": "处境建立",
+        "spoilerFreeText": "嫁千户这一阶段重点看人物处境、题材氛围和人物关系、核心处境和古言规则的初始钩子，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让人物处境、题材氛围和人物关系、核心处境和古言规则的初始钩子变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "好奇",
+          "代入",
+          "期待"
+        ],
+        "importance": 4,
+        "confidence": "中"
+      },
+      {
+        "progressRange": "10%-25%",
+        "chapterRange": "待核验",
+        "type": "关系/规则转折",
+        "spoilerFreeText": "嫁千户这一阶段重点看人物关系、核心处境和古言规则开始变得明确，读者能看出这本文的主要吸引力，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让人物关系、核心处境和古言规则开始变得明确，读者能看出这本文的主要吸引力变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "上头",
+          "心动",
+          "期待"
+        ],
+        "importance": 5,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "25%-50%",
+        "chapterRange": "待核验",
+        "type": "主线展开",
+        "spoilerFreeText": "嫁千户这一阶段重点看人物选择、关系压力和主要剧情线进一步推进，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让人物选择、关系压力和主要剧情线进一步推进变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "沉浸",
+          "心疼",
+          "成长"
+        ],
+        "importance": 5,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "50%-75%",
+        "chapterRange": "待核验",
+        "type": "情绪回收",
+        "spoilerFreeText": "嫁千户这一阶段重点看前期铺垫开始回收，甜虐、权谋或成长线更集中，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让前期铺垫开始回收，甜虐、权谋或成长线更集中变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "释然",
+          "紧张",
+          "回甜"
+        ],
+        "importance": 4,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "后25%",
+        "chapterRange": "待核验",
+        "type": "结局收束",
+        "spoilerFreeText": "嫁千户这一阶段重点看主要关系、人物选择和情绪落点逐渐收束，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让主要关系、人物选择和情绪落点逐渐收束变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "满足",
+          "释然",
+          "回收"
+        ],
+        "importance": 4,
+        "confidence": "低"
+      }
+    ],
+    "expectationWarnings": {
+      "slowBurn": "中等慢热",
+      "abuseLevel": "较重",
+      "misunderstandingLevel": "轻微/中等",
+      "endingConcern": "结局口径待核验",
+      "controversy": "主要争议可能在人物设定、情绪强度、题材口味或节奏接受度，需结合读者讨论继续核验。",
+      "otherWarnings": [
+        "章节节点待核验",
+        "不展示小说正文",
+        "高光描述为不剧透类型化表达"
+      ]
+    },
+    "routes": {
+      "forTrialReader": "建议至少读到关系线、情绪钩子或第一个明显转折出现后再判断，不要只凭开局几章决定。",
+      "forPlotReader": "剧情党重点看人物选择、成长压力、家庭/权力结构和关系变化。",
+      "forCPReader": "适合关注CP关系、暗恋、拉扯、回甜、救赎或婚恋经营的读者，建议重点看互动和情绪递进。",
+      "ifYouWantToDrop": "如果读到建议坚持区间后仍不吃人物性格、关系设定或情绪基调，可以合理放弃。"
+    },
+    "verification": {
+      "basicInfo": "中",
+      "chapterNodes": "低",
+      "readerDiscussion": "中",
+      "notes": [
+        "基础信息需平台核验",
+        "章节节点待人工核验",
+        "高光描述为不剧透类型化表达，不包含小说正文"
+      ]
+    }
+  },
+  {
+    "id": "book_064",
+    "title": "重生之女将星",
+    "author": "千山茶客",
+    "platform": "晋江文学城/待核验",
+    "officialUrl": "",
+    "status": "已完结",
+    "frontDisplayBadges": [
+      "女主成长",
+      "重生复仇",
+      "家国事业线",
+      "古言爽感",
+      "强剧情"
+    ],
+    "hookSummary": "如果你想看女主成长、身份反转和家国事业线较强，适合喜欢大女主和爽感的人。",
+    "basic": {
+      "categories": [
+        "古言",
+        "重生",
+        "女强",
+        "家国"
+      ],
+      "tags": [
+        "重生",
+        "女将",
+        "女强",
+        "复仇",
+        "家国",
+        "事业线",
+        "CP"
+      ],
+      "lengthType": "长篇",
+      "totalChapters": null,
+      "endingType": "HE/待核验",
+      "endingConfidence": "中"
+    },
+    "readerFit": {
+      "oneSentenceIntro": "一部以古言、重生为主要气质的作品，适合喜欢女主成长和重生复仇的读者。",
+      "suitableFor": [
+        "喜欢女主成长",
+        "喜欢重生复仇",
+        "喜欢古言或古风氛围",
+        "能接受人物关系铺垫"
+      ],
+      "notSuitableFor": [
+        "只想看现代校园甜文",
+        "不喜欢古言语境",
+        "不耐烦人物关系铺陈",
+        "想看快节奏无脑爽文"
+      ],
+      "readerTypes": [
+        "古言读者",
+        "剧情党",
+        "女性成长线读者",
+        "甜虐党"
+      ]
+    },
+    "readingExperience": {
+      "slowBurnLevel": 3,
+      "plotComplexity": 4,
+      "romanceWeight": 3,
+      "plotWeight": 5,
+      "emotionType": "权谋、成长、克制、剧情",
+      "quitRisk": {
+        "range": "前10%-25%",
+        "reason": "前期需要适应重生处境、身份线和成长布局。"
+      },
+      "stickUntil": {
+        "displayText": "建议至少读到人物关系、核心处境和第一个明显转折都展开后再判断。",
+        "chapter": null,
+        "progressRange": "10%-25%",
+        "confidence": "低"
+      }
+    },
+    "dropDecision": {
+      "ifAtBeginning": "刚开始读不下去时，先判断自己是否接受这本书的题材、人物关系和情绪基调，不要只用开局几章判断。",
+      "ifAtQuitRiskRange": "如果卡在弃文风险区，建议继续到第一个明显关系转折或主线转折出现后再判断。",
+      "safeToDropAfter": "如果到建议坚持区间后仍不喜欢人物性格、关系设定或主要情绪方向，可以合理放弃。"
+    },
+    "highlightMap": [
+      {
+        "progressRange": "前10%",
+        "chapterRange": "待核验",
+        "type": "处境建立",
+        "spoilerFreeText": "重生之女将星这一阶段重点看人物处境、题材氛围和人物关系、核心处境和古言规则的初始钩子，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让人物处境、题材氛围和人物关系、核心处境和古言规则的初始钩子变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "好奇",
+          "代入",
+          "期待"
+        ],
+        "importance": 4,
+        "confidence": "中"
+      },
+      {
+        "progressRange": "10%-25%",
+        "chapterRange": "待核验",
+        "type": "关系/规则转折",
+        "spoilerFreeText": "重生之女将星这一阶段重点看人物关系、核心处境和古言规则开始变得明确，读者能看出这本文的主要吸引力，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让人物关系、核心处境和古言规则开始变得明确，读者能看出这本文的主要吸引力变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "上头",
+          "心动",
+          "期待"
+        ],
+        "importance": 5,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "25%-50%",
+        "chapterRange": "待核验",
+        "type": "主线展开",
+        "spoilerFreeText": "重生之女将星这一阶段重点看人物选择、关系压力和主要剧情线进一步推进，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让人物选择、关系压力和主要剧情线进一步推进变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "沉浸",
+          "心疼",
+          "成长"
+        ],
+        "importance": 5,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "50%-75%",
+        "chapterRange": "待核验",
+        "type": "情绪回收",
+        "spoilerFreeText": "重生之女将星这一阶段重点看前期铺垫开始回收，甜虐、权谋或成长线更集中，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让前期铺垫开始回收，甜虐、权谋或成长线更集中变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "释然",
+          "紧张",
+          "回甜"
+        ],
+        "importance": 4,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "后25%",
+        "chapterRange": "待核验",
+        "type": "结局收束",
+        "spoilerFreeText": "重生之女将星这一阶段重点看主要关系、人物选择和情绪落点逐渐收束，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让主要关系、人物选择和情绪落点逐渐收束变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "满足",
+          "释然",
+          "回收"
+        ],
+        "importance": 4,
+        "confidence": "低"
+      }
+    ],
+    "expectationWarnings": {
+      "slowBurn": "中等慢热",
+      "abuseLevel": "轻微/中等",
+      "misunderstandingLevel": "轻微/中等",
+      "endingConcern": "结局口径待核验",
+      "controversy": "主要争议可能在人物设定、情绪强度、题材口味或节奏接受度，需结合读者讨论继续核验。",
+      "otherWarnings": [
+        "章节节点待核验",
+        "不展示小说正文",
+        "高光描述为不剧透类型化表达"
+      ]
+    },
+    "routes": {
+      "forTrialReader": "建议至少读到关系线、情绪钩子或第一个明显转折出现后再判断，不要只凭开局几章决定。",
+      "forPlotReader": "剧情党重点看人物选择、成长压力、家庭/权力结构和关系变化。",
+      "forCPReader": "适合关注CP关系、暗恋、拉扯、回甜、救赎或婚恋经营的读者，建议重点看互动和情绪递进。",
+      "ifYouWantToDrop": "如果读到建议坚持区间后仍不吃人物性格、关系设定或情绪基调，可以合理放弃。"
+    },
+    "verification": {
+      "basicInfo": "中",
+      "chapterNodes": "低",
+      "readerDiscussion": "中",
+      "notes": [
+        "基础信息需平台核验",
+        "章节节点待人工核验",
+        "高光描述为不剧透类型化表达，不包含小说正文"
+      ]
+    }
+  },
+  {
+    "id": "book_065",
+    "title": "将门毒后",
+    "author": "千山茶客",
+    "platform": "晋江文学城/待核验",
+    "officialUrl": "",
+    "status": "已完结",
+    "frontDisplayBadges": [
+      "重生复仇",
+      "女主爽文",
+      "古言权谋",
+      "CP张力强",
+      "强情绪"
+    ],
+    "hookSummary": "如果你想看重生复仇和爽感强，适合喜欢女主重新掌控命运、打脸和权谋拉扯的读者。",
+    "basic": {
+      "categories": [
+        "古言",
+        "重生",
+        "复仇",
+        "权谋"
+      ],
+      "tags": [
+        "重生",
+        "复仇",
+        "爽文",
+        "古言",
+        "权谋",
+        "女强",
+        "CP"
+      ],
+      "lengthType": "长篇",
+      "totalChapters": null,
+      "endingType": "HE/待核验",
+      "endingConfidence": "中"
+    },
+    "readerFit": {
+      "oneSentenceIntro": "一部以古言、重生为主要气质的作品，适合喜欢重生复仇和女主爽文的读者。",
+      "suitableFor": [
+        "喜欢重生复仇",
+        "喜欢女主爽文",
+        "喜欢古言或古风氛围",
+        "能接受人物关系铺垫"
+      ],
+      "notSuitableFor": [
+        "只想看现代校园甜文",
+        "不喜欢古言语境",
+        "不耐烦人物关系铺陈",
+        "想看快节奏无脑爽文"
+      ],
+      "readerTypes": [
+        "古言读者",
+        "CP党",
+        "女性成长线读者",
+        "甜虐党"
+      ]
+    },
+    "readingExperience": {
+      "slowBurnLevel": 2,
+      "plotComplexity": 4,
+      "romanceWeight": 4,
+      "plotWeight": 5,
+      "emotionType": "权谋、成长、克制、剧情",
+      "quitRisk": {
+        "range": "前10%",
+        "reason": "如果不吃重生复仇和强爽感路线，开局可能不对口。"
+      },
+      "stickUntil": {
+        "displayText": "建议至少读到人物关系、核心处境和第一个明显转折都展开后再判断。",
+        "chapter": null,
+        "progressRange": "前10%-15%",
+        "confidence": "低"
+      }
+    },
+    "dropDecision": {
+      "ifAtBeginning": "刚开始读不下去时，先判断自己是否接受这本书的题材、人物关系和情绪基调，不要只用开局几章判断。",
+      "ifAtQuitRiskRange": "如果卡在弃文风险区，建议继续到第一个明显关系转折或主线转折出现后再判断。",
+      "safeToDropAfter": "如果到建议坚持区间后仍不喜欢人物性格、关系设定或主要情绪方向，可以合理放弃。"
+    },
+    "highlightMap": [
+      {
+        "progressRange": "前10%",
+        "chapterRange": "待核验",
+        "type": "处境建立",
+        "spoilerFreeText": "将门毒后这一阶段重点看人物处境、题材氛围和人物关系、核心处境和古言规则的初始钩子，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让人物处境、题材氛围和人物关系、核心处境和古言规则的初始钩子变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "好奇",
+          "代入",
+          "期待"
+        ],
+        "importance": 4,
+        "confidence": "中"
+      },
+      {
+        "progressRange": "10%-25%",
+        "chapterRange": "待核验",
+        "type": "关系/规则转折",
+        "spoilerFreeText": "将门毒后这一阶段重点看人物关系、核心处境和古言规则开始变得明确，读者能看出这本文的主要吸引力，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让人物关系、核心处境和古言规则开始变得明确，读者能看出这本文的主要吸引力变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "上头",
+          "心动",
+          "期待"
+        ],
+        "importance": 5,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "25%-50%",
+        "chapterRange": "待核验",
+        "type": "主线展开",
+        "spoilerFreeText": "将门毒后这一阶段重点看人物选择、关系压力和主要剧情线进一步推进，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让人物选择、关系压力和主要剧情线进一步推进变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "沉浸",
+          "心疼",
+          "成长"
+        ],
+        "importance": 5,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "50%-75%",
+        "chapterRange": "待核验",
+        "type": "情绪回收",
+        "spoilerFreeText": "将门毒后这一阶段重点看前期铺垫开始回收，甜虐、权谋或成长线更集中，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让前期铺垫开始回收，甜虐、权谋或成长线更集中变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "释然",
+          "紧张",
+          "回甜"
+        ],
+        "importance": 4,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "后25%",
+        "chapterRange": "待核验",
+        "type": "结局收束",
+        "spoilerFreeText": "将门毒后这一阶段重点看主要关系、人物选择和情绪落点逐渐收束，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让主要关系、人物选择和情绪落点逐渐收束变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "满足",
+          "释然",
+          "回收"
+        ],
+        "importance": 4,
+        "confidence": "低"
+      }
+    ],
+    "expectationWarnings": {
+      "slowBurn": "不算慢热",
+      "abuseLevel": "中等/待核验",
+      "misunderstandingLevel": "轻微/中等",
+      "endingConcern": "结局口径待核验",
+      "controversy": "主要争议可能在人物设定、情绪强度、题材口味或节奏接受度，需结合读者讨论继续核验。",
+      "otherWarnings": [
+        "章节节点待核验",
+        "不展示小说正文",
+        "高光描述为不剧透类型化表达"
+      ]
+    },
+    "routes": {
+      "forTrialReader": "建议至少读到关系线、情绪钩子或第一个明显转折出现后再判断，不要只凭开局几章决定。",
+      "forPlotReader": "剧情党重点看人物选择、成长压力、家庭/权力结构和关系变化。",
+      "forCPReader": "适合关注CP关系、暗恋、拉扯、回甜、救赎或婚恋经营的读者，建议重点看互动和情绪递进。",
+      "ifYouWantToDrop": "如果读到建议坚持区间后仍不吃人物性格、关系设定或情绪基调，可以合理放弃。"
+    },
+    "verification": {
+      "basicInfo": "中",
+      "chapterNodes": "低",
+      "readerDiscussion": "中",
+      "notes": [
+        "基础信息需平台核验",
+        "章节节点待人工核验",
+        "高光描述为不剧透类型化表达，不包含小说正文"
+      ]
+    }
+  },
+  {
+    "id": "book_066",
+    "title": "嫡嫁千金",
+    "author": "千山茶客",
+    "platform": "晋江文学城/待核验",
+    "officialUrl": "",
+    "status": "已完结",
+    "frontDisplayBadges": [
+      "重生复仇",
+      "古言爽文",
+      "权谋宅斗",
+      "CP张力强",
+      "强剧情"
+    ],
+    "hookSummary": "如果你想看复仇、身份和权谋爽感明显，适合喜欢古言女主反击线的读者。",
+    "basic": {
+      "categories": [
+        "古言",
+        "重生",
+        "复仇",
+        "宅斗"
+      ],
+      "tags": [
+        "重生",
+        "复仇",
+        "宅斗",
+        "古言",
+        "女强",
+        "CP",
+        "爽文"
+      ],
+      "lengthType": "长篇",
+      "totalChapters": null,
+      "endingType": "HE/待核验",
+      "endingConfidence": "中"
+    },
+    "readerFit": {
+      "oneSentenceIntro": "一部以古言、重生为主要气质的作品，适合喜欢重生复仇和古言爽文的读者。",
+      "suitableFor": [
+        "喜欢重生复仇",
+        "喜欢古言爽文",
+        "喜欢古言或古风氛围",
+        "能接受人物关系铺垫"
+      ],
+      "notSuitableFor": [
+        "只想看现代校园甜文",
+        "不喜欢古言语境",
+        "不耐烦人物关系铺陈",
+        "想看快节奏无脑爽文"
+      ],
+      "readerTypes": [
+        "古言读者",
+        "CP党",
+        "女性成长线读者",
+        "甜虐党"
+      ]
+    },
+    "readingExperience": {
+      "slowBurnLevel": 2,
+      "plotComplexity": 4,
+      "romanceWeight": 4,
+      "plotWeight": 5,
+      "emotionType": "权谋、成长、克制、剧情",
+      "quitRisk": {
+        "range": "前10%",
+        "reason": "开局就需要接受复仇爽文逻辑和较强戏剧冲突。"
+      },
+      "stickUntil": {
+        "displayText": "建议至少读到人物关系、核心处境和第一个明显转折都展开后再判断。",
+        "chapter": null,
+        "progressRange": "前10%-15%",
+        "confidence": "低"
+      }
+    },
+    "dropDecision": {
+      "ifAtBeginning": "刚开始读不下去时，先判断自己是否接受这本书的题材、人物关系和情绪基调，不要只用开局几章判断。",
+      "ifAtQuitRiskRange": "如果卡在弃文风险区，建议继续到第一个明显关系转折或主线转折出现后再判断。",
+      "safeToDropAfter": "如果到建议坚持区间后仍不喜欢人物性格、关系设定或主要情绪方向，可以合理放弃。"
+    },
+    "highlightMap": [
+      {
+        "progressRange": "前10%",
+        "chapterRange": "待核验",
+        "type": "处境建立",
+        "spoilerFreeText": "嫡嫁千金这一阶段重点看人物处境、题材氛围和人物关系、核心处境和古言规则的初始钩子，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让人物处境、题材氛围和人物关系、核心处境和古言规则的初始钩子变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "好奇",
+          "代入",
+          "期待"
+        ],
+        "importance": 4,
+        "confidence": "中"
+      },
+      {
+        "progressRange": "10%-25%",
+        "chapterRange": "待核验",
+        "type": "关系/规则转折",
+        "spoilerFreeText": "嫡嫁千金这一阶段重点看人物关系、核心处境和古言规则开始变得明确，读者能看出这本文的主要吸引力，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让人物关系、核心处境和古言规则开始变得明确，读者能看出这本文的主要吸引力变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "上头",
+          "心动",
+          "期待"
+        ],
+        "importance": 5,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "25%-50%",
+        "chapterRange": "待核验",
+        "type": "主线展开",
+        "spoilerFreeText": "嫡嫁千金这一阶段重点看人物选择、关系压力和主要剧情线进一步推进，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让人物选择、关系压力和主要剧情线进一步推进变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "沉浸",
+          "心疼",
+          "成长"
+        ],
+        "importance": 5,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "50%-75%",
+        "chapterRange": "待核验",
+        "type": "情绪回收",
+        "spoilerFreeText": "嫡嫁千金这一阶段重点看前期铺垫开始回收，甜虐、权谋或成长线更集中，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让前期铺垫开始回收，甜虐、权谋或成长线更集中变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "释然",
+          "紧张",
+          "回甜"
+        ],
+        "importance": 4,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "后25%",
+        "chapterRange": "待核验",
+        "type": "结局收束",
+        "spoilerFreeText": "嫡嫁千金这一阶段重点看主要关系、人物选择和情绪落点逐渐收束，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让主要关系、人物选择和情绪落点逐渐收束变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "满足",
+          "释然",
+          "回收"
+        ],
+        "importance": 4,
+        "confidence": "低"
+      }
+    ],
+    "expectationWarnings": {
+      "slowBurn": "不算慢热",
+      "abuseLevel": "轻微/中等",
+      "misunderstandingLevel": "轻微/中等",
+      "endingConcern": "结局口径待核验",
+      "controversy": "主要争议可能在人物设定、情绪强度、题材口味或节奏接受度，需结合读者讨论继续核验。",
+      "otherWarnings": [
+        "章节节点待核验",
+        "不展示小说正文",
+        "高光描述为不剧透类型化表达"
+      ]
+    },
+    "routes": {
+      "forTrialReader": "建议至少读到关系线、情绪钩子或第一个明显转折出现后再判断，不要只凭开局几章决定。",
+      "forPlotReader": "剧情党重点看人物选择、成长压力、家庭/权力结构和关系变化。",
+      "forCPReader": "适合关注CP关系、暗恋、拉扯、回甜、救赎或婚恋经营的读者，建议重点看互动和情绪递进。",
+      "ifYouWantToDrop": "如果读到建议坚持区间后仍不吃人物性格、关系设定或情绪基调，可以合理放弃。"
+    },
+    "verification": {
+      "basicInfo": "中",
+      "chapterNodes": "低",
+      "readerDiscussion": "中",
+      "notes": [
+        "基础信息需平台核验",
+        "章节节点待人工核验",
+        "高光描述为不剧透类型化表达，不包含小说正文"
+      ]
+    }
+  },
+  {
+    "id": "book_067",
+    "title": "簪星",
+    "author": "千山茶客",
+    "platform": "晋江文学城/待核验",
+    "officialUrl": "",
+    "status": "已完结",
+    "frontDisplayBadges": [
+      "仙侠言情",
+      "女主成长",
+      "强剧情",
+      "CP张力强",
+      "仙侠氛围"
+    ],
+    "hookSummary": "如果你想看仙侠背景和女主成长线并重，适合喜欢古风仙侠与情感线结合的人。",
+    "basic": {
+      "categories": [
+        "仙侠",
+        "言情",
+        "成长",
+        "情绪向"
+      ],
+      "tags": [
+        "仙侠",
+        "女主成长",
+        "CP",
+        "强剧情",
+        "修行",
+        "古风",
+        "情绪向"
+      ],
+      "lengthType": "长篇",
+      "totalChapters": null,
+      "endingType": "HE/待核验",
+      "endingConfidence": "中"
+    },
+    "readerFit": {
+      "oneSentenceIntro": "一部以仙侠、言情为主要气质的作品，适合喜欢仙侠言情和女主成长的读者。",
+      "suitableFor": [
+        "喜欢仙侠言情",
+        "喜欢女主成长",
+        "喜欢古言或古风氛围",
+        "能接受人物关系铺垫"
+      ],
+      "notSuitableFor": [
+        "只想看现代校园甜文",
+        "不喜欢古言语境",
+        "不耐烦人物关系铺陈",
+        "想看快节奏无脑爽文"
+      ],
+      "readerTypes": [
+        "古言读者",
+        "CP党",
+        "女性成长线读者",
+        "甜虐党"
+      ]
+    },
+    "readingExperience": {
+      "slowBurnLevel": 3,
+      "plotComplexity": 4,
+      "romanceWeight": 4,
+      "plotWeight": 4,
+      "emotionType": "权谋、成长、克制、剧情",
+      "quitRisk": {
+        "range": "前10%-25%",
+        "reason": "前期需要适应仙侠设定、人物处境和成长线。"
+      },
+      "stickUntil": {
+        "displayText": "建议至少读到人物关系、核心处境和第一个明显转折都展开后再判断。",
+        "chapter": null,
+        "progressRange": "10%-25%",
+        "confidence": "低"
+      }
+    },
+    "dropDecision": {
+      "ifAtBeginning": "刚开始读不下去时，先判断自己是否接受这本书的题材、人物关系和情绪基调，不要只用开局几章判断。",
+      "ifAtQuitRiskRange": "如果卡在弃文风险区，建议继续到第一个明显关系转折或主线转折出现后再判断。",
+      "safeToDropAfter": "如果到建议坚持区间后仍不喜欢人物性格、关系设定或主要情绪方向，可以合理放弃。"
+    },
+    "highlightMap": [
+      {
+        "progressRange": "前10%",
+        "chapterRange": "待核验",
+        "type": "处境建立",
+        "spoilerFreeText": "簪星这一阶段重点看人物处境、题材氛围和人物关系、核心处境和古言规则的初始钩子，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让人物处境、题材氛围和人物关系、核心处境和古言规则的初始钩子变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "好奇",
+          "代入",
+          "期待"
+        ],
+        "importance": 4,
+        "confidence": "中"
+      },
+      {
+        "progressRange": "10%-25%",
+        "chapterRange": "待核验",
+        "type": "关系/规则转折",
+        "spoilerFreeText": "簪星这一阶段重点看人物关系、核心处境和古言规则开始变得明确，读者能看出这本文的主要吸引力，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让人物关系、核心处境和古言规则开始变得明确，读者能看出这本文的主要吸引力变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "上头",
+          "心动",
+          "期待"
+        ],
+        "importance": 5,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "25%-50%",
+        "chapterRange": "待核验",
+        "type": "主线展开",
+        "spoilerFreeText": "簪星这一阶段重点看人物选择、关系压力和主要剧情线进一步推进，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让人物选择、关系压力和主要剧情线进一步推进变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "沉浸",
+          "心疼",
+          "成长"
+        ],
+        "importance": 5,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "50%-75%",
+        "chapterRange": "待核验",
+        "type": "情绪回收",
+        "spoilerFreeText": "簪星这一阶段重点看前期铺垫开始回收，甜虐、权谋或成长线更集中，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让前期铺垫开始回收，甜虐、权谋或成长线更集中变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "释然",
+          "紧张",
+          "回甜"
+        ],
+        "importance": 4,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "后25%",
+        "chapterRange": "待核验",
+        "type": "结局收束",
+        "spoilerFreeText": "簪星这一阶段重点看主要关系、人物选择和情绪落点逐渐收束，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让主要关系、人物选择和情绪落点逐渐收束变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "满足",
+          "释然",
+          "回收"
+        ],
+        "importance": 4,
+        "confidence": "低"
+      }
+    ],
+    "expectationWarnings": {
+      "slowBurn": "中等慢热",
+      "abuseLevel": "轻微/中等",
+      "misunderstandingLevel": "轻微/中等",
+      "endingConcern": "结局口径待核验",
+      "controversy": "主要争议可能在人物设定、情绪强度、题材口味或节奏接受度，需结合读者讨论继续核验。",
+      "otherWarnings": [
+        "章节节点待核验",
+        "不展示小说正文",
+        "高光描述为不剧透类型化表达"
+      ]
+    },
+    "routes": {
+      "forTrialReader": "建议至少读到关系线、情绪钩子或第一个明显转折出现后再判断，不要只凭开局几章决定。",
+      "forPlotReader": "剧情党重点看人物选择、成长压力、家庭/权力结构和关系变化。",
+      "forCPReader": "适合关注CP关系、暗恋、拉扯、回甜、救赎或婚恋经营的读者，建议重点看互动和情绪递进。",
+      "ifYouWantToDrop": "如果读到建议坚持区间后仍不吃人物性格、关系设定或情绪基调，可以合理放弃。"
+    },
+    "verification": {
+      "basicInfo": "中",
+      "chapterNodes": "低",
+      "readerDiscussion": "中",
+      "notes": [
+        "基础信息需平台核验",
+        "章节节点待人工核验",
+        "高光描述为不剧透类型化表达，不包含小说正文"
+      ]
+    }
+  },
+  {
+    "id": "book_068",
+    "title": "首辅养成手册",
+    "author": "闻檀",
+    "platform": "晋江文学城/待核验",
+    "officialUrl": "",
+    "status": "已完结",
+    "frontDisplayBadges": [
+      "古言养成",
+      "婚恋线",
+      "CP张力强",
+      "慢热回甜",
+      "家族关系"
+    ],
+    "hookSummary": "如果你想看古言养成和婚恋关系明显，适合喜欢慢热相处和关系变化的读者。",
+    "basic": {
+      "categories": [
+        "古言",
+        "养成",
+        "婚恋",
+        "家族"
+      ],
+      "tags": [
+        "养成",
+        "古言",
+        "婚恋",
+        "CP",
+        "慢热",
+        "家族",
+        "回甜"
+      ],
+      "lengthType": "长篇",
+      "totalChapters": null,
+      "endingType": "HE/待核验",
+      "endingConfidence": "中"
+    },
+    "readerFit": {
+      "oneSentenceIntro": "一部以古言、养成为主要气质的作品，适合喜欢古言养成和婚恋线的读者。",
+      "suitableFor": [
+        "喜欢古言养成",
+        "喜欢婚恋线",
+        "喜欢古言或古风氛围",
+        "能接受人物关系铺垫"
+      ],
+      "notSuitableFor": [
+        "只想看现代校园甜文",
+        "不喜欢古言语境",
+        "不耐烦人物关系铺陈",
+        "想看快节奏无脑爽文"
+      ],
+      "readerTypes": [
+        "古言读者",
+        "CP党",
+        "女性成长线读者",
+        "慢热读者"
+      ]
+    },
+    "readingExperience": {
+      "slowBurnLevel": 4,
+      "plotComplexity": 3,
+      "romanceWeight": 5,
+      "plotWeight": 3,
+      "emotionType": "甜虐、心动、回甜、婚恋",
+      "quitRisk": {
+        "range": "前10%-25%",
+        "reason": "前期关系和人物处境需要铺垫，甜度会慢慢释放。"
+      },
+      "stickUntil": {
+        "displayText": "建议至少读到人物关系、核心处境和第一个明显转折都展开后再判断。",
+        "chapter": null,
+        "progressRange": "10%-25%",
+        "confidence": "低"
+      }
+    },
+    "dropDecision": {
+      "ifAtBeginning": "刚开始读不下去时，先判断自己是否接受这本书的题材、人物关系和情绪基调，不要只用开局几章判断。",
+      "ifAtQuitRiskRange": "如果卡在弃文风险区，建议继续到第一个明显关系转折或主线转折出现后再判断。",
+      "safeToDropAfter": "如果到建议坚持区间后仍不喜欢人物性格、关系设定或主要情绪方向，可以合理放弃。"
+    },
+    "highlightMap": [
+      {
+        "progressRange": "前10%",
+        "chapterRange": "待核验",
+        "type": "处境建立",
+        "spoilerFreeText": "首辅养成手册这一阶段重点看人物处境、题材氛围和人物关系、核心处境和古言规则的初始钩子，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让人物处境、题材氛围和人物关系、核心处境和古言规则的初始钩子变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "好奇",
+          "代入",
+          "期待"
+        ],
+        "importance": 4,
+        "confidence": "中"
+      },
+      {
+        "progressRange": "10%-25%",
+        "chapterRange": "待核验",
+        "type": "关系/规则转折",
+        "spoilerFreeText": "首辅养成手册这一阶段重点看人物关系、核心处境和古言规则开始变得明确，读者能看出这本文的主要吸引力，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让人物关系、核心处境和古言规则开始变得明确，读者能看出这本文的主要吸引力变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "上头",
+          "心动",
+          "期待"
+        ],
+        "importance": 5,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "25%-50%",
+        "chapterRange": "待核验",
+        "type": "主线展开",
+        "spoilerFreeText": "首辅养成手册这一阶段重点看人物选择、关系压力和主要剧情线进一步推进，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让人物选择、关系压力和主要剧情线进一步推进变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "沉浸",
+          "心疼",
+          "成长"
+        ],
+        "importance": 5,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "50%-75%",
+        "chapterRange": "待核验",
+        "type": "情绪回收",
+        "spoilerFreeText": "首辅养成手册这一阶段重点看前期铺垫开始回收，甜虐、权谋或成长线更集中，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让前期铺垫开始回收，甜虐、权谋或成长线更集中变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "释然",
+          "紧张",
+          "回甜"
+        ],
+        "importance": 4,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "后25%",
+        "chapterRange": "待核验",
+        "type": "结局收束",
+        "spoilerFreeText": "首辅养成手册这一阶段重点看主要关系、人物选择和情绪落点逐渐收束，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让主要关系、人物选择和情绪落点逐渐收束变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "满足",
+          "释然",
+          "回收"
+        ],
+        "importance": 4,
+        "confidence": "低"
+      }
+    ],
+    "expectationWarnings": {
+      "slowBurn": "明显慢热",
+      "abuseLevel": "较重",
+      "misunderstandingLevel": "轻微/中等",
+      "endingConcern": "结局口径待核验",
+      "controversy": "主要争议可能在人物设定、情绪强度、题材口味或节奏接受度，需结合读者讨论继续核验。",
+      "otherWarnings": [
+        "章节节点待核验",
+        "不展示小说正文",
+        "高光描述为不剧透类型化表达"
+      ]
+    },
+    "routes": {
+      "forTrialReader": "建议至少读到关系线、情绪钩子或第一个明显转折出现后再判断，不要只凭开局几章决定。",
+      "forPlotReader": "剧情党重点看人物选择、成长压力、家庭/权力结构和关系变化。",
+      "forCPReader": "适合关注CP关系、暗恋、拉扯、回甜、救赎或婚恋经营的读者，建议重点看互动和情绪递进。",
+      "ifYouWantToDrop": "如果读到建议坚持区间后仍不吃人物性格、关系设定或情绪基调，可以合理放弃。"
+    },
+    "verification": {
+      "basicInfo": "中",
+      "chapterNodes": "低",
+      "readerDiscussion": "中",
+      "notes": [
+        "基础信息需平台核验",
+        "章节节点待人工核验",
+        "高光描述为不剧透类型化表达，不包含小说正文"
+      ]
+    }
+  },
+  {
+    "id": "book_069",
+    "title": "良陈美锦",
+    "author": "沉香灰烬",
+    "platform": "晋江文学城/待核验",
+    "officialUrl": "",
+    "status": "已完结",
+    "frontDisplayBadges": [
+      "古言宅斗",
+      "婚恋经营",
+      "慢热后劲型",
+      "家族关系",
+      "女性成长"
+    ],
+    "hookSummary": "如果你想看宅斗、家族和婚恋经营并重，适合喜欢细水长流古言的人。",
+    "basic": {
+      "categories": [
+        "古言",
+        "宅斗",
+        "婚恋",
+        "家族"
+      ],
+      "tags": [
+        "宅斗",
+        "古言",
+        "婚恋",
+        "家族",
+        "女性成长",
+        "慢热",
+        "经营"
+      ],
+      "lengthType": "长篇",
+      "totalChapters": null,
+      "endingType": "HE/待核验",
+      "endingConfidence": "中"
+    },
+    "readerFit": {
+      "oneSentenceIntro": "一部以古言、宅斗为主要气质的作品，适合喜欢古言宅斗和婚恋经营的读者。",
+      "suitableFor": [
+        "喜欢古言宅斗",
+        "喜欢婚恋经营",
+        "喜欢古言或古风氛围",
+        "能接受人物关系铺垫"
+      ],
+      "notSuitableFor": [
+        "只想看现代校园甜文",
+        "不喜欢古言语境",
+        "不耐烦人物关系铺陈",
+        "想看快节奏无脑爽文"
+      ],
+      "readerTypes": [
+        "古言读者",
+        "剧情党",
+        "女性成长线读者",
+        "慢热读者"
+      ]
+    },
+    "readingExperience": {
+      "slowBurnLevel": 4,
+      "plotComplexity": 4,
+      "romanceWeight": 3,
+      "plotWeight": 4,
+      "emotionType": "权谋、成长、克制、剧情",
+      "quitRisk": {
+        "range": "前10%-25%",
+        "reason": "前期以家族环境和人物关系铺陈为主，节奏偏慢。"
+      },
+      "stickUntil": {
+        "displayText": "建议至少读到人物关系、核心处境和第一个明显转折都展开后再判断。",
+        "chapter": null,
+        "progressRange": "10%-25%",
+        "confidence": "低"
+      }
+    },
+    "dropDecision": {
+      "ifAtBeginning": "刚开始读不下去时，先判断自己是否接受这本书的题材、人物关系和情绪基调，不要只用开局几章判断。",
+      "ifAtQuitRiskRange": "如果卡在弃文风险区，建议继续到第一个明显关系转折或主线转折出现后再判断。",
+      "safeToDropAfter": "如果到建议坚持区间后仍不喜欢人物性格、关系设定或主要情绪方向，可以合理放弃。"
+    },
+    "highlightMap": [
+      {
+        "progressRange": "前10%",
+        "chapterRange": "待核验",
+        "type": "处境建立",
+        "spoilerFreeText": "良陈美锦这一阶段重点看人物处境、题材氛围和人物关系、核心处境和古言规则的初始钩子，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让人物处境、题材氛围和人物关系、核心处境和古言规则的初始钩子变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "好奇",
+          "代入",
+          "期待"
+        ],
+        "importance": 4,
+        "confidence": "中"
+      },
+      {
+        "progressRange": "10%-25%",
+        "chapterRange": "待核验",
+        "type": "关系/规则转折",
+        "spoilerFreeText": "良陈美锦这一阶段重点看人物关系、核心处境和古言规则开始变得明确，读者能看出这本文的主要吸引力，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让人物关系、核心处境和古言规则开始变得明确，读者能看出这本文的主要吸引力变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "上头",
+          "心动",
+          "期待"
+        ],
+        "importance": 5,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "25%-50%",
+        "chapterRange": "待核验",
+        "type": "主线展开",
+        "spoilerFreeText": "良陈美锦这一阶段重点看人物选择、关系压力和主要剧情线进一步推进，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让人物选择、关系压力和主要剧情线进一步推进变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "沉浸",
+          "心疼",
+          "成长"
+        ],
+        "importance": 5,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "50%-75%",
+        "chapterRange": "待核验",
+        "type": "情绪回收",
+        "spoilerFreeText": "良陈美锦这一阶段重点看前期铺垫开始回收，甜虐、权谋或成长线更集中，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让前期铺垫开始回收，甜虐、权谋或成长线更集中变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "释然",
+          "紧张",
+          "回甜"
+        ],
+        "importance": 4,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "后25%",
+        "chapterRange": "待核验",
+        "type": "结局收束",
+        "spoilerFreeText": "良陈美锦这一阶段重点看主要关系、人物选择和情绪落点逐渐收束，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让主要关系、人物选择和情绪落点逐渐收束变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "满足",
+          "释然",
+          "回收"
+        ],
+        "importance": 4,
+        "confidence": "低"
+      }
+    ],
+    "expectationWarnings": {
+      "slowBurn": "明显慢热",
+      "abuseLevel": "轻微/中等",
+      "misunderstandingLevel": "轻微/中等",
+      "endingConcern": "结局口径待核验",
+      "controversy": "主要争议可能在人物设定、情绪强度、题材口味或节奏接受度，需结合读者讨论继续核验。",
+      "otherWarnings": [
+        "章节节点待核验",
+        "不展示小说正文",
+        "高光描述为不剧透类型化表达"
+      ]
+    },
+    "routes": {
+      "forTrialReader": "建议至少读到关系线、情绪钩子或第一个明显转折出现后再判断，不要只凭开局几章决定。",
+      "forPlotReader": "剧情党重点看人物选择、成长压力、家庭/权力结构和关系变化。",
+      "forCPReader": "适合关注CP关系、暗恋、拉扯、回甜、救赎或婚恋经营的读者，建议重点看互动和情绪递进。",
+      "ifYouWantToDrop": "如果读到建议坚持区间后仍不吃人物性格、关系设定或情绪基调，可以合理放弃。"
+    },
+    "verification": {
+      "basicInfo": "中",
+      "chapterNodes": "低",
+      "readerDiscussion": "中",
+      "notes": [
+        "基础信息需平台核验",
+        "章节节点待人工核验",
+        "高光描述为不剧透类型化表达，不包含小说正文"
+      ]
+    }
+  },
+  {
+    "id": "book_070",
+    "title": "娇藏",
+    "author": "狂上加狂",
+    "platform": "晋江文学城/待核验",
+    "officialUrl": "",
+    "status": "已完结",
+    "frontDisplayBadges": [
+      "古言婚恋",
+      "CP张力强",
+      "甜虐交织",
+      "男主张力",
+      "开局上头型"
+    ],
+    "hookSummary": "如果你想看古言婚恋和关系张力较强，适合喜欢强互动和甜虐拉扯的读者。",
+    "basic": {
+      "categories": [
+        "古言",
+        "婚恋",
+        "甜虐",
+        "情绪向"
+      ],
+      "tags": [
+        "古言",
+        "婚恋",
+        "CP",
+        "男主张力",
+        "甜虐",
+        "拉扯",
+        "回甜"
+      ],
+      "lengthType": "中篇",
+      "totalChapters": null,
+      "endingType": "HE/待核验",
+      "endingConfidence": "中"
+    },
+    "readerFit": {
+      "oneSentenceIntro": "一部以古言、婚恋为主要气质的作品，适合喜欢古言婚恋和CP张力强的读者。",
+      "suitableFor": [
+        "喜欢古言婚恋",
+        "喜欢CP张力强",
+        "喜欢古言或古风氛围",
+        "能接受人物关系铺垫"
+      ],
+      "notSuitableFor": [
+        "只想看现代校园甜文",
+        "不喜欢古言语境",
+        "不耐烦人物关系铺陈",
+        "想看快节奏无脑爽文"
+      ],
+      "readerTypes": [
+        "古言读者",
+        "CP党",
+        "女性成长线读者",
+        "甜虐党"
+      ]
+    },
+    "readingExperience": {
+      "slowBurnLevel": 3,
+      "plotComplexity": 3,
+      "romanceWeight": 5,
+      "plotWeight": 3,
+      "emotionType": "甜虐、心动、回甜、婚恋",
+      "quitRisk": {
+        "range": "前10%-25%",
+        "reason": "如果不吃强关系张力和古言婚恋设定，前期可能劝退。"
+      },
+      "stickUntil": {
+        "displayText": "建议至少读到人物关系、核心处境和第一个明显转折都展开后再判断。",
+        "chapter": null,
+        "progressRange": "10%-25%",
+        "confidence": "低"
+      }
+    },
+    "dropDecision": {
+      "ifAtBeginning": "刚开始读不下去时，先判断自己是否接受这本书的题材、人物关系和情绪基调，不要只用开局几章判断。",
+      "ifAtQuitRiskRange": "如果卡在弃文风险区，建议继续到第一个明显关系转折或主线转折出现后再判断。",
+      "safeToDropAfter": "如果到建议坚持区间后仍不喜欢人物性格、关系设定或主要情绪方向，可以合理放弃。"
+    },
+    "highlightMap": [
+      {
+        "progressRange": "前10%",
+        "chapterRange": "待核验",
+        "type": "处境建立",
+        "spoilerFreeText": "娇藏这一阶段重点看人物处境、题材氛围和人物关系、核心处境和古言规则的初始钩子，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让人物处境、题材氛围和人物关系、核心处境和古言规则的初始钩子变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "好奇",
+          "代入",
+          "期待"
+        ],
+        "importance": 4,
+        "confidence": "中"
+      },
+      {
+        "progressRange": "10%-25%",
+        "chapterRange": "待核验",
+        "type": "关系/规则转折",
+        "spoilerFreeText": "娇藏这一阶段重点看人物关系、核心处境和古言规则开始变得明确，读者能看出这本文的主要吸引力，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让人物关系、核心处境和古言规则开始变得明确，读者能看出这本文的主要吸引力变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "上头",
+          "心动",
+          "期待"
+        ],
+        "importance": 5,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "25%-50%",
+        "chapterRange": "待核验",
+        "type": "主线展开",
+        "spoilerFreeText": "娇藏这一阶段重点看人物选择、关系压力和主要剧情线进一步推进，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让人物选择、关系压力和主要剧情线进一步推进变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "沉浸",
+          "心疼",
+          "成长"
+        ],
+        "importance": 5,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "50%-75%",
+        "chapterRange": "待核验",
+        "type": "情绪回收",
+        "spoilerFreeText": "娇藏这一阶段重点看前期铺垫开始回收，甜虐、权谋或成长线更集中，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让前期铺垫开始回收，甜虐、权谋或成长线更集中变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "释然",
+          "紧张",
+          "回甜"
+        ],
+        "importance": 4,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "后25%",
+        "chapterRange": "待核验",
+        "type": "结局收束",
+        "spoilerFreeText": "娇藏这一阶段重点看主要关系、人物选择和情绪落点逐渐收束，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让主要关系、人物选择和情绪落点逐渐收束变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "满足",
+          "释然",
+          "回收"
+        ],
+        "importance": 4,
+        "confidence": "低"
+      }
+    ],
+    "expectationWarnings": {
+      "slowBurn": "中等慢热",
+      "abuseLevel": "较重",
+      "misunderstandingLevel": "轻微/中等",
+      "endingConcern": "结局口径待核验",
+      "controversy": "主要争议可能在人物设定、情绪强度、题材口味或节奏接受度，需结合读者讨论继续核验。",
+      "otherWarnings": [
+        "章节节点待核验",
+        "不展示小说正文",
+        "高光描述为不剧透类型化表达"
+      ]
+    },
+    "routes": {
+      "forTrialReader": "建议至少读到关系线、情绪钩子或第一个明显转折出现后再判断，不要只凭开局几章决定。",
+      "forPlotReader": "剧情党重点看人物选择、成长压力、家庭/权力结构和关系变化。",
+      "forCPReader": "适合关注CP关系、暗恋、拉扯、回甜、救赎或婚恋经营的读者，建议重点看互动和情绪递进。",
+      "ifYouWantToDrop": "如果读到建议坚持区间后仍不吃人物性格、关系设定或情绪基调，可以合理放弃。"
+    },
+    "verification": {
+      "basicInfo": "中",
+      "chapterNodes": "低",
+      "readerDiscussion": "中",
+      "notes": [
+        "基础信息需平台核验",
+        "章节节点待人工核验",
+        "高光描述为不剧透类型化表达，不包含小说正文"
+      ]
+    }
+  },
+  {
+    "id": "book_071",
+    "title": "藏娇",
+    "author": "飞梨",
+    "platform": "晋江文学城/待核验",
+    "officialUrl": "",
+    "status": "已完结",
+    "frontDisplayBadges": [
+      "古言婚恋",
+      "CP张力强",
+      "甜文低门槛",
+      "先婚后爱",
+      "回甜感强"
+    ],
+    "hookSummary": "如果你想看适合补充轻一些的古言婚恋，重点看相处、靠近和回甜。",
+    "basic": {
+      "categories": [
+        "古言",
+        "婚恋",
+        "甜文",
+        "情绪向"
+      ],
+      "tags": [
+        "古言",
+        "婚恋",
+        "甜文",
+        "CP",
+        "先婚后爱",
+        "回甜",
+        "轻松"
+      ],
+      "lengthType": "中篇",
+      "totalChapters": null,
+      "endingType": "HE/待核验",
+      "endingConfidence": "中"
+    },
+    "readerFit": {
+      "oneSentenceIntro": "一部以古言、婚恋为主要气质的作品，适合喜欢古言婚恋和CP张力强的读者。",
+      "suitableFor": [
+        "喜欢古言婚恋",
+        "喜欢CP张力强",
+        "喜欢古言或古风氛围",
+        "能接受人物关系铺垫"
+      ],
+      "notSuitableFor": [
+        "只想看现代校园甜文",
+        "不喜欢古言语境",
+        "不耐烦人物关系铺陈",
+        "想看快节奏无脑爽文"
+      ],
+      "readerTypes": [
+        "古言读者",
+        "CP党",
+        "女性成长线读者",
+        "甜虐党"
+      ]
+    },
+    "readingExperience": {
+      "slowBurnLevel": 2,
+      "plotComplexity": 3,
+      "romanceWeight": 5,
+      "plotWeight": 3,
+      "emotionType": "甜虐、心动、回甜、婚恋",
+      "quitRisk": {
+        "range": "前10%",
+        "reason": "如果不喜欢古言婚恋或甜文节奏，开局可能不对口。"
+      },
+      "stickUntil": {
+        "displayText": "建议至少读到人物关系、核心处境和第一个明显转折都展开后再判断。",
+        "chapter": null,
+        "progressRange": "前10%-15%",
+        "confidence": "低"
+      }
+    },
+    "dropDecision": {
+      "ifAtBeginning": "刚开始读不下去时，先判断自己是否接受这本书的题材、人物关系和情绪基调，不要只用开局几章判断。",
+      "ifAtQuitRiskRange": "如果卡在弃文风险区，建议继续到第一个明显关系转折或主线转折出现后再判断。",
+      "safeToDropAfter": "如果到建议坚持区间后仍不喜欢人物性格、关系设定或主要情绪方向，可以合理放弃。"
+    },
+    "highlightMap": [
+      {
+        "progressRange": "前10%",
+        "chapterRange": "待核验",
+        "type": "处境建立",
+        "spoilerFreeText": "藏娇这一阶段重点看人物处境、题材氛围和人物关系、核心处境和古言规则的初始钩子，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让人物处境、题材氛围和人物关系、核心处境和古言规则的初始钩子变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "好奇",
+          "代入",
+          "期待"
+        ],
+        "importance": 4,
+        "confidence": "中"
+      },
+      {
+        "progressRange": "10%-25%",
+        "chapterRange": "待核验",
+        "type": "关系/规则转折",
+        "spoilerFreeText": "藏娇这一阶段重点看人物关系、核心处境和古言规则开始变得明确，读者能看出这本文的主要吸引力，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让人物关系、核心处境和古言规则开始变得明确，读者能看出这本文的主要吸引力变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "上头",
+          "心动",
+          "期待"
+        ],
+        "importance": 5,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "25%-50%",
+        "chapterRange": "待核验",
+        "type": "主线展开",
+        "spoilerFreeText": "藏娇这一阶段重点看人物选择、关系压力和主要剧情线进一步推进，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让人物选择、关系压力和主要剧情线进一步推进变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "沉浸",
+          "心疼",
+          "成长"
+        ],
+        "importance": 5,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "50%-75%",
+        "chapterRange": "待核验",
+        "type": "情绪回收",
+        "spoilerFreeText": "藏娇这一阶段重点看前期铺垫开始回收，甜虐、权谋或成长线更集中，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让前期铺垫开始回收，甜虐、权谋或成长线更集中变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "释然",
+          "紧张",
+          "回甜"
+        ],
+        "importance": 4,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "后25%",
+        "chapterRange": "待核验",
+        "type": "结局收束",
+        "spoilerFreeText": "藏娇这一阶段重点看主要关系、人物选择和情绪落点逐渐收束，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让主要关系、人物选择和情绪落点逐渐收束变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "满足",
+          "释然",
+          "回收"
+        ],
+        "importance": 4,
+        "confidence": "低"
+      }
+    ],
+    "expectationWarnings": {
+      "slowBurn": "不算慢热",
+      "abuseLevel": "较重",
+      "misunderstandingLevel": "轻微/中等",
+      "endingConcern": "结局口径待核验",
+      "controversy": "主要争议可能在人物设定、情绪强度、题材口味或节奏接受度，需结合读者讨论继续核验。",
+      "otherWarnings": [
+        "章节节点待核验",
+        "不展示小说正文",
+        "高光描述为不剧透类型化表达"
+      ]
+    },
+    "routes": {
+      "forTrialReader": "建议至少读到关系线、情绪钩子或第一个明显转折出现后再判断，不要只凭开局几章决定。",
+      "forPlotReader": "剧情党重点看人物选择、成长压力、家庭/权力结构和关系变化。",
+      "forCPReader": "适合关注CP关系、暗恋、拉扯、回甜、救赎或婚恋经营的读者，建议重点看互动和情绪递进。",
+      "ifYouWantToDrop": "如果读到建议坚持区间后仍不吃人物性格、关系设定或情绪基调，可以合理放弃。"
+    },
+    "verification": {
+      "basicInfo": "中",
+      "chapterNodes": "低",
+      "readerDiscussion": "中",
+      "notes": [
+        "基础信息需平台核验",
+        "章节节点待人工核验",
+        "高光描述为不剧透类型化表达，不包含小说正文"
+      ]
+    }
+  },
+  {
+    "id": "book_072",
+    "title": "宫墙柳",
+    "author": "梦娃",
+    "platform": "晋江文学城/待核验",
+    "officialUrl": "",
+    "status": "已完结",
+    "frontDisplayBadges": [
+      "宫廷群像",
+      "女性处境",
+      "强情绪",
+      "非典型恋爱",
+      "短篇后劲"
+    ],
+    "hookSummary": "如果你想看宫廷女性群像和情绪后劲突出，适合喜欢短小但有刺痛感的读者。",
+    "basic": {
+      "categories": [
+        "古言",
+        "宫廷",
+        "群像",
+        "情绪向"
+      ],
+      "tags": [
+        "宫廷",
+        "女性群像",
+        "古言",
+        "强情绪",
+        "短篇",
+        "现实感",
+        "非典型恋爱"
+      ],
+      "lengthType": "中篇",
+      "totalChapters": null,
+      "endingType": "HE/待核验",
+      "endingConfidence": "中"
+    },
+    "readerFit": {
+      "oneSentenceIntro": "一部以古言、宫廷为主要气质的作品，适合喜欢宫廷群像和女性处境的读者。",
+      "suitableFor": [
+        "喜欢宫廷群像",
+        "喜欢女性处境",
+        "喜欢古言或古风氛围",
+        "能接受人物关系铺垫"
+      ],
+      "notSuitableFor": [
+        "只想看现代校园甜文",
+        "不喜欢古言语境",
+        "不耐烦人物关系铺陈",
+        "想看快节奏无脑爽文"
+      ],
+      "readerTypes": [
+        "古言读者",
+        "剧情党",
+        "女性成长线读者",
+        "甜虐党"
+      ]
+    },
+    "readingExperience": {
+      "slowBurnLevel": 3,
+      "plotComplexity": 4,
+      "romanceWeight": 2,
+      "plotWeight": 5,
+      "emotionType": "权谋、成长、克制、剧情",
+      "quitRisk": {
+        "range": "前10%",
+        "reason": "作品更偏宫廷女性处境和群像情绪，不是传统甜宠。"
+      },
+      "stickUntil": {
+        "displayText": "建议至少读到人物关系、核心处境和第一个明显转折都展开后再判断。",
+        "chapter": null,
+        "progressRange": "前10%-15%",
+        "confidence": "低"
+      }
+    },
+    "dropDecision": {
+      "ifAtBeginning": "刚开始读不下去时，先判断自己是否接受这本书的题材、人物关系和情绪基调，不要只用开局几章判断。",
+      "ifAtQuitRiskRange": "如果卡在弃文风险区，建议继续到第一个明显关系转折或主线转折出现后再判断。",
+      "safeToDropAfter": "如果到建议坚持区间后仍不喜欢人物性格、关系设定或主要情绪方向，可以合理放弃。"
+    },
+    "highlightMap": [
+      {
+        "progressRange": "前10%",
+        "chapterRange": "待核验",
+        "type": "处境建立",
+        "spoilerFreeText": "宫墙柳这一阶段重点看人物处境、题材氛围和人物关系、核心处境和古言规则的初始钩子，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让人物处境、题材氛围和人物关系、核心处境和古言规则的初始钩子变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "好奇",
+          "代入",
+          "期待"
+        ],
+        "importance": 4,
+        "confidence": "中"
+      },
+      {
+        "progressRange": "10%-25%",
+        "chapterRange": "待核验",
+        "type": "关系/规则转折",
+        "spoilerFreeText": "宫墙柳这一阶段重点看人物关系、核心处境和古言规则开始变得明确，读者能看出这本文的主要吸引力，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让人物关系、核心处境和古言规则开始变得明确，读者能看出这本文的主要吸引力变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "上头",
+          "心动",
+          "期待"
+        ],
+        "importance": 5,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "25%-50%",
+        "chapterRange": "待核验",
+        "type": "主线展开",
+        "spoilerFreeText": "宫墙柳这一阶段重点看人物选择、关系压力和主要剧情线进一步推进，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让人物选择、关系压力和主要剧情线进一步推进变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "沉浸",
+          "心疼",
+          "成长"
+        ],
+        "importance": 5,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "50%-75%",
+        "chapterRange": "待核验",
+        "type": "情绪回收",
+        "spoilerFreeText": "宫墙柳这一阶段重点看前期铺垫开始回收，甜虐、权谋或成长线更集中，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让前期铺垫开始回收，甜虐、权谋或成长线更集中变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "释然",
+          "紧张",
+          "回甜"
+        ],
+        "importance": 4,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "后25%",
+        "chapterRange": "待核验",
+        "type": "结局收束",
+        "spoilerFreeText": "宫墙柳这一阶段重点看主要关系、人物选择和情绪落点逐渐收束，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让主要关系、人物选择和情绪落点逐渐收束变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "满足",
+          "释然",
+          "回收"
+        ],
+        "importance": 4,
+        "confidence": "低"
+      }
+    ],
+    "expectationWarnings": {
+      "slowBurn": "中等慢热",
+      "abuseLevel": "中等/待核验",
+      "misunderstandingLevel": "轻微/中等",
+      "endingConcern": "结局口径待核验",
+      "controversy": "主要争议可能在人物设定、情绪强度、题材口味或节奏接受度，需结合读者讨论继续核验。",
+      "otherWarnings": [
+        "章节节点待核验",
+        "不展示小说正文",
+        "高光描述为不剧透类型化表达"
+      ]
+    },
+    "routes": {
+      "forTrialReader": "建议至少读到关系线、情绪钩子或第一个明显转折出现后再判断，不要只凭开局几章决定。",
+      "forPlotReader": "剧情党重点看人物选择、成长压力、家庭/权力结构和关系变化。",
+      "forCPReader": "适合关注CP关系、暗恋、拉扯、回甜、救赎或婚恋经营的读者，建议重点看互动和情绪递进。",
+      "ifYouWantToDrop": "如果读到建议坚持区间后仍不吃人物性格、关系设定或情绪基调，可以合理放弃。"
+    },
+    "verification": {
+      "basicInfo": "中",
+      "chapterNodes": "低",
+      "readerDiscussion": "中",
+      "notes": [
+        "基础信息需平台核验",
+        "章节节点待人工核验",
+        "高光描述为不剧透类型化表达，不包含小说正文"
+      ]
+    }
+  },
+  {
+    "id": "book_073",
+    "title": "长嫡",
+    "author": "莞尔wr",
+    "platform": "晋江文学城/待核验",
+    "officialUrl": "",
+    "status": "已完结",
+    "frontDisplayBadges": [
+      "古言宅斗",
+      "家族关系",
+      "权谋婚恋",
+      "慢热后劲型",
+      "女性成长"
+    ],
+    "hookSummary": "如果你想看家族、宅斗和婚恋结构较明显，适合喜欢古言规矩和慢热经营的人。",
+    "basic": {
+      "categories": [
+        "古言",
+        "宅斗",
+        "家族",
+        "婚恋"
+      ],
+      "tags": [
+        "宅斗",
+        "古言",
+        "家族",
+        "婚恋",
+        "女性成长",
+        "权谋",
+        "慢热"
+      ],
+      "lengthType": "长篇",
+      "totalChapters": null,
+      "endingType": "HE/待核验",
+      "endingConfidence": "中"
+    },
+    "readerFit": {
+      "oneSentenceIntro": "一部以古言、宅斗为主要气质的作品，适合喜欢古言宅斗和家族关系的读者。",
+      "suitableFor": [
+        "喜欢古言宅斗",
+        "喜欢家族关系",
+        "喜欢古言或古风氛围",
+        "能接受人物关系铺垫"
+      ],
+      "notSuitableFor": [
+        "只想看现代校园甜文",
+        "不喜欢古言语境",
+        "不耐烦人物关系铺陈",
+        "想看快节奏无脑爽文"
+      ],
+      "readerTypes": [
+        "古言读者",
+        "剧情党",
+        "女性成长线读者",
+        "慢热读者"
+      ]
+    },
+    "readingExperience": {
+      "slowBurnLevel": 4,
+      "plotComplexity": 4,
+      "romanceWeight": 3,
+      "plotWeight": 4,
+      "emotionType": "权谋、成长、克制、剧情",
+      "quitRisk": {
+        "range": "前10%-25%",
+        "reason": "前期人物和家族关系较多，需要耐心进入。"
+      },
+      "stickUntil": {
+        "displayText": "建议至少读到人物关系、核心处境和第一个明显转折都展开后再判断。",
+        "chapter": null,
+        "progressRange": "10%-25%",
+        "confidence": "低"
+      }
+    },
+    "dropDecision": {
+      "ifAtBeginning": "刚开始读不下去时，先判断自己是否接受这本书的题材、人物关系和情绪基调，不要只用开局几章判断。",
+      "ifAtQuitRiskRange": "如果卡在弃文风险区，建议继续到第一个明显关系转折或主线转折出现后再判断。",
+      "safeToDropAfter": "如果到建议坚持区间后仍不喜欢人物性格、关系设定或主要情绪方向，可以合理放弃。"
+    },
+    "highlightMap": [
+      {
+        "progressRange": "前10%",
+        "chapterRange": "待核验",
+        "type": "处境建立",
+        "spoilerFreeText": "长嫡这一阶段重点看人物处境、题材氛围和人物关系、核心处境和古言规则的初始钩子，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让人物处境、题材氛围和人物关系、核心处境和古言规则的初始钩子变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "好奇",
+          "代入",
+          "期待"
+        ],
+        "importance": 4,
+        "confidence": "中"
+      },
+      {
+        "progressRange": "10%-25%",
+        "chapterRange": "待核验",
+        "type": "关系/规则转折",
+        "spoilerFreeText": "长嫡这一阶段重点看人物关系、核心处境和古言规则开始变得明确，读者能看出这本文的主要吸引力，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让人物关系、核心处境和古言规则开始变得明确，读者能看出这本文的主要吸引力变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "上头",
+          "心动",
+          "期待"
+        ],
+        "importance": 5,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "25%-50%",
+        "chapterRange": "待核验",
+        "type": "主线展开",
+        "spoilerFreeText": "长嫡这一阶段重点看人物选择、关系压力和主要剧情线进一步推进，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让人物选择、关系压力和主要剧情线进一步推进变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "沉浸",
+          "心疼",
+          "成长"
+        ],
+        "importance": 5,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "50%-75%",
+        "chapterRange": "待核验",
+        "type": "情绪回收",
+        "spoilerFreeText": "长嫡这一阶段重点看前期铺垫开始回收，甜虐、权谋或成长线更集中，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让前期铺垫开始回收，甜虐、权谋或成长线更集中变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "释然",
+          "紧张",
+          "回甜"
+        ],
+        "importance": 4,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "后25%",
+        "chapterRange": "待核验",
+        "type": "结局收束",
+        "spoilerFreeText": "长嫡这一阶段重点看主要关系、人物选择和情绪落点逐渐收束，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让主要关系、人物选择和情绪落点逐渐收束变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "满足",
+          "释然",
+          "回收"
+        ],
+        "importance": 4,
+        "confidence": "低"
+      }
+    ],
+    "expectationWarnings": {
+      "slowBurn": "明显慢热",
+      "abuseLevel": "轻微/中等",
+      "misunderstandingLevel": "轻微/中等",
+      "endingConcern": "结局口径待核验",
+      "controversy": "主要争议可能在人物设定、情绪强度、题材口味或节奏接受度，需结合读者讨论继续核验。",
+      "otherWarnings": [
+        "章节节点待核验",
+        "不展示小说正文",
+        "高光描述为不剧透类型化表达"
+      ]
+    },
+    "routes": {
+      "forTrialReader": "建议至少读到关系线、情绪钩子或第一个明显转折出现后再判断，不要只凭开局几章决定。",
+      "forPlotReader": "剧情党重点看人物选择、成长压力、家庭/权力结构和关系变化。",
+      "forCPReader": "适合关注CP关系、暗恋、拉扯、回甜、救赎或婚恋经营的读者，建议重点看互动和情绪递进。",
+      "ifYouWantToDrop": "如果读到建议坚持区间后仍不吃人物性格、关系设定或情绪基调，可以合理放弃。"
+    },
+    "verification": {
+      "basicInfo": "中",
+      "chapterNodes": "低",
+      "readerDiscussion": "中",
+      "notes": [
+        "基础信息需平台核验",
+        "章节节点待人工核验",
+        "高光描述为不剧透类型化表达，不包含小说正文"
+      ]
+    }
+  },
+  {
+    "id": "book_074",
+    "title": "名门闺杀",
+    "author": "面北眉南",
+    "platform": "晋江文学城/待核验",
+    "officialUrl": "",
+    "status": "已完结",
+    "frontDisplayBadges": [
+      "古言宅斗",
+      "家族权谋",
+      "女性成长",
+      "慢热后劲型",
+      "剧情党友好"
+    ],
+    "hookSummary": "如果你想看宅斗和家族权谋感强，适合喜欢女主在规则中周旋成长的读者。",
+    "basic": {
+      "categories": [
+        "古言",
+        "宅斗",
+        "家族",
+        "权谋"
+      ],
+      "tags": [
+        "宅斗",
+        "古言",
+        "家族",
+        "女性成长",
+        "权谋",
+        "慢热",
+        "剧情"
+      ],
+      "lengthType": "长篇",
+      "totalChapters": null,
+      "endingType": "HE/待核验",
+      "endingConfidence": "中"
+    },
+    "readerFit": {
+      "oneSentenceIntro": "一部以古言、宅斗为主要气质的作品，适合喜欢古言宅斗和家族权谋的读者。",
+      "suitableFor": [
+        "喜欢古言宅斗",
+        "喜欢家族权谋",
+        "喜欢古言或古风氛围",
+        "能接受人物关系铺垫"
+      ],
+      "notSuitableFor": [
+        "只想看现代校园甜文",
+        "不喜欢古言语境",
+        "不耐烦人物关系铺陈",
+        "想看快节奏无脑爽文"
+      ],
+      "readerTypes": [
+        "古言读者",
+        "剧情党",
+        "女性成长线读者",
+        "慢热读者"
+      ]
+    },
+    "readingExperience": {
+      "slowBurnLevel": 4,
+      "plotComplexity": 4,
+      "romanceWeight": 3,
+      "plotWeight": 5,
+      "emotionType": "权谋、成长、克制、剧情",
+      "quitRisk": {
+        "range": "前10%-25%",
+        "reason": "前期以家族关系、规矩和人物处境铺陈为主。"
+      },
+      "stickUntil": {
+        "displayText": "建议至少读到人物关系、核心处境和第一个明显转折都展开后再判断。",
+        "chapter": null,
+        "progressRange": "10%-25%",
+        "confidence": "低"
+      }
+    },
+    "dropDecision": {
+      "ifAtBeginning": "刚开始读不下去时，先判断自己是否接受这本书的题材、人物关系和情绪基调，不要只用开局几章判断。",
+      "ifAtQuitRiskRange": "如果卡在弃文风险区，建议继续到第一个明显关系转折或主线转折出现后再判断。",
+      "safeToDropAfter": "如果到建议坚持区间后仍不喜欢人物性格、关系设定或主要情绪方向，可以合理放弃。"
+    },
+    "highlightMap": [
+      {
+        "progressRange": "前10%",
+        "chapterRange": "待核验",
+        "type": "处境建立",
+        "spoilerFreeText": "名门闺杀这一阶段重点看人物处境、题材氛围和人物关系、核心处境和古言规则的初始钩子，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让人物处境、题材氛围和人物关系、核心处境和古言规则的初始钩子变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "好奇",
+          "代入",
+          "期待"
+        ],
+        "importance": 4,
+        "confidence": "中"
+      },
+      {
+        "progressRange": "10%-25%",
+        "chapterRange": "待核验",
+        "type": "关系/规则转折",
+        "spoilerFreeText": "名门闺杀这一阶段重点看人物关系、核心处境和古言规则开始变得明确，读者能看出这本文的主要吸引力，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让人物关系、核心处境和古言规则开始变得明确，读者能看出这本文的主要吸引力变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "上头",
+          "心动",
+          "期待"
+        ],
+        "importance": 5,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "25%-50%",
+        "chapterRange": "待核验",
+        "type": "主线展开",
+        "spoilerFreeText": "名门闺杀这一阶段重点看人物选择、关系压力和主要剧情线进一步推进，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让人物选择、关系压力和主要剧情线进一步推进变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "沉浸",
+          "心疼",
+          "成长"
+        ],
+        "importance": 5,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "50%-75%",
+        "chapterRange": "待核验",
+        "type": "情绪回收",
+        "spoilerFreeText": "名门闺杀这一阶段重点看前期铺垫开始回收，甜虐、权谋或成长线更集中，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让前期铺垫开始回收，甜虐、权谋或成长线更集中变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "释然",
+          "紧张",
+          "回甜"
+        ],
+        "importance": 4,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "后25%",
+        "chapterRange": "待核验",
+        "type": "结局收束",
+        "spoilerFreeText": "名门闺杀这一阶段重点看主要关系、人物选择和情绪落点逐渐收束，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让主要关系、人物选择和情绪落点逐渐收束变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "满足",
+          "释然",
+          "回收"
+        ],
+        "importance": 4,
+        "confidence": "低"
+      }
+    ],
+    "expectationWarnings": {
+      "slowBurn": "明显慢热",
+      "abuseLevel": "轻微/中等",
+      "misunderstandingLevel": "轻微/中等",
+      "endingConcern": "结局口径待核验",
+      "controversy": "主要争议可能在人物设定、情绪强度、题材口味或节奏接受度，需结合读者讨论继续核验。",
+      "otherWarnings": [
+        "章节节点待核验",
+        "不展示小说正文",
+        "高光描述为不剧透类型化表达"
+      ]
+    },
+    "routes": {
+      "forTrialReader": "建议至少读到关系线、情绪钩子或第一个明显转折出现后再判断，不要只凭开局几章决定。",
+      "forPlotReader": "剧情党重点看人物选择、成长压力、家庭/权力结构和关系变化。",
+      "forCPReader": "适合关注CP关系、暗恋、拉扯、回甜、救赎或婚恋经营的读者，建议重点看互动和情绪递进。",
+      "ifYouWantToDrop": "如果读到建议坚持区间后仍不吃人物性格、关系设定或情绪基调，可以合理放弃。"
+    },
+    "verification": {
+      "basicInfo": "中",
+      "chapterNodes": "低",
+      "readerDiscussion": "中",
+      "notes": [
+        "基础信息需平台核验",
+        "章节节点待人工核验",
+        "高光描述为不剧透类型化表达，不包含小说正文"
+      ]
+    }
+  },
+  {
+    "id": "book_075",
+    "title": "覆手繁华",
+    "author": "云霓",
+    "platform": "晋江文学城/待核验",
+    "officialUrl": "",
+    "status": "已完结",
+    "frontDisplayBadges": [
+      "古言权谋",
+      "女主成长",
+      "强剧情",
+      "家族关系",
+      "慢热后劲型"
+    ],
+    "hookSummary": "如果你想看女主成长、家族和权谋推进并重，适合喜欢古言强剧情的读者。",
+    "basic": {
+      "categories": [
+        "古言",
+        "权谋",
+        "女性成长",
+        "家族"
+      ],
+      "tags": [
+        "古言",
+        "权谋",
+        "女性成长",
+        "家族",
+        "剧情",
+        "慢热",
+        "CP"
+      ],
+      "lengthType": "长篇",
+      "totalChapters": null,
+      "endingType": "HE/待核验",
+      "endingConfidence": "中"
+    },
+    "readerFit": {
+      "oneSentenceIntro": "一部以古言、权谋为主要气质的作品，适合喜欢古言权谋和女主成长的读者。",
+      "suitableFor": [
+        "喜欢古言权谋",
+        "喜欢女主成长",
+        "喜欢古言或古风氛围",
+        "能接受人物关系铺垫"
+      ],
+      "notSuitableFor": [
+        "只想看现代校园甜文",
+        "不喜欢古言语境",
+        "不耐烦人物关系铺陈",
+        "想看快节奏无脑爽文"
+      ],
+      "readerTypes": [
+        "古言读者",
+        "剧情党",
+        "女性成长线读者",
+        "慢热读者"
+      ]
+    },
+    "readingExperience": {
+      "slowBurnLevel": 4,
+      "plotComplexity": 4,
+      "romanceWeight": 3,
+      "plotWeight": 5,
+      "emotionType": "权谋、成长、克制、剧情",
+      "quitRisk": {
+        "range": "前10%-25%",
+        "reason": "前期需要适应古言格局、人物关系和铺陈节奏。"
+      },
+      "stickUntil": {
+        "displayText": "建议至少读到人物关系、核心处境和第一个明显转折都展开后再判断。",
+        "chapter": null,
+        "progressRange": "10%-25%",
+        "confidence": "低"
+      }
+    },
+    "dropDecision": {
+      "ifAtBeginning": "刚开始读不下去时，先判断自己是否接受这本书的题材、人物关系和情绪基调，不要只用开局几章判断。",
+      "ifAtQuitRiskRange": "如果卡在弃文风险区，建议继续到第一个明显关系转折或主线转折出现后再判断。",
+      "safeToDropAfter": "如果到建议坚持区间后仍不喜欢人物性格、关系设定或主要情绪方向，可以合理放弃。"
+    },
+    "highlightMap": [
+      {
+        "progressRange": "前10%",
+        "chapterRange": "待核验",
+        "type": "处境建立",
+        "spoilerFreeText": "覆手繁华这一阶段重点看人物处境、题材氛围和人物关系、核心处境和古言规则的初始钩子，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让人物处境、题材氛围和人物关系、核心处境和古言规则的初始钩子变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "好奇",
+          "代入",
+          "期待"
+        ],
+        "importance": 4,
+        "confidence": "中"
+      },
+      {
+        "progressRange": "10%-25%",
+        "chapterRange": "待核验",
+        "type": "关系/规则转折",
+        "spoilerFreeText": "覆手繁华这一阶段重点看人物关系、核心处境和古言规则开始变得明确，读者能看出这本文的主要吸引力，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让人物关系、核心处境和古言规则开始变得明确，读者能看出这本文的主要吸引力变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "上头",
+          "心动",
+          "期待"
+        ],
+        "importance": 5,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "25%-50%",
+        "chapterRange": "待核验",
+        "type": "主线展开",
+        "spoilerFreeText": "覆手繁华这一阶段重点看人物选择、关系压力和主要剧情线进一步推进，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让人物选择、关系压力和主要剧情线进一步推进变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "沉浸",
+          "心疼",
+          "成长"
+        ],
+        "importance": 5,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "50%-75%",
+        "chapterRange": "待核验",
+        "type": "情绪回收",
+        "spoilerFreeText": "覆手繁华这一阶段重点看前期铺垫开始回收，甜虐、权谋或成长线更集中，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让前期铺垫开始回收，甜虐、权谋或成长线更集中变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "释然",
+          "紧张",
+          "回甜"
+        ],
+        "importance": 4,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "后25%",
+        "chapterRange": "待核验",
+        "type": "结局收束",
+        "spoilerFreeText": "覆手繁华这一阶段重点看主要关系、人物选择和情绪落点逐渐收束，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让主要关系、人物选择和情绪落点逐渐收束变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "满足",
+          "释然",
+          "回收"
+        ],
+        "importance": 4,
+        "confidence": "低"
+      }
+    ],
+    "expectationWarnings": {
+      "slowBurn": "明显慢热",
+      "abuseLevel": "轻微/中等",
+      "misunderstandingLevel": "轻微/中等",
+      "endingConcern": "结局口径待核验",
+      "controversy": "主要争议可能在人物设定、情绪强度、题材口味或节奏接受度，需结合读者讨论继续核验。",
+      "otherWarnings": [
+        "章节节点待核验",
+        "不展示小说正文",
+        "高光描述为不剧透类型化表达"
+      ]
+    },
+    "routes": {
+      "forTrialReader": "建议至少读到关系线、情绪钩子或第一个明显转折出现后再判断，不要只凭开局几章决定。",
+      "forPlotReader": "剧情党重点看人物选择、成长压力、家庭/权力结构和关系变化。",
+      "forCPReader": "适合关注CP关系、暗恋、拉扯、回甜、救赎或婚恋经营的读者，建议重点看互动和情绪递进。",
+      "ifYouWantToDrop": "如果读到建议坚持区间后仍不吃人物性格、关系设定或情绪基调，可以合理放弃。"
+    },
+    "verification": {
+      "basicInfo": "中",
+      "chapterNodes": "低",
+      "readerDiscussion": "中",
+      "notes": [
+        "基础信息需平台核验",
+        "章节节点待人工核验",
+        "高光描述为不剧透类型化表达，不包含小说正文"
+      ]
+    }
+  },
+  {
+    "id": "book_076",
+    "title": "锦桐",
+    "author": "闲听落花",
+    "platform": "晋江文学城/待核验",
+    "officialUrl": "",
+    "status": "已完结",
+    "frontDisplayBadges": [
+      "古言生活流",
+      "女性成长",
+      "家族经营",
+      "慢热后劲型",
+      "婚恋线"
+    ],
+    "hookSummary": "如果你想看生活流古言和女性成长气质明显，适合喜欢细水长流的人。",
+    "basic": {
+      "categories": [
+        "古言",
+        "生活流",
+        "女性成长",
+        "家族"
+      ],
+      "tags": [
+        "生活流",
+        "古言",
+        "女性成长",
+        "家族",
+        "婚恋",
+        "慢热",
+        "经营"
+      ],
+      "lengthType": "长篇",
+      "totalChapters": null,
+      "endingType": "HE/待核验",
+      "endingConfidence": "中"
+    },
+    "readerFit": {
+      "oneSentenceIntro": "一部以古言、生活流为主要气质的作品，适合喜欢古言生活流和女性成长的读者。",
+      "suitableFor": [
+        "喜欢古言生活流",
+        "喜欢女性成长",
+        "喜欢古言或古风氛围",
+        "能接受人物关系铺垫"
+      ],
+      "notSuitableFor": [
+        "只想看现代校园甜文",
+        "不喜欢古言语境",
+        "不耐烦人物关系铺陈",
+        "想看快节奏无脑爽文"
+      ],
+      "readerTypes": [
+        "古言读者",
+        "剧情党",
+        "女性成长线读者",
+        "慢热读者"
+      ]
+    },
+    "readingExperience": {
+      "slowBurnLevel": 5,
+      "plotComplexity": 3,
+      "romanceWeight": 3,
+      "plotWeight": 4,
+      "emotionType": "权谋、成长、克制、剧情",
+      "quitRisk": {
+        "range": "前10%-25%",
+        "reason": "前期更偏生活流和人物处境，爽点释放较慢。"
+      },
+      "stickUntil": {
+        "displayText": "建议至少读到人物关系、核心处境和第一个明显转折都展开后再判断。",
+        "chapter": null,
+        "progressRange": "10%-25%",
+        "confidence": "低"
+      }
+    },
+    "dropDecision": {
+      "ifAtBeginning": "刚开始读不下去时，先判断自己是否接受这本书的题材、人物关系和情绪基调，不要只用开局几章判断。",
+      "ifAtQuitRiskRange": "如果卡在弃文风险区，建议继续到第一个明显关系转折或主线转折出现后再判断。",
+      "safeToDropAfter": "如果到建议坚持区间后仍不喜欢人物性格、关系设定或主要情绪方向，可以合理放弃。"
+    },
+    "highlightMap": [
+      {
+        "progressRange": "前10%",
+        "chapterRange": "待核验",
+        "type": "处境建立",
+        "spoilerFreeText": "锦桐这一阶段重点看人物处境、题材氛围和人物关系、核心处境和古言规则的初始钩子，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让人物处境、题材氛围和人物关系、核心处境和古言规则的初始钩子变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "好奇",
+          "代入",
+          "期待"
+        ],
+        "importance": 4,
+        "confidence": "中"
+      },
+      {
+        "progressRange": "10%-25%",
+        "chapterRange": "待核验",
+        "type": "关系/规则转折",
+        "spoilerFreeText": "锦桐这一阶段重点看人物关系、核心处境和古言规则开始变得明确，读者能看出这本文的主要吸引力，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让人物关系、核心处境和古言规则开始变得明确，读者能看出这本文的主要吸引力变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "上头",
+          "心动",
+          "期待"
+        ],
+        "importance": 5,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "25%-50%",
+        "chapterRange": "待核验",
+        "type": "主线展开",
+        "spoilerFreeText": "锦桐这一阶段重点看人物选择、关系压力和主要剧情线进一步推进，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让人物选择、关系压力和主要剧情线进一步推进变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "沉浸",
+          "心疼",
+          "成长"
+        ],
+        "importance": 5,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "50%-75%",
+        "chapterRange": "待核验",
+        "type": "情绪回收",
+        "spoilerFreeText": "锦桐这一阶段重点看前期铺垫开始回收，甜虐、权谋或成长线更集中，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让前期铺垫开始回收，甜虐、权谋或成长线更集中变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "释然",
+          "紧张",
+          "回甜"
+        ],
+        "importance": 4,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "后25%",
+        "chapterRange": "待核验",
+        "type": "结局收束",
+        "spoilerFreeText": "锦桐这一阶段重点看主要关系、人物选择和情绪落点逐渐收束，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让主要关系、人物选择和情绪落点逐渐收束变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "满足",
+          "释然",
+          "回收"
+        ],
+        "importance": 4,
+        "confidence": "低"
+      }
+    ],
+    "expectationWarnings": {
+      "slowBurn": "非常慢热",
+      "abuseLevel": "轻微/中等",
+      "misunderstandingLevel": "轻微/中等",
+      "endingConcern": "结局口径待核验",
+      "controversy": "主要争议可能在人物设定、情绪强度、题材口味或节奏接受度，需结合读者讨论继续核验。",
+      "otherWarnings": [
+        "章节节点待核验",
+        "不展示小说正文",
+        "高光描述为不剧透类型化表达"
+      ]
+    },
+    "routes": {
+      "forTrialReader": "建议至少读到关系线、情绪钩子或第一个明显转折出现后再判断，不要只凭开局几章决定。",
+      "forPlotReader": "剧情党重点看人物选择、成长压力、家庭/权力结构和关系变化。",
+      "forCPReader": "适合关注CP关系、暗恋、拉扯、回甜、救赎或婚恋经营的读者，建议重点看互动和情绪递进。",
+      "ifYouWantToDrop": "如果读到建议坚持区间后仍不吃人物性格、关系设定或情绪基调，可以合理放弃。"
+    },
+    "verification": {
+      "basicInfo": "中",
+      "chapterNodes": "低",
+      "readerDiscussion": "中",
+      "notes": [
+        "基础信息需平台核验",
+        "章节节点待人工核验",
+        "高光描述为不剧透类型化表达，不包含小说正文"
+      ]
+    }
+  },
+  {
+    "id": "book_077",
+    "title": "花娇",
+    "author": "吱吱",
+    "platform": "晋江文学城/待核验",
+    "officialUrl": "",
+    "status": "已完结",
+    "frontDisplayBadges": [
+      "古言婚恋",
+      "甜文回甜",
+      "家族经营",
+      "女性成长",
+      "轻松入门"
+    ],
+    "hookSummary": "如果你想看相对轻松的古言婚恋和家族经营，适合喜欢温和回甜的人。",
+    "basic": {
+      "categories": [
+        "古言",
+        "婚恋",
+        "家族",
+        "甜文"
+      ],
+      "tags": [
+        "古言",
+        "婚恋",
+        "家族",
+        "甜文",
+        "女性成长",
+        "经营",
+        "回甜"
+      ],
+      "lengthType": "长篇",
+      "totalChapters": null,
+      "endingType": "HE/待核验",
+      "endingConfidence": "中"
+    },
+    "readerFit": {
+      "oneSentenceIntro": "一部以古言、婚恋为主要气质的作品，适合喜欢古言婚恋和甜文回甜的读者。",
+      "suitableFor": [
+        "喜欢古言婚恋",
+        "喜欢甜文回甜",
+        "喜欢古言或古风氛围",
+        "能接受人物关系铺垫"
+      ],
+      "notSuitableFor": [
+        "只想看现代校园甜文",
+        "不喜欢古言语境",
+        "不耐烦人物关系铺陈",
+        "想看快节奏无脑爽文"
+      ],
+      "readerTypes": [
+        "古言读者",
+        "CP党",
+        "女性成长线读者",
+        "甜虐党"
+      ]
+    },
+    "readingExperience": {
+      "slowBurnLevel": 3,
+      "plotComplexity": 3,
+      "romanceWeight": 4,
+      "plotWeight": 3,
+      "emotionType": "甜虐、心动、回甜、婚恋",
+      "quitRisk": {
+        "range": "前10%-25%",
+        "reason": "前期需要适应家族和婚恋环境，节奏偏温和。"
+      },
+      "stickUntil": {
+        "displayText": "建议至少读到人物关系、核心处境和第一个明显转折都展开后再判断。",
+        "chapter": null,
+        "progressRange": "10%-25%",
+        "confidence": "低"
+      }
+    },
+    "dropDecision": {
+      "ifAtBeginning": "刚开始读不下去时，先判断自己是否接受这本书的题材、人物关系和情绪基调，不要只用开局几章判断。",
+      "ifAtQuitRiskRange": "如果卡在弃文风险区，建议继续到第一个明显关系转折或主线转折出现后再判断。",
+      "safeToDropAfter": "如果到建议坚持区间后仍不喜欢人物性格、关系设定或主要情绪方向，可以合理放弃。"
+    },
+    "highlightMap": [
+      {
+        "progressRange": "前10%",
+        "chapterRange": "待核验",
+        "type": "处境建立",
+        "spoilerFreeText": "花娇这一阶段重点看人物处境、题材氛围和人物关系、核心处境和古言规则的初始钩子，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让人物处境、题材氛围和人物关系、核心处境和古言规则的初始钩子变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "好奇",
+          "代入",
+          "期待"
+        ],
+        "importance": 4,
+        "confidence": "中"
+      },
+      {
+        "progressRange": "10%-25%",
+        "chapterRange": "待核验",
+        "type": "关系/规则转折",
+        "spoilerFreeText": "花娇这一阶段重点看人物关系、核心处境和古言规则开始变得明确，读者能看出这本文的主要吸引力，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让人物关系、核心处境和古言规则开始变得明确，读者能看出这本文的主要吸引力变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "上头",
+          "心动",
+          "期待"
+        ],
+        "importance": 5,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "25%-50%",
+        "chapterRange": "待核验",
+        "type": "主线展开",
+        "spoilerFreeText": "花娇这一阶段重点看人物选择、关系压力和主要剧情线进一步推进，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让人物选择、关系压力和主要剧情线进一步推进变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "沉浸",
+          "心疼",
+          "成长"
+        ],
+        "importance": 5,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "50%-75%",
+        "chapterRange": "待核验",
+        "type": "情绪回收",
+        "spoilerFreeText": "花娇这一阶段重点看前期铺垫开始回收，甜虐、权谋或成长线更集中，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让前期铺垫开始回收，甜虐、权谋或成长线更集中变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "释然",
+          "紧张",
+          "回甜"
+        ],
+        "importance": 4,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "后25%",
+        "chapterRange": "待核验",
+        "type": "结局收束",
+        "spoilerFreeText": "花娇这一阶段重点看主要关系、人物选择和情绪落点逐渐收束，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让主要关系、人物选择和情绪落点逐渐收束变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "满足",
+          "释然",
+          "回收"
+        ],
+        "importance": 4,
+        "confidence": "低"
+      }
+    ],
+    "expectationWarnings": {
+      "slowBurn": "中等慢热",
+      "abuseLevel": "较重",
+      "misunderstandingLevel": "轻微/中等",
+      "endingConcern": "结局口径待核验",
+      "controversy": "主要争议可能在人物设定、情绪强度、题材口味或节奏接受度，需结合读者讨论继续核验。",
+      "otherWarnings": [
+        "章节节点待核验",
+        "不展示小说正文",
+        "高光描述为不剧透类型化表达"
+      ]
+    },
+    "routes": {
+      "forTrialReader": "建议至少读到关系线、情绪钩子或第一个明显转折出现后再判断，不要只凭开局几章决定。",
+      "forPlotReader": "剧情党重点看人物选择、成长压力、家庭/权力结构和关系变化。",
+      "forCPReader": "适合关注CP关系、暗恋、拉扯、回甜、救赎或婚恋经营的读者，建议重点看互动和情绪递进。",
+      "ifYouWantToDrop": "如果读到建议坚持区间后仍不吃人物性格、关系设定或情绪基调，可以合理放弃。"
+    },
+    "verification": {
+      "basicInfo": "中",
+      "chapterNodes": "低",
+      "readerDiscussion": "中",
+      "notes": [
+        "基础信息需平台核验",
+        "章节节点待人工核验",
+        "高光描述为不剧透类型化表达，不包含小说正文"
+      ]
+    }
+  },
+  {
+    "id": "book_078",
+    "title": "玉堂金闺",
+    "author": "闲听落花",
+    "platform": "晋江文学城/待核验",
+    "officialUrl": "",
+    "status": "已完结",
+    "frontDisplayBadges": [
+      "古言宅斗",
+      "婚恋经营",
+      "女性成长",
+      "慢热后劲型",
+      "家族关系"
+    ],
+    "hookSummary": "如果你想看典型古言家族婚恋与成长线，适合喜欢细致人情和宅斗规则的读者。",
+    "basic": {
+      "categories": [
+        "古言",
+        "宅斗",
+        "婚恋",
+        "家族"
+      ],
+      "tags": [
+        "古言",
+        "宅斗",
+        "婚恋",
+        "家族",
+        "女性成长",
+        "慢热",
+        "经营"
+      ],
+      "lengthType": "长篇",
+      "totalChapters": null,
+      "endingType": "HE/待核验",
+      "endingConfidence": "中"
+    },
+    "readerFit": {
+      "oneSentenceIntro": "一部以古言、宅斗为主要气质的作品，适合喜欢古言宅斗和婚恋经营的读者。",
+      "suitableFor": [
+        "喜欢古言宅斗",
+        "喜欢婚恋经营",
+        "喜欢古言或古风氛围",
+        "能接受人物关系铺垫"
+      ],
+      "notSuitableFor": [
+        "只想看现代校园甜文",
+        "不喜欢古言语境",
+        "不耐烦人物关系铺陈",
+        "想看快节奏无脑爽文"
+      ],
+      "readerTypes": [
+        "古言读者",
+        "剧情党",
+        "女性成长线读者",
+        "慢热读者"
+      ]
+    },
+    "readingExperience": {
+      "slowBurnLevel": 4,
+      "plotComplexity": 4,
+      "romanceWeight": 3,
+      "plotWeight": 4,
+      "emotionType": "权谋、成长、克制、剧情",
+      "quitRisk": {
+        "range": "前10%-25%",
+        "reason": "前期人物和家族规矩较多，需要耐心进入。"
+      },
+      "stickUntil": {
+        "displayText": "建议至少读到人物关系、核心处境和第一个明显转折都展开后再判断。",
+        "chapter": null,
+        "progressRange": "10%-25%",
+        "confidence": "低"
+      }
+    },
+    "dropDecision": {
+      "ifAtBeginning": "刚开始读不下去时，先判断自己是否接受这本书的题材、人物关系和情绪基调，不要只用开局几章判断。",
+      "ifAtQuitRiskRange": "如果卡在弃文风险区，建议继续到第一个明显关系转折或主线转折出现后再判断。",
+      "safeToDropAfter": "如果到建议坚持区间后仍不喜欢人物性格、关系设定或主要情绪方向，可以合理放弃。"
+    },
+    "highlightMap": [
+      {
+        "progressRange": "前10%",
+        "chapterRange": "待核验",
+        "type": "处境建立",
+        "spoilerFreeText": "玉堂金闺这一阶段重点看人物处境、题材氛围和人物关系、核心处境和古言规则的初始钩子，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让人物处境、题材氛围和人物关系、核心处境和古言规则的初始钩子变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "好奇",
+          "代入",
+          "期待"
+        ],
+        "importance": 4,
+        "confidence": "中"
+      },
+      {
+        "progressRange": "10%-25%",
+        "chapterRange": "待核验",
+        "type": "关系/规则转折",
+        "spoilerFreeText": "玉堂金闺这一阶段重点看人物关系、核心处境和古言规则开始变得明确，读者能看出这本文的主要吸引力，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让人物关系、核心处境和古言规则开始变得明确，读者能看出这本文的主要吸引力变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "上头",
+          "心动",
+          "期待"
+        ],
+        "importance": 5,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "25%-50%",
+        "chapterRange": "待核验",
+        "type": "主线展开",
+        "spoilerFreeText": "玉堂金闺这一阶段重点看人物选择、关系压力和主要剧情线进一步推进，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让人物选择、关系压力和主要剧情线进一步推进变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "沉浸",
+          "心疼",
+          "成长"
+        ],
+        "importance": 5,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "50%-75%",
+        "chapterRange": "待核验",
+        "type": "情绪回收",
+        "spoilerFreeText": "玉堂金闺这一阶段重点看前期铺垫开始回收，甜虐、权谋或成长线更集中，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让前期铺垫开始回收，甜虐、权谋或成长线更集中变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "释然",
+          "紧张",
+          "回甜"
+        ],
+        "importance": 4,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "后25%",
+        "chapterRange": "待核验",
+        "type": "结局收束",
+        "spoilerFreeText": "玉堂金闺这一阶段重点看主要关系、人物选择和情绪落点逐渐收束，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让主要关系、人物选择和情绪落点逐渐收束变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "满足",
+          "释然",
+          "回收"
+        ],
+        "importance": 4,
+        "confidence": "低"
+      }
+    ],
+    "expectationWarnings": {
+      "slowBurn": "明显慢热",
+      "abuseLevel": "轻微/中等",
+      "misunderstandingLevel": "轻微/中等",
+      "endingConcern": "结局口径待核验",
+      "controversy": "主要争议可能在人物设定、情绪强度、题材口味或节奏接受度，需结合读者讨论继续核验。",
+      "otherWarnings": [
+        "章节节点待核验",
+        "不展示小说正文",
+        "高光描述为不剧透类型化表达"
+      ]
+    },
+    "routes": {
+      "forTrialReader": "建议至少读到关系线、情绪钩子或第一个明显转折出现后再判断，不要只凭开局几章决定。",
+      "forPlotReader": "剧情党重点看人物选择、成长压力、家庭/权力结构和关系变化。",
+      "forCPReader": "适合关注CP关系、暗恋、拉扯、回甜、救赎或婚恋经营的读者，建议重点看互动和情绪递进。",
+      "ifYouWantToDrop": "如果读到建议坚持区间后仍不吃人物性格、关系设定或情绪基调，可以合理放弃。"
+    },
+    "verification": {
+      "basicInfo": "中",
+      "chapterNodes": "低",
+      "readerDiscussion": "中",
+      "notes": [
+        "基础信息需平台核验",
+        "章节节点待人工核验",
+        "高光描述为不剧透类型化表达，不包含小说正文"
+      ]
+    }
+  },
+  {
+    "id": "book_079",
+    "title": "千金裘",
+    "author": "明月珰",
+    "platform": "晋江文学城/待核验",
+    "officialUrl": "",
+    "status": "已完结",
+    "frontDisplayBadges": [
+      "古言婚恋",
+      "CP张力强",
+      "甜虐交织",
+      "家族关系",
+      "情绪细腻"
+    ],
+    "hookSummary": "如果你想看古言婚恋和人物关系细节较强，适合喜欢CP拉扯和甜虐情绪的人。",
+    "basic": {
+      "categories": [
+        "古言",
+        "婚恋",
+        "甜虐",
+        "情绪向"
+      ],
+      "tags": [
+        "古言",
+        "婚恋",
+        "CP",
+        "甜虐",
+        "家族",
+        "细腻",
+        "回甜"
+      ],
+      "lengthType": "中篇",
+      "totalChapters": null,
+      "endingType": "HE/待核验",
+      "endingConfidence": "中"
+    },
+    "readerFit": {
+      "oneSentenceIntro": "一部以古言、婚恋为主要气质的作品，适合喜欢古言婚恋和CP张力强的读者。",
+      "suitableFor": [
+        "喜欢古言婚恋",
+        "喜欢CP张力强",
+        "喜欢古言或古风氛围",
+        "能接受人物关系铺垫"
+      ],
+      "notSuitableFor": [
+        "只想看现代校园甜文",
+        "不喜欢古言语境",
+        "不耐烦人物关系铺陈",
+        "想看快节奏无脑爽文"
+      ],
+      "readerTypes": [
+        "古言读者",
+        "CP党",
+        "女性成长线读者",
+        "甜虐党"
+      ]
+    },
+    "readingExperience": {
+      "slowBurnLevel": 3,
+      "plotComplexity": 3,
+      "romanceWeight": 5,
+      "plotWeight": 3,
+      "emotionType": "甜虐、心动、回甜、婚恋",
+      "quitRisk": {
+        "range": "前10%-25%",
+        "reason": "前期需要适应人物性格和古言婚恋节奏。"
+      },
+      "stickUntil": {
+        "displayText": "建议至少读到人物关系、核心处境和第一个明显转折都展开后再判断。",
+        "chapter": null,
+        "progressRange": "10%-25%",
+        "confidence": "低"
+      }
+    },
+    "dropDecision": {
+      "ifAtBeginning": "刚开始读不下去时，先判断自己是否接受这本书的题材、人物关系和情绪基调，不要只用开局几章判断。",
+      "ifAtQuitRiskRange": "如果卡在弃文风险区，建议继续到第一个明显关系转折或主线转折出现后再判断。",
+      "safeToDropAfter": "如果到建议坚持区间后仍不喜欢人物性格、关系设定或主要情绪方向，可以合理放弃。"
+    },
+    "highlightMap": [
+      {
+        "progressRange": "前10%",
+        "chapterRange": "待核验",
+        "type": "处境建立",
+        "spoilerFreeText": "千金裘这一阶段重点看人物处境、题材氛围和人物关系、核心处境和古言规则的初始钩子，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让人物处境、题材氛围和人物关系、核心处境和古言规则的初始钩子变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "好奇",
+          "代入",
+          "期待"
+        ],
+        "importance": 4,
+        "confidence": "中"
+      },
+      {
+        "progressRange": "10%-25%",
+        "chapterRange": "待核验",
+        "type": "关系/规则转折",
+        "spoilerFreeText": "千金裘这一阶段重点看人物关系、核心处境和古言规则开始变得明确，读者能看出这本文的主要吸引力，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让人物关系、核心处境和古言规则开始变得明确，读者能看出这本文的主要吸引力变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "上头",
+          "心动",
+          "期待"
+        ],
+        "importance": 5,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "25%-50%",
+        "chapterRange": "待核验",
+        "type": "主线展开",
+        "spoilerFreeText": "千金裘这一阶段重点看人物选择、关系压力和主要剧情线进一步推进，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让人物选择、关系压力和主要剧情线进一步推进变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "沉浸",
+          "心疼",
+          "成长"
+        ],
+        "importance": 5,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "50%-75%",
+        "chapterRange": "待核验",
+        "type": "情绪回收",
+        "spoilerFreeText": "千金裘这一阶段重点看前期铺垫开始回收，甜虐、权谋或成长线更集中，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让前期铺垫开始回收，甜虐、权谋或成长线更集中变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "释然",
+          "紧张",
+          "回甜"
+        ],
+        "importance": 4,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "后25%",
+        "chapterRange": "待核验",
+        "type": "结局收束",
+        "spoilerFreeText": "千金裘这一阶段重点看主要关系、人物选择和情绪落点逐渐收束，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让主要关系、人物选择和情绪落点逐渐收束变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "满足",
+          "释然",
+          "回收"
+        ],
+        "importance": 4,
+        "confidence": "低"
+      }
+    ],
+    "expectationWarnings": {
+      "slowBurn": "中等慢热",
+      "abuseLevel": "较重",
+      "misunderstandingLevel": "轻微/中等",
+      "endingConcern": "结局口径待核验",
+      "controversy": "主要争议可能在人物设定、情绪强度、题材口味或节奏接受度，需结合读者讨论继续核验。",
+      "otherWarnings": [
+        "章节节点待核验",
+        "不展示小说正文",
+        "高光描述为不剧透类型化表达"
+      ]
+    },
+    "routes": {
+      "forTrialReader": "建议至少读到关系线、情绪钩子或第一个明显转折出现后再判断，不要只凭开局几章决定。",
+      "forPlotReader": "剧情党重点看人物选择、成长压力、家庭/权力结构和关系变化。",
+      "forCPReader": "适合关注CP关系、暗恋、拉扯、回甜、救赎或婚恋经营的读者，建议重点看互动和情绪递进。",
+      "ifYouWantToDrop": "如果读到建议坚持区间后仍不吃人物性格、关系设定或情绪基调，可以合理放弃。"
+    },
+    "verification": {
+      "basicInfo": "中",
+      "chapterNodes": "低",
+      "readerDiscussion": "中",
+      "notes": [
+        "基础信息需平台核验",
+        "章节节点待人工核验",
+        "高光描述为不剧透类型化表达，不包含小说正文"
+      ]
+    }
+  },
+  {
+    "id": "book_080",
+    "title": "汴京小医娘",
+    "author": "姒锦",
+    "platform": "晋江文学城/待核验",
+    "officialUrl": "",
+    "status": "已完结",
+    "frontDisplayBadges": [
+      "古言职业线",
+      "女主成长",
+      "轻悬疑",
+      "CP张力中",
+      "开局易入"
+    ],
+    "hookSummary": "如果你想看以古代医娘职业线和成长线为核心，适合喜欢古言职业、轻悬疑和女主独立感的读者。",
+    "basic": {
+      "categories": [
+        "古言",
+        "职业",
+        "轻悬疑",
+        "成长"
+      ],
+      "tags": [
+        "古言",
+        "医娘",
+        "职业线",
+        "女性成长",
+        "轻悬疑",
+        "CP",
+        "剧情"
+      ],
+      "lengthType": "中篇",
+      "totalChapters": null,
+      "endingType": "HE/待核验",
+      "endingConfidence": "中"
+    },
+    "readerFit": {
+      "oneSentenceIntro": "一部以古言、职业为主要气质的作品，适合喜欢古言职业线和女主成长的读者。",
+      "suitableFor": [
+        "喜欢古言职业线",
+        "喜欢女主成长",
+        "喜欢古言或古风氛围",
+        "能接受人物关系铺垫"
+      ],
+      "notSuitableFor": [
+        "只想看现代校园甜文",
+        "不喜欢古言语境",
+        "不耐烦人物关系铺陈",
+        "想看快节奏无脑爽文"
+      ],
+      "readerTypes": [
+        "古言读者",
+        "剧情党",
+        "女性成长线读者",
+        "甜虐党"
+      ]
+    },
+    "readingExperience": {
+      "slowBurnLevel": 3,
+      "plotComplexity": 3,
+      "romanceWeight": 3,
+      "plotWeight": 4,
+      "emotionType": "权谋、成长、克制、剧情",
+      "quitRisk": {
+        "range": "前10%-25%",
+        "reason": "前期需要适应职业线、古言环境和轻悬疑节奏。"
+      },
+      "stickUntil": {
+        "displayText": "建议至少读到人物关系、核心处境和第一个明显转折都展开后再判断。",
+        "chapter": null,
+        "progressRange": "10%-25%",
+        "confidence": "低"
+      }
+    },
+    "dropDecision": {
+      "ifAtBeginning": "刚开始读不下去时，先判断自己是否接受这本书的题材、人物关系和情绪基调，不要只用开局几章判断。",
+      "ifAtQuitRiskRange": "如果卡在弃文风险区，建议继续到第一个明显关系转折或主线转折出现后再判断。",
+      "safeToDropAfter": "如果到建议坚持区间后仍不喜欢人物性格、关系设定或主要情绪方向，可以合理放弃。"
+    },
+    "highlightMap": [
+      {
+        "progressRange": "前10%",
+        "chapterRange": "待核验",
+        "type": "处境建立",
+        "spoilerFreeText": "汴京小医娘这一阶段重点看人物处境、题材氛围和人物关系、核心处境和古言规则的初始钩子，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让人物处境、题材氛围和人物关系、核心处境和古言规则的初始钩子变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "好奇",
+          "代入",
+          "期待"
+        ],
+        "importance": 4,
+        "confidence": "中"
+      },
+      {
+        "progressRange": "10%-25%",
+        "chapterRange": "待核验",
+        "type": "关系/规则转折",
+        "spoilerFreeText": "汴京小医娘这一阶段重点看人物关系、核心处境和古言规则开始变得明确，读者能看出这本文的主要吸引力，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让人物关系、核心处境和古言规则开始变得明确，读者能看出这本文的主要吸引力变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "上头",
+          "心动",
+          "期待"
+        ],
+        "importance": 5,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "25%-50%",
+        "chapterRange": "待核验",
+        "type": "主线展开",
+        "spoilerFreeText": "汴京小医娘这一阶段重点看人物选择、关系压力和主要剧情线进一步推进，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让人物选择、关系压力和主要剧情线进一步推进变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "沉浸",
+          "心疼",
+          "成长"
+        ],
+        "importance": 5,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "50%-75%",
+        "chapterRange": "待核验",
+        "type": "情绪回收",
+        "spoilerFreeText": "汴京小医娘这一阶段重点看前期铺垫开始回收，甜虐、权谋或成长线更集中，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让前期铺垫开始回收，甜虐、权谋或成长线更集中变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "释然",
+          "紧张",
+          "回甜"
+        ],
+        "importance": 4,
+        "confidence": "低"
+      },
+      {
+        "progressRange": "后25%",
+        "chapterRange": "待核验",
+        "type": "结局收束",
+        "spoilerFreeText": "汴京小医娘这一阶段重点看主要关系、人物选择和情绪落点逐渐收束，描述保持不剧透，只提示阅读体验和情绪方向。",
+        "lightSpoilerText": "轻微提示：这一阶段会让主要关系、人物选择和情绪落点逐渐收束变得更清楚，但不涉及具体正文和关键反转。",
+        "emotion": [
+          "满足",
+          "释然",
+          "回收"
+        ],
+        "importance": 4,
+        "confidence": "低"
+      }
+    ],
+    "expectationWarnings": {
+      "slowBurn": "中等慢热",
+      "abuseLevel": "轻微/中等",
+      "misunderstandingLevel": "轻微/中等",
+      "endingConcern": "结局口径待核验",
+      "controversy": "主要争议可能在人物设定、情绪强度、题材口味或节奏接受度，需结合读者讨论继续核验。",
+      "otherWarnings": [
+        "章节节点待核验",
+        "不展示小说正文",
+        "高光描述为不剧透类型化表达"
+      ]
+    },
+    "routes": {
+      "forTrialReader": "建议至少读到关系线、情绪钩子或第一个明显转折出现后再判断，不要只凭开局几章决定。",
+      "forPlotReader": "剧情党重点看人物选择、成长压力、家庭/权力结构和关系变化。",
+      "forCPReader": "适合关注CP关系、暗恋、拉扯、回甜、救赎或婚恋经营的读者，建议重点看互动和情绪递进。",
+      "ifYouWantToDrop": "如果读到建议坚持区间后仍不吃人物性格、关系设定或情绪基调，可以合理放弃。"
+    },
+    "verification": {
+      "basicInfo": "中",
+      "chapterNodes": "低",
+      "readerDiscussion": "中",
+      "notes": [
+        "基础信息需平台核验",
+        "章节节点待人工核验",
+        "高光描述为不剧透类型化表达，不包含小说正文"
+      ]
+    }
   }
 ]
