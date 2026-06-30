@@ -4,7 +4,7 @@ export default function AboutPage() {
   return (
     <div className="max-w-3xl mx-auto px-4 py-12">
       <h1 className="text-3xl font-serif font-bold text-ink mb-2">关于入坑地图</h1>
-      <p className="text-sm text-ink-muted mb-6">个人产品项目 · vibe coding · 用于简历展示</p>
+      <p className="text-sm text-ink-muted mb-6">个人产品项目 · vibe coding · 不剧透阅读决策辅助工具</p>
 
       <div className="space-y-6 text-ink-muted leading-relaxed">
         <section className="bg-card border border-paper-dark/60 rounded-xl p-6">
@@ -65,9 +65,7 @@ export default function AboutPage() {
           <ul className="list-disc pl-5 space-y-1 text-sm">
             <li>React + Vite 纯前端，无后端、无登录、无数据库；</li>
             <li>
-              运行时数据来自本地{' '}
-              <code className="text-xs bg-paper-dark/50 px-1 rounded">src/data/books.seed.json</code>
-              ，当前书库 80 本；
+              运行时数据来自本地 JSON 文件，新增书目后会自动进入书库、推荐和进度判断流程；
             </li>
             <li>收藏、阅读状态保存在浏览器 localStorage，不上传服务器；</li>
             <li>部署于 GitHub Pages，同时支持 Vercel 访问；</li>
